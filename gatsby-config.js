@@ -1,6 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'AWS Users Group, Bengaluru {AWSUGBLR}',
+    description: `AWS Users Group Bengaluru Blog`,
+    siteUrl: `http://awsugblr.in/`
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -26,6 +28,9 @@ module.exports = {
       options: {
         plugins: [],
       },
+    },
+    {
+      resolve: `gatsby-plugin-feed`
     },
     {
       resolve: 'gatsby-plugin-netlify-cms',
