@@ -2,8 +2,7 @@
 templateKey: about-page
 title: About AWSUGBLR
 ---
-AWSUGBLR is volunteer driven, group of passionate Amazon Web Services (aka [AWS](https://aws.amazon.com)) {Developers, Architects, Users, Evangelists} who meet to {share best practices, discuss up coming features, pit falls, etc}
- in Bengaluru. AWSUGBLR meets regularly and until now, the meetups were not documented. This blog aims to capture our learning and share them.
+AWSUGBLR is volunteer driven, group of passionate Amazon Web Services (aka [AWS](https://aws.amazon.com)) {Developers, Architects, Users, Evangelists} who meet to {share best practices, discuss up coming features, pit falls, etc} in Bengaluru. AWSUGBLR meets regularly and until now, the meetups were not documented. This blog aims to capture our learning and share them.
 
 Community-based learning is the best way to enhance the concepts being taught by connecting with enthusiasts in person, thereby sharing first-hand experiences and familiar, accessible examples.
 
