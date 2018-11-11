@@ -24,7 +24,8 @@
     "react": "^16.2.0",
     "react-dom": "^16.4.1",
     "react-helmet": "^5.2.0",
-    "uuid": "^3.2.1"
+    "uuid": "^3.2.1",
+    "gatsby-plugin-feed": "^2.0.9"
   },
   "keywords": [
     "gatsby"
