@@ -22,6 +22,15 @@ The November meetup of AWSUGBLR will feature exciting list of international spea
 
 ### Location
 
+Amazon Internet Services Private Ltd,
+Prestige Trade Tower
+2nd Floorp 
+Palace Rd, 
+High Grounds, 
+Sampangi Rama Nagar, 
+Bengaluru, Karnataka 560001
+
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.781353774177!2d77.58551361513871!3d12.985831890846482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae166b0823b12f%3A0xa0def66383eae1ce!2sPrestige+Trade+Tower%2C+Palace+Rd%2C+High+Grounds%2C+Sampangi+Rama+Nagar%2C+Bengaluru%2C+Karnataka+560001!5e0!3m2!1sen!2sin!4v1542077908066" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
