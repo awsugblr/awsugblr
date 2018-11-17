@@ -7,3 +7,17 @@ AWSUGBLR is volunteer driven, group of passionate Amazon Web Services (aka [AWS]
 Community-based learning is the best way to enhance the concepts being taught by connecting with enthusiasts in person, thereby sharing first-hand experiences and familiar, accessible examples.
 
 All skills levels are welcome to help accomplish our motto of learning, sharing and networking. Let’s join hands to empower this tech community to make it bigger and better!
+
+# Get in touch
+
+You can reach us on any of the social media networks:
+
+* [Meetup](https://meetup.com/awsugblr)
+* [Twitter](https://twitter.com/awsugblr)
+* [Facebook](https://facebook.com/awsugblr)
+* [Telegram](https://t.me/awsugblr)
+* [LinkedIn](https://linkedin.com/in/awsugblr)
+
+
+
+or email us: <mailto:info@awsugblr.in>
