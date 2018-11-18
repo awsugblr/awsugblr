@@ -108,6 +108,7 @@ Pillars of Cloud Financial Management Fundamentals
 The AWSUGBLR organizers thanks
 
 * The speakers: Spencer, Chandra, Saket, Gaurav, Neeraj for explaining the various concepts and use cases
+* Attendees for taking time out of their Saturday and joining us for the meet
 * Amazon Internet Services Private Limited for hosting the meetup and providing stickers, tea/coffee and lunch
 * [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) and [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for contributing to the meetup report.
 
