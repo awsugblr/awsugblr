@@ -50,12 +50,12 @@ Spot Instances Features:
 
 #### Some features of Spot explained
 
-* AWS Instance Scheduler: It enables customers to configure custom start and stop schedules for EC2 and RDS instances.
-* Reserved instances convertible class:  It enables to exchange one or more Convertible Reserved Instances for another Convertible Reserved Instance with new attributes (instance family, instance type, platform, scope and tenancy).
-* AWS Budget: it gives the ability to set custom budgets that alert, when your costs or usage exceed your budgeted amount. One can also use AWS Budgets to set RI utilization or coverage targets and receive alerts when utilization drops below the threshold you define. Reserved instances alerts support Amazon EC2, Amazon RDS, Amazon Redshift, and Amazon ElastiCache reservations.
-* Spot bid adviser:  It help to determine an Amazon EC2 Spot instance bid price that suits our needs.
-* Spot instance pool and Step scaling metrics: A Spot Instance pool is a set of unused EC2 instances with the same instance type, operating system, Availability Zone, and network platform. 
-* Hibernating a Spot instance: When a Spot Instance is hibernated by the Spot service, the EBS volumes are preserved and instance memory (RAM) is preserved on the root volume. The private IP addresses of the instance are also preserved. Instance storage volumes and public IP addresses, other than Elastic IP addresses, are not preserved.
+* **AWS Instance Scheduler**: It enables customers to configure custom start and stop schedules for EC2 and RDS instances.
+* **Reserved instances convertible class**:  It enables to exchange one or more Convertible Reserved Instances for another Convertible Reserved Instance with new attributes (instance family, instance type, platform, scope and tenancy).
+* **AWS Budget**: it gives the ability to set custom budgets that alert, when your costs or usage exceed your budgeted amount. One can also use AWS Budgets to set RI utilization or coverage targets and receive alerts when utilization drops below the threshold you define. Reserved instances alerts support Amazon EC2, Amazon RDS, Amazon Redshift, and Amazon ElastiCache reservations.
+* **Spot bid adviser**:  It help to determine an Amazon EC2 Spot instance bid price that suits our needs.
+* **Spot instance pool and Step scaling metrics**: A Spot Instance pool is a set of unused EC2 instances with the same instance type, operating system, Availability Zone, and network platform. 
+* **Hibernating a Spot instance**: When a Spot Instance is hibernated by the Spot service, the EBS volumes are preserved and instance memory (RAM) is preserved on the root volume. The private IP addresses of the instance are also preserved. Instance storage volumes and public IP addresses, other than Elastic IP addresses, are not preserved.
 
 ### Summary of the talks
 
@@ -151,12 +151,18 @@ Issues that SpotInst can Solve:
 * Single Point of Failure
 * Stateful workloads
 
+### Slides
+
+Links to the slides:
+
+* [Cost Optimization](https://www.slideshare.net/AWSUsersGroupBengalu/cost-optimization-in-aws)
+* [EC2 Spot Instances](https://www.slideshare.net/AWSUsersGroupBengalu/amazon-ec2-spot-instances)
+
 AWSUGBLR organizers would like to thank
 
 * The speakers: Spencer, Chandra, Saket, Gaurav, Neeraj for explaining the various concepts and use cases
 * Attendees for taking time out of their Saturday and joining us for the meet
 * Amazon Internet Services Private Limited for hosting the meetup and providing stickers, tea/coffee and lunch
-* [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) and [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for contributing to the meetup report.
+* [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) for contributing to the meetup report and [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for supplemental inputs
 
-Stay tuned for upcoming meetups! \
-For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
+Stay tuned for upcoming meetups!  For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
