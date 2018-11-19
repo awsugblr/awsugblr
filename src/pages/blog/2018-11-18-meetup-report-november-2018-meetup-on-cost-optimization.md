@@ -65,44 +65,14 @@ Pillars of Cloud Financial Management Fundamentals
 
 * Right sizing
   * Select the cheapest instance, right CPU / RAM & so on
-  * Tools that help you achieve right size
-    * AWS Trusted Advisor & AWS CloudWatch
-    * AWS EC2 Right-Sizing solution
-    * Netflix Janitor Monkey
-    * 3rd party tools (including but not limited to)
-      * Densify
-      * STAX
-      * CloudHealth
-      * Cloudability
 * Elasticity
   * 70% savings can be achieved by using Elasticity
-  * Tools that help you architecture to be highly elastic 
-    * AWS Auto Scaling & EC2 fleet
-    * AWS CloudWatch
-    * AWS Instance Scheduler 
-    * 3rd party tools (including but not limited to)
-      * Gorilla Stack
-      * Skeddly
-      * ParkMyCloud
 * Pricing Models
   * OnDemand, Spot & Reserved
   * RIs are like bulk discount coupon-booklets
   * You should be able to convert the instance type from RI to OnDemand & vice versa as many times as possible without any downtime. 
   * CloudHealth makes the recommendation to covert your instance type.
-  * Tools that help with pricing models
-    * AWS Cost Explorer
-      * RI Recommendations
-      * RI Coverage / Utilization
-    * AWS Budgets
 * Storage Classes
-  * Tools that help you to choose right storage class
-    * AWS S3 Analytics
-    * AWS Trusted Advisor
-    * 3rd party tools (including but not limited to)
-      * CloudHealth
-      * Cloudability
-      * CloudCheckr
-      * STAX
 * Culture & Mechanisms
   * Culture & Mechanisms are as important as technical and financial constructs on cost savings. 
   * Tagging resources & defining cost metrics (e.g. unit cost) are key to efficient behaviour and it can be used to 
@@ -110,11 +80,6 @@ Pillars of Cloud Financial Management Fundamentals
     * Instance Utilization metrics (right size!)
     * Peak vs Off-peak cost usage
     * RI coverage and utilization, Spot usage
-  * Tools that would support you in this line are
-    * AWS Cost Explorer
-    * AWS Budget
-    * AWS Cost & Usage Reports
-    * AWS Config & Lambda
 * Design for cost
   * Spot instances can be used at various places like prod & non-prod workloads, CI / CD etc. 
   * Pay attention to the below norms to design with cost efficiency in mind
@@ -125,11 +90,7 @@ Pillars of Cloud Financial Management Fundamentals
     * Containerization
     * OpenSource
 
-3 key take aways from [Spencer Marley](https://www.linkedin.com/in/spencermarley/) are 
-
-1. Use Cost Explorer to analyze
-2. Reserve, Review, Rinse & Repeat should be the moto
-3. Watch the trainings on youtube & A Cloud Guru 
+3 key take aways from [Spencer Marley](https://www.linkedin.com/in/spencermarley/) are to use Cost Explorer to analyze and have the moto as _Reserve, Review, Rinse & Repeat_   
 
 ##### AWS EC2 Spot instances by [Chakravarthy(Chakra) Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/)
 
@@ -147,13 +108,7 @@ Pillars of Cloud Financial Management Fundamentals
     * Draining from ELB
     * Using stop-start and hibernate to restart faster
     * Interruption notice via CloudWatch events or manually polling instance metadata
-* Amazon EC2 spots work well with 
-  * AWS Auto Scaling
-  * AWS Batch
-  * Amazon ECR
-  * Amazon ECS
-  * AWS OpsWorks
-  * AWS CF
+* Amazon EC2 spots work well with AWS Auto Scaling, AWS Batch, Amazon ECR, Amazon ECS, AWS OpsWorks, AWS CF
 * Spot Instance Advisor 
   * Spot Instance Advisor gives you a table with instance types & their likely hood of interruption - low; medium; high.\
     If the value for the specific instance type is _low_, then you can choose to use that instance type for spot fleet.
@@ -167,15 +122,11 @@ Pillars of Cloud Financial Management Fundamentals
     * Multiple instance specifications (i.e launch template can be used with spot instances
     * Instance weight - scale according to input app needs (i.e. increasing # vCPUs)
     * Fleet CloudWatch metrics (instances within the fleet)
-    * 
   * Amazon EC2 fleet:
     * Simplifies provisioning of EC2 capacity across different instance types, AZs and purchase models with a single API
     * Can have spot, on-demand, reserved 
     * Spot blocks: Define duration of workload (1-6 hours) but not highly discounted as you are blocking / reserving for specified duration.
-  * Interruption Behaviour
-    * Shutdown
-    * Stop
-    * Hibernate
+  * Interruption Behaviour could be shutdown, stop or hibernate
 
 ##### SpotInst by [Saket Agarwal](https://www.linkedin.com/in/saket-agarwal-51254265/)
 
