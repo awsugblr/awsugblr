@@ -44,9 +44,6 @@ Spot Instances Features:
 
 * Cost saving up to 90% (Low cost)
 * With options of termination (default option), start/stop and hibernate (New feature), one can run workloads without interruptions 
-* Easy to launch (Launch template)
-* Speed up work flows and scale application
-* Tightly integrated with other AWS Services (Usage flexibility)
 
 #### Some features of Spot explained
 
@@ -69,26 +66,12 @@ Pillars of Cloud Financial Management Fundamentals
   * 70% savings can be achieved by using Elasticity
 * Pricing Models
   * OnDemand, Spot & Reserved
-  * RIs are like bulk discount coupon-booklets
   * You should be able to convert the instance type from RI to OnDemand & vice versa as many times as possible without any downtime. 
-  * CloudHealth makes the recommendation to covert your instance type.
 * Storage Classes
 * Culture & Mechanisms
   * Culture & Mechanisms are as important as technical and financial constructs on cost savings. 
-  * Tagging resources & defining cost metrics (e.g. unit cost) are key to efficient behaviour and it can be used to 
-    * Analyze spend by BU
-    * Instance Utilization metrics (right size!)
-    * Peak vs Off-peak cost usage
-    * RI coverage and utilization, Spot usage
 * Design for cost
   * Spot instances can be used at various places like prod & non-prod workloads, CI / CD etc. 
-  * Pay attention to the below norms to design with cost efficiency in mind
-    * Consolidated Billing
-    * Serverless
-    * Unused Elastic IPs
-    * AWS CloudFormation
-    * Containerization
-    * OpenSource
 
 3 key take aways from [Spencer Marley](https://www.linkedin.com/in/spencermarley/) are to use Cost Explorer to analyze and have the moto as _Reserve, Review, Rinse & Repeat_   
 
@@ -108,25 +91,13 @@ Pillars of Cloud Financial Management Fundamentals
     * Draining from ELB
     * Using stop-start and hibernate to restart faster
     * Interruption notice via CloudWatch events or manually polling instance metadata
-* Amazon EC2 spots work well with AWS Auto Scaling, AWS Batch, Amazon ECR, Amazon ECS, AWS OpsWorks, AWS CF
-* Spot Instance Advisor 
-  * Spot Instance Advisor gives you a table with instance types & their likely hood of interruption - low; medium; high.\
-    If the value for the specific instance type is _low_, then you can choose to use that instance type for spot fleet.
 * Basically there are two types of fleet: Spot fleet & Amazon EC2 fleet
   * Spot fleet:
     * Onetime request or maintain collection of EC2 instances
     * Allocation strategy: Lowest price or diversified across n number of pools
-    * Integrated with ECS
-    * Auto Scaling with target tracking or scheduled scaling
-    * On-demand capacity
-    * Multiple instance specifications (i.e launch template can be used with spot instances
-    * Instance weight - scale according to input app needs (i.e. increasing # vCPUs)
-    * Fleet CloudWatch metrics (instances within the fleet)
   * Amazon EC2 fleet:
     * Simplifies provisioning of EC2 capacity across different instance types, AZs and purchase models with a single API
-    * Can have spot, on-demand, reserved 
     * Spot blocks: Define duration of workload (1-6 hours) but not highly discounted as you are blocking / reserving for specified duration.
-  * Interruption Behaviour could be shutdown, stop or hibernate
 
 ##### SpotInst by [Saket Agarwal](https://www.linkedin.com/in/saket-agarwal-51254265/)
 
@@ -134,29 +105,19 @@ Pillars of Cloud Financial Management Fundamentals
 
 * ELB Integration and Auto-scaling
 * Connection Draining
-* Cost-oriented termination policy
-* Elastic container service support
 * Enterprise-grade SLA
 * Average of 35 days of up time
 * Pricing model: 14-day free trial. SpotInst charges 20% of savings 
 
-Well, SpotInst challenges saying "If you launch via AWS, you will have 2 minutes interruption whereas 15 minutes when launched via SpotInst".
+SpotInst challenges saying "If you launch via AWS, you will have 2 minutes interruption whereas 15 minutes when launched via SpotInst".
 
-Issues that SpotInst can Solve:
-
-* Predication and Fall back to OnDemand
-* SLA facilitates you to run production workloads
-* Multi AZ and Multi Instance Type
-* Integration
-* Single Point of Failure
-* Stateful workloads
-
-### Slides
+### Slides & resources
 
 Links to the slides:
 
 * [Cost Optimization](https://www.slideshare.net/AWSUsersGroupBengalu/cost-optimization-in-aws)
 * [EC2 Spot Instances](https://www.slideshare.net/AWSUsersGroupBengalu/amazon-ec2-spot-instances)
+* [GitHub Repo for collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.](https://github.com/awslabs/ec2-spot-labs)
 
 AWSUGBLR organizers would like to thank
 
