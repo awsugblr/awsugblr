@@ -12,7 +12,7 @@ tags:
 ---
 The November 2018 meetup was held at the newly opened Amazon Internet Services Private Ltd office. 
 
-The session started with a Welcome note by [Sathyajith](https://www.linkedin.com/in/sathyabhat/), one of the co-organizers of AWS User Group Bengaluru. It was followed by a deep dive session on Cloud Financial Management Fundamentals by [Spencer Marley](https://www.linkedin.com/in/spencermarley/), Commercial Architect, Amazon Web Services. The second sesion was by [Chakravarthy(Chakra) Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/), Solutions Architect, EC2 Spot, Amazon Internet Services Private Ltd help us  to understand spot instances with interesting demo. Post this, we had [Saket Agarwal](https://www.linkedin.com/in/saket-agarwal-51254265/), Head of Business Development for Spotinst to give a brief demo about what SpotInst is and how SpotInst is helping customer with their managed services using spot instances. 
+The session started with a Welcome note by [Sathyajith](https://www.linkedin.com/in/sathyabhat/), co-organizer, AWS User Group Bengaluru. It was followed by a deep dive session on Cloud Financial Management Fundamentals by [Spencer Marley](https://www.linkedin.com/in/spencermarley/), Commercial Architect, Amazon Web Services. The second session was by [Chakravarthy(Chakra) Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/), Solutions Architect, EC2 Spot, Amazon Internet Services Private Ltd help us  to understand spot instances with interesting demo. Post this, we had [Saket Agarwal](https://www.linkedin.com/in/saket-agarwal-51254265/), Head of Business Development for Spotinst to give a brief demo about what **SpotInst** is and how SpotInst is helping customer with their managed services using spot instances. 
 
 ![Spencer with the attendeers](/img/spencer-crowd.jpg)
 
@@ -25,7 +25,7 @@ Finally, we had Neeraj from Moonfrog, and Gaurav from Boomerang Commerce explain
 Here are some key takeaways from the sessions:
 
 * Culture and mechanisms are as important as technical and financial constructs on cost savings. 
-* Use Spot Instances for the benefit of low cost but always remember that Spot Instance is a architecture best practice.
+* Perceive Spot Instances as a best architecture practice but not just a pricing model.
 
 ### Overview of Spot Instances
 
@@ -64,10 +64,72 @@ Spot Instances Features:
 Pillars of Cloud Financial Management Fundamentals
 
 * Right sizing
+  * Select the cheapest instance, right CPU / RAM & so on
+  * Tools that help you achieve right size
+    * AWS Trusted Advisor & AWS CloudWatch
+    * AWS EC2 Right-Sizing solution
+    * Netflix Janitor Monkey
+    * 3rd party tools (including but not limited to)
+      * Densify
+      * STAX
+      * CloudHealth
+      * Cloudability
 * Elasticity
-* Leverage available Pricing Models
-* Leverage Storage Classes
-* Culture and mechanisms are as important as technical and financial constructs on cost savings. 
+  * 70% savings can be achieved by using Elasticity
+  * Tools that help you architecture to be highly elastic 
+    * AWS Auto Scaling & EC2 fleet
+    * AWS CloudWatch
+    * AWS Instance Scheduler 
+    * 3rd party tools (including but not limited to)
+      * Gorilla Stack
+      * Skeddly
+      * ParkMyCloud
+* Pricing Models
+  * OnDemand, Spot & Reserved
+  * RIs are like bulk discount coupon-booklets
+  * You should be able to convert the instance type from RI to OnDemand & vice versa as many times as possible without any downtime. 
+  * CloudHealth makes the recommendation to covert your instance type.
+  * Tools that help with pricing models
+    * AWS Cost Explorer
+      * RI Recommendations
+      * RI Coverage / Utilization
+    * AWS Budgets
+* Storage Classes
+  * Tools that help you to choose right storage class
+    * AWS S3 Analytics
+    * AWS Trusted Advisor
+    * 3rd party tools (including but not limited to)
+      * CloudHealth
+      * Cloudability
+      * CloudCheckr
+      * STAX
+* Culture & Mechanisms
+  * Culture & Mechanisms are as important as technical and financial constructs on cost savings. 
+  * Tagging resources & defining cost metrics (e.g. unit cost) are key to efficient behaviour and it can be used to 
+    * Analyze spend by BU
+    * Instance Utilization metrics (right size!)
+    * Peak vs Off-peak cost usage
+    * RI coverage and utilization, Spot usage
+  * Tools that would support you in this line are
+    * AWS Cost Explorer
+    * AWS Budget
+    * AWS Cost & Usage Reports
+    * AWS Config & Lambda
+* Design for cost
+  * Spot instances can be used at various places like prod & non-prod workloads, CI / CD etc. 
+  * Pay attention to the below norms to design with cost efficiency in mind
+    * Consolidated Billing
+    * Serverless
+    * Unused Elastic IPs
+    * AWS CloudFormation
+    * Containerization
+    * OpenSource
+
+3 key take aways from [Spencer Marley](https://www.linkedin.com/in/spencermarley/) are 
+
+1. Use Cost Explorer to analyze
+2. Reserve, Review, Rinse & Repeat should be the moto
+3. Watch the trainings on youtube & A Cloud Guru 
 
 ##### AWS EC2 Spot instances by [Chakravarthy(Chakra) Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/)
 
@@ -75,9 +137,9 @@ Pillars of Cloud Financial Management Fundamentals
   * On Demand (pay for capacity by second, no commitments)
   * Reserved (significant discounts for commitments)
   * Spot ( spare EC2 capacity for up to 90% discounts, for fault tolerant, or time-insensitive workloads)
-* Simple rules of spot:
-  * Price changes infrequently based on supply and demand
-  * 2 minute warning when capacity is to be revoked
+* Simple rules of spot instance:
+  * Price changes infrequently based on supply and demand of the spare capacity 
+  * User just need to request a capacity and pay the current rate. When the demand increases, capacity will be revoked with a 2 minute warning.
 * Handling interruptions:  
   * 95% were not interrupted by AWS
   * Check for 2 minute termination notice and automate by
@@ -85,13 +147,35 @@ Pillars of Cloud Financial Management Fundamentals
     * Draining from ELB
     * Using stop-start and hibernate to restart faster
     * Interruption notice via CloudWatch events or manually polling instance metadata
-* Spot fleet:
-  * Onetime request or maintain collection of EC2 instances
-  * Allocation strategy: Lowest price or diversified across n number of pools
-* Amazon EC2 fleet:
-  * Simplifies provisioning of EC2 capacity across different instance types, AZs, purchase models
-  * Can have spot, on-demand, reserved 
-  * Spot blocks: Defined duration of workload (1-6 hours)
+* Amazon EC2 spots work well with 
+  * AWS Auto Scaling
+  * AWS Batch
+  * Amazon ECR
+  * Amazon ECS
+  * AWS OpsWorks
+  * AWS CF
+* Spot Instance Advisor 
+  * Spot Instance Advisor gives you a table with instance types & their likely hood of interruption - low; medium; high.\
+    If the value for the specific instance type is _low_, then you can choose to use that instance type for spot fleet.
+* Basically there are two types of fleet: Spot fleet & Amazon EC2 fleet
+  * Spot fleet:
+    * Onetime request or maintain collection of EC2 instances
+    * Allocation strategy: Lowest price or diversified across n number of pools
+    * Integrated with ECS
+    * Auto Scaling with target tracking or scheduled scaling
+    * On-demand capacity
+    * Multiple instance specifications (i.e launch template can be used with spot instances
+    * Instance weight - scale according to input app needs (i.e. increasing # vCPUs)
+    * Fleet CloudWatch metrics (instances within the fleet)
+    * 
+  * Amazon EC2 fleet:
+    * Simplifies provisioning of EC2 capacity across different instance types, AZs and purchase models with a single API
+    * Can have spot, on-demand, reserved 
+    * Spot blocks: Define duration of workload (1-6 hours) but not highly discounted as you are blocking / reserving for specified duration.
+  * Interruption Behaviour
+    * Shutdown
+    * Stop
+    * Hibernate
 
 ##### SpotInst by [Saket Agarwal](https://www.linkedin.com/in/saket-agarwal-51254265/)
 
@@ -105,11 +189,23 @@ Pillars of Cloud Financial Management Fundamentals
 * Average of 35 days of up time
 * Pricing model: 14-day free trial. SpotInst charges 20% of savings 
 
-The AWSUGBLR organizers thanks
+Well, SpotInst challenges saying "If you launch via AWS, you will have 2 minutes interruption whereas 15 minutes when launched via SpotInst".
+
+Issues that SpotInst can Solve:
+
+* Predication and Fall back to OnDemand
+* SLA facilitates you to run production workloads
+* Multi AZ and Multi Instance Type
+* Integration
+* Single Point of Failure
+* Stateful workloads
+
+AWSUGBLR organizers would like to thank
 
 * The speakers: Spencer, Chandra, Saket, Gaurav, Neeraj for explaining the various concepts and use cases
 * Attendees for taking time out of their Saturday and joining us for the meet
 * Amazon Internet Services Private Limited for hosting the meetup and providing stickers, tea/coffee and lunch
 * [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) and [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for contributing to the meetup report.
 
-Stay tuned for upcoming meetups. For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
+Stay tuned for upcoming meetups! \
+For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
