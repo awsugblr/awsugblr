@@ -73,7 +73,7 @@ Pillars of Cloud Financial Management Fundamentals
 * Design for cost
   * Spot instances can be used at various places like prod & non-prod workloads, CI / CD etc. 
 
-3 key take aways from [Spencer Marley](https://www.linkedin.com/in/spencermarley/) are to use Cost Explorer to analyze and have the moto as _Reserve, Review, Rinse & Repeat_   
+Key take aways from [Spencer Marley](https://www.linkedin.com/in/spencermarley/) are to use Cost Explorer to analyze and have the moto as _Reserve, Review, Rinse & Repeat_   
 
 ##### AWS EC2 Spot instances by [Chakravarthy(Chakra) Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/)
 
