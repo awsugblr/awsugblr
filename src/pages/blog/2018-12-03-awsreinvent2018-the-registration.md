@@ -8,8 +8,6 @@ tags:
 ---
 The magnanimity of the Registration counter and the SWAG counter reassured that #AWSReInvent2018 Team is all set to receive 50,000+ attendees.
 
+![null](/img/registration.png)
 
-
-![](/img/registration.png)
-
-![](/img/registration_2.png)
+![null](/img/registration_2.png)
