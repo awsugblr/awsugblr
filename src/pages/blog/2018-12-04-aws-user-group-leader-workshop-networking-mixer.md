@@ -16,6 +16,6 @@ This event was from  4PM-8PM Wednesday, November 28 at the Rockhouse restaurant 
 
 **Gallery**
 
-![](/img/ug_1.png)
+![null](/img/ug_1.png)
 
-![]()
+![null](/img/ug_2.png)
