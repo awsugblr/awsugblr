@@ -10,7 +10,7 @@ Though [Jeevan Dongre](https://www.linkedin.com/in/sathyabhat/) and [Rahul Jain]
 
 I am pleased, humbled and honoured for this recognition from Amazon and all the credit goes to AWS Community Hero [Jeevan Dongre](https://www.linkedin.com/in/sathyabhat/) and our newest Community Hero [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/) for laying a conducive platform for community lead learning and sharing through #awsugblr.
 
-Thanks a lot to Rahul Jain for his support to AWS User Group Bengaluru.
+Thanks a lot to Rahul Jain for his support to AWS User Group Bengaluru and many thanks to [Ross Barrich](https://www.linkedin.com/in/rossbarich/) for the invite, defining the schedule with lots of pleasant surprises hidden.
 
 My heartfelt thanks to my boss [Vynessa Alexander](https://www.linkedin.com/in/vynessa-alexander-5742029/), Vice President, GT Nexus, an Infor company, who stood by me positively all times for the various volunteering activities that I have been involved with.
 
@@ -21,8 +21,6 @@ Reached a day early to Vegas on 23rd Nov 2018 evening to settle down a bit with 
 Started the Saturday morning to test the waters and the walking / commute involved across venues & to plan for the sessions, walked from New York New York & Casino to MGM Grand, then to Aria, The Park MGM and Vdara. Well, enough for the day and I am sure AWS would have planned much better for us considering all logistics, hence set out for an Express tour to Red Rock Canyon which was an hour drive from the Vegas City. To our surprise, the park was closed & only the BLM who is responsible for the maintenance and administration of the read rock conservation area would know the reason :) . It was sad that our tour group couldn’t account to the count of 2 million people who have visited the conservation area so far. Well, more than what we saw, learnt a lot about the mountains, Vegas city and bit of history from our humorous tour guide who redefined Speed Bumps as Sleeping Police. 
 
 For the lone wandered in the deserted city (rather the Desert City) exploring the Strip all alone on Saturday, [Ana Luca Diegues](https://www.linkedin.com/in/anluca/) & [Zamira Jaupaj](https://www.linkedin.com/in/zamirajaupaj/) joined on the Sunday morning – 24th Nov 2018 and we all set out on a leisurely walk from **New York New York & Casino hotel** to **The Venetian** for AWS Re:Invent 2018 registration. That definitely turned about to be fun filled day out passing through all the Casinos on the way and clicking pictures at all attractions, stumbled upon Apple store in Caesars Palace where our friend got a Mac book with $90 discount as a Re:Invent 2018 attendee. Hurray!
-
-The magnanimity of the Registration counter and the SWAG counter reassured that #AWSReInvent2018 is all set to receive 50,000+ attendees.
 
 * _The Registration_
 * _Welcome Dinner _
