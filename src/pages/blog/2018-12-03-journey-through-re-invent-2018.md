@@ -13,7 +13,7 @@ Though [Jeevan Dongre](https://www.linkedin.com/in/sathyabhat/) and [Rahul Jain]
 
 I am pleased, humbled and honoured for this recognition from Amazon and all the credit goes to AWS Community Hero [Jeevan Dongre](https://www.linkedin.com/in/sathyabhat/) and our newest Community Hero [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/) for laying a conducive platform for community lead learning and sharing through #awsugblr.
 
-Thanks a lot to Rahul Jain for his support to AWS User Group Bengaluru and many thanks to [Ross Barrich](https://www.linkedin.com/in/rossbarich/) for extending the invite for us to attend the worlds biggest tech conference, defining the schedule with lots of pleasant surprises hidden.
+Thanks a lot to Rahul Jain for his support to AWS User Group Bengaluru and many thanks to [Ross Barrich](https://www.linkedin.com/in/rossbarich/) for the invite, defining the schedule with lots of pleasant surprises hidden.
 
 My heartfelt thanks to my boss [Vynessa Alexander](https://www.linkedin.com/in/vynessa-alexander-5742029/), Vice President, GT Nexus, an Infor company, who stood by me positively all times for the various volunteering activities that I have been involved with.
 
@@ -25,10 +25,10 @@ Started the Saturday morning to test the waters and the walking / commute involv
 
 For the lone wandered in the deserted city (rather the Desert City) exploring the Strip all alone on Saturday, [Ana Luca Diegues](https://www.linkedin.com/in/anluca/) & [Zamira Jaupaj](https://www.linkedin.com/in/zamirajaupaj/) joined on the Sunday morning – 24th Nov 2018 and we all set out on a leisurely walk from **New York New York & Casino hotel** to **The Venetian** for AWS Re:Invent 2018 registration. That definitely turned about to be fun filled day out passing through all the Casinos on the way and clicking pictures at all attractions, stumbled upon Apple store in Caesars Palace where our friend got a Mac book with $90 discount as a Re:Invent 2018 attendee. Hurray!
 
-* **[_The Registration_](https://www.awsugblr.in/blog/2018-12-03-awsreinvent2018-the-registration/)**
-* **[_Welcome Dinner to AWS Re:Invent 2018 Community Leader Diversity Scholarship recipients_](https://www.awsugblr.in/blog/2018-12-04-welcome-dinner-to-aws-re-invent-2018-community-leader-diversity-scholarship-recipients/)**
-* **[_AWS Community Heros Private Dinner_](https://www.awsugblr.in/blog/2018-12-04-awsreinvent2018-aws-community-hero-private-dinner/)**
-* **[_AWS User Group Leaders Workshop & Networking mixer_](https://www.awsugblr.in/blog/2018-12-04-aws-user-group-leader-workshop-networking-mixer/)**
+* _The Registration_
+* _Welcome Dinner to AWS Re:Invent 2018 Community Leader Diversity Scholarship recipients_
+* _AWS Community Heros Private Dinner_
+* _AWS User Group Leaders Workshop & Networking mixer_
 * _AWS User Group Booth_
 * _Keynotes by Andy Jassy_
 * _Keynotes by Werner Vogles_
@@ -40,6 +40,8 @@ For the lone wandered in the deserted city (rather the Desert City) exploring th
 
 \
 All work and no play would make jack a dull boy - Yes fun & fitness was on the floor; all day - over and above Midnight Madness, 4k & 8K Run, re:PLAY etc.
+
+![null](/img/games.png)
 
 > **Ask Me**
 >
