@@ -23,9 +23,9 @@ Started the Saturday morning to test the waters and the walking / commute involv
 For the lone wandered in the deserted city (rather the Desert City) exploring the Strip all alone on Saturday, [Ana Luca Diegues](https://www.linkedin.com/in/anluca/) & [Zamira Jaupaj](https://www.linkedin.com/in/zamirajaupaj/) joined on the Sunday morning – 24th Nov 2018 and we all set out on a leisurely walk from **New York New York & Casino hotel** to **The Venetian** for AWS Re:Invent 2018 registration. That definitely turned about to be fun filled day out passing through all the Casinos on the way and clicking pictures at all attractions, stumbled upon Apple store in Caesars Palace where our friend got a Mac book with $90 discount as a Re:Invent 2018 attendee. Hurray!
 
 * _The Registration_
-* _Welcome Dinner _
-* _Special Guest @ AWS Community Heros Private Dinner_
-* _AWS User Group Leaders around the world_
+* _Welcome Dinner to AWS Re:Invent 2018 Community Leader Diversity Scholarship recipients_
+* _AWS Community Heros Private Dinner_
+* _AWS User Group Leaders Workshop & Networking mixer_
 * _Keynotes by Andy Jassy_
 * _Keynotes by Werner Vogles_
 * _Sessions that Inspired me_
@@ -42,7 +42,9 @@ I would rather say that this crew was with us – the attendees – than with AW
 
 Some of their phrases with a pleasant smile are still humming in my ears -> 
 
-\    How do I get to the Shuttle to Venetian?\
+\\
+How do I get to the Shuttle to Venetian?
+\
       All the way down, take a right, out the door, walk straight to get onto the Shuttle to Venetian. 
 
 \    Curious to know how many staffs were deputed on the ground for such a seamless co-ordination.
