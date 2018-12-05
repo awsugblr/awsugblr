@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: AWSReInvent2018 - The Registration
 date: 2018-12-04T00:08:33.909Z
-description: Experience
+description: AWS ReInvent 2018 experience from Bhuvaneswari Subramani
 tags:
   - AWSReInvent2018
 ---
