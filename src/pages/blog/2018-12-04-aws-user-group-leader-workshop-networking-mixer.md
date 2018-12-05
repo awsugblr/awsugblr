@@ -18,7 +18,7 @@ Thanks to Ross for the well organized discussion platform for AWS User group lea
 
 **Gallery**
 
-![null](/img/ug_1.png)
+![](/img/ug_1.png)
 
 ![null](/img/ug_2.png)
 
