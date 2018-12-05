@@ -6,7 +6,7 @@ description: AWS ReInvent 2018 experience by Bhuvaneswari Subramani
 tags:
   - AWSReInvent2018
 ---
-![]()
+![](/img/reinvent.png)
 
 \
 Though [Jeevan Dongre](https://www.linkedin.com/in/sathyabhat/) and [Rahul Jain](https://www.linkedin.com/in/rahrj/) have sent the nomination for #WomenInTech months ago for Re:invent, the invite from Amazon to AWS Re:Invent 2018 as one among the 5 recipients across the globe for **AWS Re:Invent  2018 Community Leader Diversity Scholarship** recipient was a pleasant surprise.
@@ -29,27 +29,34 @@ For the lone wandered in the deserted city (rather the Desert City) exploring th
 * _Welcome Dinner to AWS Re:Invent 2018 Community Leader Diversity Scholarship recipients_
 * _AWS Community Heros Private Dinner_
 * _AWS User Group Leaders Workshop & Networking mixer_
+* _AWS User Group Booth_
 * _Keynotes by Andy Jassy_
 * _Keynotes by Werner Vogles_
 * _Sessions that Inspired me_
-  * _Diversity _
-  * _Lightening Talks_
+  * _Diversity Sessions_
   * EBC Meetings
   * Workshop
   * Overflow Sessions
 
-Ask Me\
-I am with aws  ->
+\
+All work and no play would make jack a dull boy - Yes fun & fitness was on the floor; all day - over and above Midnight Madness, 4k & 8K Run, re:PLAY etc.
+
+> **Ask Me**
+>
+> \
+>
+>
+> **I am with aws**
+>
+>   ->
 
 I would rather say that this crew was with us – the attendees – than with AWS all through the Re:Invent : 24th Nov 2018 to 30th Nov 2018, right from early morning to the mid-night either on roads in the open air with a broad smile on their face ignoring the chill wind or all the way up in the venue corridor to the conference halls.
 
-Some of their phrases with a pleasant smile are still humming in my ears -> 
-
-\\
-How do I get to the Shuttle to Venetian?
+Some of their phrases with a pleasant smile are still humming in my ears -> \
 \
-      All the way down, take a right, out the door, walk straight to get onto the Shuttle to Venetian. 
+How do I get to the Shuttle to Venetian?
+All the way down, take a right, out the door, walk straight to get onto the Shuttle to Venetian. 
 
-\    Curious to know how many staffs were deputed on the ground for such a seamless co-ordination.
+Curious to know how many staffs were deputed on the ground for such a seamless co-ordination.
 
-![]()
+![](/img/askme.png)
