@@ -25,11 +25,11 @@ Started the Saturday morning to test the waters and the walking / commute involv
 
 For the lone wandered in the deserted city (rather the Desert City) exploring the Strip all alone on Saturday, [Ana Luca Diegues](https://www.linkedin.com/in/anluca/) & [Zamira Jaupaj](https://www.linkedin.com/in/zamirajaupaj/) joined on the Sunday morning – 24th Nov 2018 and we all set out on a leisurely walk from **New York New York & Casino hotel** to **The Venetian** for AWS Re:Invent 2018 registration. That definitely turned about to be fun filled day out passing through all the Casinos on the way and clicking pictures at all attractions, stumbled upon Apple store in Caesars Palace where our friend got a Mac book with $90 discount as a Re:Invent 2018 attendee. Hurray!
 
-* __[_The Registration_](https://www.awsugblr.in/blog/2018-12-03-awsreinvent2018-the-registration/)__
+* **[_The Registration_](https://www.awsugblr.in/blog/2018-12-03-awsreinvent2018-the-registration/)**
 * __[_Welcome Dinner to AWS Re:Invent 2018 Community Leader Diversity Scholarship recipients_](https://www.awsugblr.in/blog/2018-12-04-welcome-dinner-to-aws-re-invent-2018-community-leader-diversity-scholarship-recipients/)
 * __[_AWS Community Heros Private Dinner_](https://www.awsugblr.in/blog/2018-12-04-awsreinvent2018-aws-community-hero-private-dinner/)
 * __[_AWS User Group Leaders Workshop & Networking mixer_](https://www.awsugblr.in/blog/2018-12-04-aws-user-group-leader-workshop-networking-mixer/)
-* __[_AWS User Group Booth_](https://www.awsugblr.in/blog/2018-12-05-aws-user-group-booth-re-invent-2018/)__
+* **[_AWS User Group Booth_](https://www.awsugblr.in/blog/2018-12-05-aws-user-group-booth-re-invent-2018/)**
 * _Keynotes by Andy Jassy_
 * _Keynotes by Werner Vogles_
 * _Sessions that Inspired me_
@@ -42,11 +42,9 @@ All work and no play would make jack a dull boy - Yes fun & fitness was on the f
 
 ![null](/img/games.png)
 
-> **Ask Me**
->
-> **I am with aws**
->
-> \->
+> **Ask Me**\
+> **I am with aws**\
+> ->
 
 I would rather say that this crew was with us – the attendees – than with AWS all through the Re:Invent : 24th Nov 2018 to 30th Nov 2018, right from early morning to the mid-night either on roads in the open air with a broad smile on their face ignoring the chill wind or all the way up in the venue corridor to the conference halls.
 
