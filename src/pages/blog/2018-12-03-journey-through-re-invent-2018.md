@@ -42,9 +42,11 @@ All work and no play would make jack a dull boy - Yes fun & fitness was on the f
 
 ![null](/img/games.png)
 
-> **Ask Me**\
-> **I am with aws**\
-> ->
+> **Ask Me**
+>
+> **I am with aws**
+>
+> \->
 
 I would rather say that this crew was with us – the attendees – than with AWS all through the Re:Invent : 24th Nov 2018 to 30th Nov 2018, right from early morning to the mid-night either on roads in the open air with a broad smile on their face ignoring the chill wind or all the way up in the venue corridor to the conference halls.
 
