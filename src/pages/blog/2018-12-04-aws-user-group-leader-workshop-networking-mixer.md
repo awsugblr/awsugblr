@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: AWSReInvent2018 - AWS User Group Leader Workshop & Networking Mixer
 date: 2018-12-04T23:24:34.079Z
-description: Experience
+description: AWS ReInvent 2018 experience by Bhuvaneswari Subramani
 tags:
   - AWSReInvent2018
 ---
