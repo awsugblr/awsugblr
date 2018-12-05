@@ -14,6 +14,8 @@ This event was from  4PM-8PM Wednesday, November 28 at the Rockhouse restaurant 
 
 §  6PM-8PM: Networking mixer with food and drinks
 
+Thanks to Ross for a very well organized discussion platform for AWS User group leads across the globe.
+
 **Gallery**
 
 ![null](/img/ug_1.png)
