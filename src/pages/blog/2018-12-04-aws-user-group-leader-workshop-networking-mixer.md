@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: AWSReInvent2018 - AWS User Group Leader Workshop & Networking Mixer
+title: 'AWSRe:Invent2018 - AWS User Group Leader Workshop & Networking Mixer'
 date: 2018-11-29T23:24:34.079Z
 description: Experience
 tags:
@@ -22,6 +22,6 @@ Thanks to Ross for the well organized discussion platform for AWS User group lea
 
 ![null](/img/ug_2.png)
 
-![](/img/ug_3.png)
+![null](/img/ug_3.png)
 
-![](/img/ug_4.png)
+![null](/img/ug_4.png)
