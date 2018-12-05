@@ -2,10 +2,13 @@
 templateKey: blog-post
 title: 'Journey through Re:Invent 2018'
 date: 2018-12-03T17:38:49.547Z
-description: Experience
+description: AWS ReInvent 2018 experience by Bhuvaneswari Subramani
 tags:
   - AWSReInvent2018
 ---
+![]()
+
+\
 Though [Jeevan Dongre](https://www.linkedin.com/in/sathyabhat/) and [Rahul Jain](https://www.linkedin.com/in/rahrj/) have sent the nomination for #WomenInTech months ago for Re:invent, the invite from Amazon to AWS Re:Invent 2018 as one among the 5 recipients across the globe for **AWS Re:Invent  2018 Community Leader Diversity Scholarship** recipient was a pleasant surprise.
 
 I am pleased, humbled and honoured for this recognition from Amazon and all the credit goes to AWS Community Hero [Jeevan Dongre](https://www.linkedin.com/in/sathyabhat/) and our newest Community Hero [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/) for laying a conducive platform for community lead learning and sharing through #awsugblr.
