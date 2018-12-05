@@ -12,12 +12,8 @@ The AWS team have hosted Welcome Dinner to AWS re:Invent UG Leader diversity sch
 
 This restaurant is in what is called “restaurant row” in the Venetian/Palazzo (that corridor of restaurants is very close to the entrance to the Venetian/Sands convention center).
 
-
-
-
-
 **Gallery**
 
-![](/img/1_welcomedinner.png)
+![null](/img/1_welcomedinner.png)
 
-![](/img/2_welcomedinner.png)
+![null](/img/2_welcomedinner.png)
