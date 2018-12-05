@@ -51,3 +51,5 @@ How do I get to the Shuttle to Venetian?
       All the way down, take a right, out the door, walk straight to get onto the Shuttle to Venetian. 
 
 \    Curious to know how many staffs were deputed on the ground for such a seamless co-ordination.
+
+![]()
