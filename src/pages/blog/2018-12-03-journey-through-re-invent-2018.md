@@ -41,7 +41,7 @@ For the lone wandered in the deserted city (rather the Desert City) exploring th
 \
 All work and no play would make jack a dull boy - Yes fun & fitness was on the floor; all day - over and above Midnight Madness, 4k & 8K Run, re:PLAY etc.
 
-![](/img/games.png)
+![null](/img/games.png)
 
 > **Ask Me**
 >
