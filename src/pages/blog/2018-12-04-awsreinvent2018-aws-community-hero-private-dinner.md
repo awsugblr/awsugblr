@@ -20,6 +20,9 @@ Ross have made arrangements for monitor set up at the dinner venue to watch re:I
 
 ![null](/img/hero_1.png)
 
+![](/img/hero_3.png)
+
+\
 Marvellous moment was caught in a frame with Werner Vogels for the #AWSreInvent2018 Community Leader Diversity Scholarship recipients at AWS Community Hero Dinner. Great photo during the event with Ana Luca Diegues Zamira Jaupaj Jocylyn Sy. \
 Thank you, Ross Barich for clicking one during #werner 's guest appearance.
 
@@ -31,8 +34,4 @@ Joy knew no bounds when you are surprised with a Golden Ticket to witness Andy J
 
 
 
-![]()
-
-Joy knew no bounds when you are surprised with a Golden Ticket to witness Andy Jassy and Werner Vogels unveiling awaited announcements in the grandeur at hashtag#aws hashtag#AWSreInvent2018  and we 4 - Ana Luca Diegues, Zamira Jaupaj Bhuvaneswari Subramani & Jocylyn Sy - are fortunate along with AWS Community Heros to get the Front Seat! 
-
-Pretty excited for the Priceless Sessions. Thank you so much, Ross Barich.
+![](/img/goldenticket.png)
