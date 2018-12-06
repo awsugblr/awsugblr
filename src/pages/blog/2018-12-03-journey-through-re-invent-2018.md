@@ -28,8 +28,9 @@ For the lone wandered in the deserted city (rather the Desert City) exploring th
 * **[_The Registration_](https://www.awsugblr.in/blog/2018-12-03-awsreinvent2018-the-registration/)**
 * **[_Welcome Dinner to AWS Re:Invent 2018 Community Leader Diversity Scholarship recipients_](https://www.awsugblr.in/blog/2018-12-04-welcome-dinner-to-aws-re-invent-2018-community-leader-diversity-scholarship-recipients/)**
 * **[_AWS Community Heros Private Dinner_](https://www.awsugblr.in/blog/2018-12-04-awsreinvent2018-aws-community-hero-private-dinner)**
-* __[_AWS User Group Leaders Workshop & Networking mixer_](https://www.awsugblr.in/blog/2018-12-04-aws-user-group-leader-workshop-networking-mixer/)__
+* **[_AWS User Group Leaders Workshop & Networking mixer_](https://www.awsugblr.in/blog/2018-12-04-aws-user-group-leader-workshop-networking-mixer/)**
 * **[_AWS User Group Booth_](https://www.awsugblr.in/blog/2018-12-05-aws-user-group-booth-re-invent-2018/)**
+* [AWS Certification Lounge & Reception](https://www.awsugblr.in/blog/2018-12-06-aws-certification-lounge-reception/) 
 * _Keynotes by Andy Jassy_
 * _Keynotes by Werner Vogles_
 * _Sessions that Inspired me_
