@@ -12,3 +12,5 @@ And that's the feel good factor for the leaders of 300+ User Groups across the g
 Each of the User Group leader who attended the ReInvent, voluntarily took turns to make themselves available in the AWS User Group Booth for an hour slot to explain the conference attendees about goodness of community lead learning and sharing platform, also helped them to identify the AWS User group in their city to get connected.
 
 ![null](/img/usergroupbooth.png)
+
+![null](/img/usergroupbooth_2.png)
