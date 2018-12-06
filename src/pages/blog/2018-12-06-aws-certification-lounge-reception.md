@@ -13,15 +13,11 @@ AWS Certification Lounge & Reception at Re:Invent 2018 was a good recognition fo
 * Access to AWS Certification Lounges all week both at Aria and Venetian
 * Access to AWS Certification Appreciation Reception
 
+![null](/img/1_cert_receiption.png)
 
-
-![](/img/1_cert_receiption.png)
-
-
-
-![](/img/1_cert_lounge.png)
+![null](/img/1_cert_lounge.png)
 
 \
 Never mind if you haven't started your certification journey at Re:Invent, you can try your hands with one or more in the list anytime with your best efforts
 
-![](/img/cert.png)
+![null](/img/cert.png)
