@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Keynotes by Werner Vogles
+title: Keynote by Werner Vogles
 date: 2018-12-07T15:54:41.171Z
 description: 'AWS Re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
