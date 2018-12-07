@@ -31,4 +31,4 @@ We are indeed fortunate to get one of those reserved seats.
 
 ![](/img/andykeynote_3.png)
 
-Here you go with the [official blog to Andy Jassy Keynote](https://aws.amazon.com/blogs/aws/aws-previews-and-pre-announcements-at-reinvent-2018-andy-jassy-keynote/).
+Here you go with the [official blog to Andy Jassy's Keynote](https://aws.amazon.com/blogs/aws/aws-previews-and-pre-announcements-at-reinvent-2018-andy-jassy-keynote/).
