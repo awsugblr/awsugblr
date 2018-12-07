@@ -25,3 +25,7 @@ We also had the following dignitaries address us through this most awaited sessi
 ![null](/img/werner_2.png)
 
 ![null](/img/werner_3.png)
+
+Thank you, [Ross Barrich](https://www.linkedin.com/in/rossbarich/) for the Golden Ticket to the Keynote
+
+![null](/img/goldentic.png)
