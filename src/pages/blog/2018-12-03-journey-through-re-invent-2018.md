@@ -31,7 +31,7 @@ For the lone wandered in the deserted city (rather the Desert City) exploring th
 * **[_AWS User Group Leaders Workshop & Networking mixer_](https://www.awsugblr.in/blog/2018-12-04-aws-user-group-leader-workshop-networking-mixer/)**
 * **[_AWS User Group Booth_](https://www.awsugblr.in/blog/2018-12-05-aws-user-group-booth-re-invent-2018/)**
 * [AWS Certification Lounge and Reception](https://www.awsugblr.in/blog/2018-12-06-aws-certification-lounge-reception/)
-* __[_Keynotes by Andy Jassy_](https://www.awsugblr.in/blog/2018-12-05-keynotes-by-andy-jassy/)__
+* **[_Keynotes by Andy Jassy_](https://www.awsugblr.in/blog/2018-12-05-keynotes-by-andy-jassy/)**
 * _Keynotes by Werner Vogles_
 * _Sessions that Inspired me_
   * _Diversity Sessions_
