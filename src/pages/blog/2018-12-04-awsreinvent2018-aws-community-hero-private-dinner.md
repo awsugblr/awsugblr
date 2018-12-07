@@ -32,6 +32,4 @@ Joy knew no bounds when you are surprised with a Golden Ticket to witness Andy J
 
 ![null](/img/goldenticket.png)
 
-
-
-![](/img/hero_venue.png)
+![null](/img/hero_venue.png)
