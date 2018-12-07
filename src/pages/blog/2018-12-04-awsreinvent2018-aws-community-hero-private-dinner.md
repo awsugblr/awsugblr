@@ -31,3 +31,5 @@ Thank you, Ross Barich for clicking one during #werner 's guest appearance.
 Joy knew no bounds when you are surprised with a Golden Ticket to witness Andy Jassy and Werner Vogels unveiling awaited announcements in the grandeur at #aws #AWSreInvent2018  and we 4 - Ana Luca Diegues, Zamira Jaupaj Bhuvaneswari Subramani & Jocylyn Sy - are fortunate along with AWS Community Heros to get the Front Seat! We were pretty excited for the Priceless Sessions and thanks to Ross Barich for yet another surprise.
 
 ![null](/img/goldenticket.png)
+
+![null](/img/hero_venue.png)
