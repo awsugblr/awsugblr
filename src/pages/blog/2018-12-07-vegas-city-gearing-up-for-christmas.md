@@ -8,8 +8,10 @@ tags:
 ---
 Vegas City gearing up for Christmas - some clicks from Caesar Palace & Crystal Mall
 
-![](/img/christmas_1.png)
+![null](/img/christmas_1.png)
+
+![null](/img/christmas_2.png)
 
 
 
-![](/img/christmas_2.png)
+![]()
