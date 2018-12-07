@@ -57,3 +57,6 @@ All the way down, take a right, out the door, walk straight to get onto the Shut
 Curious to know how many staffs were deputed on the ground for such a seamless co-ordination.
 
 ![null](/img/askme.png)
+
+\
+AWS Re:Invent 2018 is drawing close to an end setting base for the Celebrations to Begin! Yes, we get to witness Vegas City gearing up for Christmas.
