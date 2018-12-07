@@ -27,6 +27,7 @@ We also had the following dignitaries address us through this most awaited sessi
 ![null](/img/werner_3.png)
 
 Thank you, [Ross Barrich](https://www.linkedin.com/in/rossbarich/) for the Golden Ticket to the Keynote.\
-Thanks to [Nilesh Veghela](https://www.linkedin.com/in/nilesh-vaghela/) that am able make it to 2nd row in the reserved space for Community Heros, all the way from New York New York & Casino hotel to Keynote @ Venetian in 20 mins. good jogging all the way down except for Taxi - a reason to remember for ever.
+Thanks to [Nilesh Veghela](https://www.linkedin.com/in/nilesh-vaghela/)  who reminded me that Golden Ticket is valid for Werner's Keynote too and I was able make it to 2nd row in the reserved space for Community Heros, all the way from New York New York & Casino hotel to Keynote @ Venetian in 20 mins. \
+Well, good jogging all the way down except for Taxi - a reason to remember for ever.
 
 ![null](/img/goldentic.png)
