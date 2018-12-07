@@ -12,7 +12,7 @@ At technical community gatherings, Meetups, or events, the majority of attendees
 
 This session was part of re:Invent Developer Community Day, a series led by AWS enthusiasts who share first-hand, technical insights on trending topics.
 
-![](/img/niv.png)
+![null](/img/niv.png)
 
 ## WPT201-S We Power Tech: Lightning Talks with Executive Women in Tech
 
@@ -21,6 +21,6 @@ Diversity in technology often starts with a focus on women and these were common
 * How do we prioritize the inclusion of women from all communities (race, gender identity, ability status, and other underrepresented and intersectional communities) on technical teams? 
 * What can leaders do—from cultivating the pipeline, to hiring, to developing internal strategies—to make the future of tech more diverse and inclusive? 
 
-![](/img/wepower_1.png)
+![null](/img/wepower_1.png)
 
-![](/img/wepower_2.png)
+![null](/img/wepower_2.png)
