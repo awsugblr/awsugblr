@@ -6,4 +6,10 @@ description: 'AWS Re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - AWSReInvent2018
 ---
-Vegas City gearing up for Christmas
+Vegas City gearing up for Christmas - some clicks from Caesar Palace & Crystal Mall
+
+![](/img/christmas_1.png)
+
+
+
+![](/img/christmas_2.png)
