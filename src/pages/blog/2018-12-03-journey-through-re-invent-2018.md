@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Journey through Re:Invent 2018'
-date: 2018-12-03T17:38:49.547Z
+date: 2018-12-07T17:38:49.547Z
 description: 'AWS Re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - AWSReInvent2018
