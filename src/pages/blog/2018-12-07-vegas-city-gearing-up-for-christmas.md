@@ -14,4 +14,4 @@ Vegas City gearing up for Christmas - some clicks from Caesar Palace & Crystal M
 
 
 
-![]()
+![](/img/christmas_4.png)
