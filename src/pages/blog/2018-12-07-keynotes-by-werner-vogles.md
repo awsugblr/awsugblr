@@ -28,4 +28,4 @@ We also had the following dignitaries address us through this most awaited sessi
 
 Thank you, [Ross Barrich](https://www.linkedin.com/in/rossbarich/) for the Golden Ticket to the Keynote
 
-![](/img/goldentic.png)
+![null](/img/goldentic.png)
