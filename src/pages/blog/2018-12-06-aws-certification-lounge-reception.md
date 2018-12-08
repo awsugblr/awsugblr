@@ -18,6 +18,6 @@ AWS Certification Lounge & Reception at Re:Invent 2018 was a good recognition fo
 ![null](/img/1_cert_lounge.png)
 
 \
-Never mind if you haven't started your certification journey at Re:Invent, you can try your hands with one or more in the list anytime with your best efforts
+Never mind if you haven't started your certification journey at Re:Invent, you can try your hands with one or more in the list anytime with your best efforts.
 
 ![null](/img/cert.png)
