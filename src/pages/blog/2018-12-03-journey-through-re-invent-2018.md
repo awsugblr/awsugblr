@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Journey through Re:Invent 2018'
-date: 2018-12-03T17:38:49.547Z
+date: 2018-12-07T17:38:49.547Z
 description: 'AWS Re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - AWSReInvent2018
@@ -37,10 +37,10 @@ For the lone wandered in the deserted city (rather the Desert City) exploring th
 * _Sessions that Inspired me_
   * [Diversity Sessions](https://www.awsugblr.in/blog/2018-12-07-diversity-sessions/)
   * EBC Meetings
-  * Workshop
+  * [Workshops](https://www.awsugblr.in/blog/2018-12-07-workshops-re-invent/)
   * Overflow Sessions
 
-All work and no play would make jack a dull boy - Yes fun & fitness was on the floor; all day - over and above Midnight Madness, 4k & 8K Run, re:PLAY etc.
+All work and no play would make jack a dull boy - Yes fun & fitness was on the floor; all day - over and above, Midnight Madness, 4k & 8K Run, re:PLAY etc.
 
 ![null](/img/games.png)
 
