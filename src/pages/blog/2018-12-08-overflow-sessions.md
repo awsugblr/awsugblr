@@ -6,4 +6,8 @@ description: 'AWS Re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - AWSReInvent2018
 ---
-Overflow
+Overflow Sessions just conveys one thing in common - Sit back and relax!
+
+With the Re:Invent sessions spanned across 10+ huge locations and if your favourite sessions do not have much time gap for you to commute from one venue to the other or you missed a lot due to overwhelming registration from a specific session, then overflow sessions are certainly blessing in disguise.
+
+![]()
