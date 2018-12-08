@@ -40,7 +40,7 @@ For the lone wandered in the deserted city (rather the Desert City) exploring th
   * [Workshops](https://www.awsugblr.in/blog/2018-12-07-workshops-re-invent/)
   * Overflow Sessions
 
-All work and no play would make jack a dull boy - Yes fun & fitness was on the floor; all day - over and above Midnight Madness, 4k & 8K Run, re:PLAY etc.
+All work and no play would make jack a dull boy - Yes fun & fitness was on the floor; all day - over and above, Midnight Madness, 4k & 8K Run, re:PLAY etc.
 
 ![null](/img/games.png)
 
