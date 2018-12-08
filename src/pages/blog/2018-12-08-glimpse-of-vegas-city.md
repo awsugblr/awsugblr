@@ -6,9 +6,9 @@ description: 'AWS Re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - AWSReInvent2018
 ---
+Here is the glimpse of the man made miracles standing tall with sky raised buildings with far & wide facilities - waiting to house 50000+ Re:Invent attendees and tourists around the world.
 
-
-![null](/img/build_2.png)
+![](/img/build_2.png)
 
 ![](/img/build_3.png)
 
