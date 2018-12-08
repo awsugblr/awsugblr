@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Journey through Re:Invent 2018'
-date: 2018-12-07T17:38:49.547Z
+date: 2018-12-09T17:38:49.547Z
 description: 'AWS Re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - AWSReInvent2018
@@ -21,7 +21,7 @@ Whatever happened in Vegas, need not stay in Vegas! So, let me jot down some of 
 \
 Reached a day early to Vegas on 23rd Nov 2018 evening to settle down a bit with over 12 hours of timezone shift. 
 
-Started the Saturday morning to test the waters and the walking / commute involved across venues & to plan for the sessions, walked from New York New York & Casino to MGM Grand, then to Aria, The Park MGM and Vdara. \
+Started the Saturday morning to test the waters and the walking / commute involved across venues & to plan for the sessions, walked from New York New York & Casino to MGM Grand, then to Aria, The Park MGM and Vdara. Here is the [Glimpse of the man made miracles](https://www.awsugblr.in/blog/2018-12-08-glimpse-of-vegas-city/) standing tall with sky raised buildings with far & wide facilities - waiting to house 50000+ Re:Invent attendees and tourists around the world.\
 Well, enough for the day and I am sure AWS would have planned much better for us considering all logistics, hence set out for an Express tour to Red Rock Canyon which was an hour drive from the Vegas City. To our surprise, the park was closed & only the BLM who is responsible for the maintenance and administration of the read rock conservation area would know the reason :) . It was sad that our tour group couldn’t account to the count of 2 million people who have visited the conservation area so far. Well, more than what we saw, learnt a lot about the mountains, Vegas city and bit of history from our humorous tour guide who redefined Speed Bumps as Sleeping Police. 
 
 For the lone wandered in the deserted city (rather the Desert City) exploring the Strip all alone on Saturday, [Ana Luca Diegues](https://www.linkedin.com/in/anluca/) & [Zamira Jaupaj](https://www.linkedin.com/in/zamirajaupaj/) joined on the Sunday morning – 24th Nov 2018 and we all set out on a leisurely walk from **New York New York & Casino hotel** to **The Venetian** for AWS Re:Invent 2018 registration. That definitely turned about to be fun filled day out passing through all the Casinos on the way and clicking pictures at all attractions, stumbled upon Apple store in Caesars Palace where our friend got a Mac book with $90 discount as a Re:Invent 2018 attendee. Hurray!
@@ -36,9 +36,9 @@ For the lone wandered in the deserted city (rather the Desert City) exploring th
 * **[Keynote by Werner Vogles](https://www.awsugblr.in/blog/2018-12-07-keynotes-by-werner-vogles/)**
 * _Sessions that Inspired me_
   * [Diversity Sessions](https://www.awsugblr.in/blog/2018-12-07-diversity-sessions/)
-  * EBC Meetings
+  * [EBC Meetings](https://www.awsugblr.in/blog/2018-12-08-ebc-meetings/)
   * [Workshops](https://www.awsugblr.in/blog/2018-12-07-workshops-re-invent/)
-  * Overflow Sessions
+  * [Overflow Sessions](https://www.awsugblr.in/blog/2018-12-08-overflow-sessions/)
 
 All work and no play would make jack a dull boy - Yes fun & fitness was on the floor; all day - over and above, Midnight Madness, 4k & 8K Run, re:PLAY etc.
 
