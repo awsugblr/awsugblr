@@ -7,7 +7,7 @@ tags:
   - awsreinvent2018
 ---
 Becoming AWS Certified helps individuals gain credibility for their AWS expertise and enables organizations to identify skilled professionals to lead IT initiatives. \
-AWS Certification Lounge & Reception at re:Invent 2018 was a good recognition for the AWS Certification achievements, where we had access the following benefits at re:Invent:
+AWS Certification Lounge & Reception at Re:Invent 2018 was a good recognition for the AWS Certification achievements, where we had access the following benefits at re:Invent:
 
 * Complimentary AWS Certified gift
 * Access to AWS Certification Lounges all week both at Aria and Venetian
@@ -18,6 +18,6 @@ AWS Certification Lounge & Reception at re:Invent 2018 was a good recognition fo
 ![null](/img/1_cert_lounge.png)
 
 \
-Never mind if you haven't started your certification journey at re:Invent, you can try your hands with one or more in the list anytime with your best efforts.
+Never mind if you haven't started your certification journey at Re:Invent, you can try your hands with one or more in the list anytime with your best efforts.
 
 ![null](/img/cert.png)
