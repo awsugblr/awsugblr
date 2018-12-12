@@ -63,4 +63,4 @@ Curious to know how many staffs were deputed on the ground for such a seamless c
 \
 AWS re:Invent 2018 is drawing close to an end setting base for the Celebrations to Begin! Yes, we get to witness [Vegas City gearing up for Christmas.](https://www.awsugblr.in/blog/2018-12-07-vegas-city-gearing-up-for-christmas/)
 
-For the first timer in Vegas & Nature lover, trip to Vegas is incomplete without visiting Grand Canyon & SkyWalk. We made it as well.
+For the first timer in Vegas & Nature lover, trip to Vegas is incomplete without visiting Grand Canyon & SkyWalk, hence covered it up as well.
