@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: Keynote by Andy Jassy
 date: 2018-12-03T21:45:53.905Z
-description: 'AWS Re:Invent 2018 experience by Bhuvaneswari Subramani'
+description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
-  - AWSReInvent2018
+  - awsreinvent2018
 ---
 Keynote featuring Andy Jassy, CEO, AWS, was full of launches, previews, and pre-announcements. \
 Andy Jassy was no doubt the **Man of Millennium **with strong memory than the AWS's high memory & high performance services, who could had breath and depth of the platform touched upon every functionality of the existing services and new; remembering all major customers across industries.\
