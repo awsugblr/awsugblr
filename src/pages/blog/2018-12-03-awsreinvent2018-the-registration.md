@@ -6,7 +6,7 @@ description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - awsreinvent2018
 ---
-The magnanimity of the Registration counter and the SWAG counter reassured that #awsreinvent2018 Team is all set to receive 50,000+ attendees.
+The magnanimity of the Registration counter and the SWAG counter reassured that #AWSReInvent2018 Team is all set to receive 50,000+ attendees.
 
 ![null](/img/registration.png)
 
