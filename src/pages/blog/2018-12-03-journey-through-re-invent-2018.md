@@ -36,9 +36,10 @@ For the lone wandered in the deserted city (rather the Desert City) exploring th
 * **[Keynote by Werner Vogles](https://www.awsugblr.in/blog/2018-12-07-keynotes-by-werner-vogles/)**
 * _Sessions that Inspired me_
   * [Diversity Sessions](https://www.awsugblr.in/blog/2018-12-07-diversity-sessions/)
-  * EBC Meetings
+  * [EBC Meetings](https://www.awsugblr.in/blog/2018-12-08-ebc-meetings/)
   * [Workshops](https://www.awsugblr.in/blog/2018-12-07-workshops-re-invent/)
-  * Overflow Sessions
+  * [Overflow Sessions](https://www.awsugblr.in/blog/2018-12-08-overflow-sessions/)
+* AWS re:Invent Materials: [YouTube](http://email.awscloud.com/z0dh0tO005pZkyADTHPaM00), [SlideShare](http://email.awscloud.com/dc/GVGLfW5g51qPvDuAmPbVxdXVEfnydb9ETgzGRUk95dKPRnyK8MCBhJ3QQBYdvbN52w9zW9szLoXsFH0JfRfmSn_gWiN8w8_H5mxg2isYuf4kj1PFKqJkhZLQ3ZzFEBDQ4iNpcxrkMVbB0HN8ushWBwVfg9aUfaOCM3Pmo-PkXHn_uH_DHOz_o2djB2sVF3QhwZH_9ItmFR6QGsbQpGf6HrR4SVqoWRpKjN_1TkD-COW-Bnm3XYqOnovqpb8R4xoojw3gyQO0ZXQDV9iq7F2bLiiEEmPmtRQpB8RUvqoQ9sdvq5CUGd1yoYJwkzLY0XdnRat8rvjc1pb-fdIXNEZ00qtPYbifOMrueh8HSq9vmun6aVd4f3_v0AsOiHyTKvjwMpqYHrGxCv2-O1jjFlm84g==/GDZ0MA00hOpxT0tO05a0Hkd), and [AWS Innovate – re:Invent Recap Edition 2018](http://email.awscloud.com/dc/KwqiTCOQ16Q1JCi3MdelDyHAKeItgqZUunjYV4gcYUA5jF0OcjHEWkYdJEmNoxrXefnGJNjIffg3B4gsObv0ffU14ZW0jMefA2mIo5LJera4Pm5_-PndZOn9DhE6b70JmO8iMn0JarYPWyCtSjb1r6948N5Df1jlJxrR3BVcR1ZiMQ7HDSYL4VGodPFtCcdevqlDtnG7gZTwSEWtUumyHiK2g7BS7wYJvci6rP2LdU9Rbk8PgzJlmVqGDpcXyZrmB_ktttiUk_41EuGnn-lr9FRmwNgsJ7ll7VtUKJ7E2nMV0zayev83vipekl0Y0rX15bofIXisOvVs89-3Md5AvXhwsz2fXBBn3e4Fggvh5y0SjAakXgODGs2Acr470MQI/GDZ0MA00hOpxT0tO05a0Hkd).
 
 All work and no play would make jack a dull boy - Yes fun & fitness was on the floor; all day - over and above, Midnight Madness, 4k & 8K Run, re:PLAY etc.
 
