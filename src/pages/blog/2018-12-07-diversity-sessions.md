@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: Diversity Sessions
 date: 2018-12-03T19:32:33.763Z
-description: 'AWS Re:Invent 2018 experience by Bhuvaneswari Subramani'
+description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
-  - AWSReInvent2018
+  - awsreinvent2018
 ---
 ## DVC201 Making AWS User Communities More Inclusive
 
