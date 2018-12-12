@@ -6,7 +6,7 @@ description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - awsreinvent2018
 ---
-[Ross Barrich](https://www.linkedin.com/in/rossbarich/) have hosted private UG leader workshop and networking mixer during re:Invent week for all the AWS User Group leaders attending re:Invent.
+[Ross Barich](https://www.linkedin.com/in/rossbarich/) have hosted private UG leader workshop and networking mixer during re:Invent week for all the AWS User Group leaders attending re:Invent.
 
 This event was from  4PM-8PM Wednesday, November 28 at the Rockhouse restaurant (within the Venetian Canal Shoppes) and the Agenda was as follows:
 
