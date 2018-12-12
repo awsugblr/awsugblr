@@ -17,6 +17,8 @@ Thanks a lot to Rahul Jain for his support to AWS User Group Bengaluru and many 
 
 My heartfelt thanks to my boss [Vynessa Alexander](https://www.linkedin.com/in/vynessa-alexander-5742029/), Vice President, GT Nexus, an Infor company, who stood by me positively all times for the various volunteering activities that I have been involved with.
 
+My hearty congratulations to the fellow recipients [Ana Luca Diegues](https://www.linkedin.com/in/anluca/), [Zamira Jaupaj](https://www.linkedin.com/in/zamirajaupaj/),  [Jocylyn Sy](https://www.linkedin.com/in/jocylynsy/) & [Ayeni Oluwakemi](https://www.linkedin.com/in/ayenioluwakemi/). 
+
 Whatever happened in Vegas, need not stay in Vegas! So, let me jot down some of the key events that that inspired me at re:Invent 2018. \
 \
 Reached a day early to Vegas on 23rd Nov 2018 evening to settle down a bit with over 12 hours of timezone shift. 
