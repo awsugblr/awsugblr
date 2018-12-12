@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: EBC Meetings
 date: 2018-12-03T14:21:34.791Z
-description: 'AWS Re:Invent 2018 experience by Bhuvaneswari Subramani'
+description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
-  - AWSReInvent2018
+  - awsreinvent2018
 ---
 One good reason from Amazon to continue to run as  the reign and undisputed champ in both Internet retailing and Cloud Computing may be because they customer obsessed hence not competitor obsessed, understands very well that focusing on the customer makes a company more resilient.
 
