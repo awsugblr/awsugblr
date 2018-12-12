@@ -4,7 +4,7 @@ title: 'Journey through re:Invent 2018'
 date: 2018-12-09T17:38:49.547Z
 description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
-  - AWSReInvent2018
+  - awsreinvent2018
 ---
 ![null](/img/reinvent.png)
 
