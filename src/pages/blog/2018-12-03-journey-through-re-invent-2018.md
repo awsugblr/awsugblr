@@ -13,7 +13,7 @@ Though [Jeevan Dongre](https://www.linkedin.com/in/sathyabhat/) and [Rahul Jain]
 
 I am pleased, humbled and honoured for this recognition from Amazon and all the credit goes to AWS Community Hero [Jeevan Dongre](https://www.linkedin.com/in/sathyabhat/) and our newest Community Hero [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/) for laying a conducive platform for community lead learning and sharing through #awsugblr.
 
-Thanks a lot to Rahul Jain for his support to AWS User Group Bengaluru and many thanks to [Ross Barrich](https://www.linkedin.com/in/rossbarich/) for the invite, defining the schedule with lots of pleasant surprises hidden.
+Thanks a lot to Rahul Jain for his support to AWS User Group Bengaluru and many thanks to [Ross Barich](https://www.linkedin.com/in/rossbarich/) for the invite, defining the schedule with lots of pleasant surprises hidden.
 
 My heartfelt thanks to my boss [Vynessa Alexander](https://www.linkedin.com/in/vynessa-alexander-5742029/), Vice President, GT Nexus, an Infor company, who stood by me positively all times for the various volunteering activities that I have been involved with.
 
