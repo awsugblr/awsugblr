@@ -6,6 +6,8 @@ description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - awsreinvent2018
 ---
+_This is a series of blog posts chronicling my experience at _[_AWS re:Invent 2018_](<This is a series of blog posts chronicling my experience at AWS re:Invent 2018. Hope you enjoy the posts.>)_. Hope you enjoy the posts._
+
 Keynote featuring Andy Jassy, CEO, AWS, was full of launches, previews, and pre-announcements. \
 Andy Jassy was no doubt the **Man of Millennium **with strong memory than the AWS's high memory & high performance services, who could had breath and depth of the platform touched upon every functionality of the existing services and new; remembering all major customers across industries.\
 \
@@ -26,14 +28,12 @@ Then Ross Brawn OBE, Managing Director, Formula One Motor Sports added their ful
 * Amazon Personalize – Real-Time Personalization and Recommendation for Everyone.
 * Amazon Forecast – Time Series Forecasting Made Easy.
 
-![](/img/andykeynote_1.png)
+![null](/img/andykeynote_1.png)
 
-
-
-![](/img/andykeynote_2.png)
+![null](/img/andykeynote_2.png)
 
 We are indeed fortunate to get one of those reserved seats.
 
-![](/img/andykeynote_3.png)
+![null](/img/andykeynote_3.png)
 
 Here you go with the [official blog to Andy Jassy's Keynote](https://aws.amazon.com/blogs/aws/aws-previews-and-pre-announcements-at-reinvent-2018-andy-jassy-keynote/).
