@@ -14,7 +14,7 @@ The AWS Hero annual private dinner is usually hosted on Monday evening of re:Inv
 
 To make our life easier to reach the venue, we were provided one-way coach shuttle transfers from the Venetian main entrance to the Foundation Room. Two large black mini coaches with an “AWG Ambassador” chauffeur company logo in red on the side was convenient to locate as it sounded similar to AWS.
 
-Ross have made arrangements for monitor set up at the dinner venue to watch re:Invent Monday Night Live. Well, how many watched is a mystery though :)
+There were arrangements set up at the dinner venue to watch re:Invent Monday Night Live. How many watched is a mystery though :)
 
 **Gallery**
 
