@@ -6,7 +6,7 @@ description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - awsreinvent2018
 ---
-This is a series of blog posts chronicling my [experience at AWS re:Invent 2018](https://www.awsugblr.in/tags/awsreinvent-2018/). Hope you enjoy the posts.
+_This is a series of blog posts chronicling my _[_experience at AWS re:Invent 2018_](https://www.awsugblr.in/tags/awsreinvent-2018/)_. Hope you enjoy the posts._
 
 The AWS User Group Leader Workshop & Networking Mixer was a private party hosted by [Ross Barich](https://www.linkedin.com/in/rossbarich/)  during re:Invent week for all the AWS User Group leaders attending re:Invent.
 
