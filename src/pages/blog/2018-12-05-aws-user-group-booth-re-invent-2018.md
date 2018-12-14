@@ -6,6 +6,8 @@ description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - awsreinvent2018
 ---
+_This is a series of blog posts chronicling my experience at _[_AWS re:Invent 2018_](https://www.awsugblr.in/tags/awsreinvent-2018/)_. Hope you enjoy the posts._
+
 "Wow! we have our own booth at the worlds biggest AWS User conference Expo." \
 And that's the feel good factor for the leaders of 300+ User Groups across the globe. 
 
