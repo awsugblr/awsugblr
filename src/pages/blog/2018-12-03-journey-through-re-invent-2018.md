@@ -19,6 +19,9 @@ My heartfelt thanks to my boss [Vynessa Alexander](https://www.linkedin.com/in/v
 
 My hearty congratulations to the fellow recipients [Ana Luca Diegues](https://www.linkedin.com/in/anluca/), [Zamira Jaupaj](https://www.linkedin.com/in/zamirajaupaj/),  [Jocylyn Sy](https://www.linkedin.com/in/jocylynsy/) & [Ayeni Oluwakemi](https://www.linkedin.com/in/ayenioluwakemi/). 
 
+![](/img/we_4.png)
+
+\
 Whatever happened in Vegas, need not stay in Vegas! So, let me jot down some of the key events that that inspired me at re:Invent 2018. \
 \
 Reached a day early to Vegas on 23rd Nov 2018 evening to settle down a bit with over 12 hours of timezone shift. 
