@@ -8,8 +8,6 @@ description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - awsreinvent2018
 ---
-_This is a series of blog posts chronicling my _[_experience at AWS re:Invent 2018_](https://www.awsugblr.in/tags/awsreinvent-2018/)_. Hope you enjoy the posts._\
-\
 The AWS team have hosted Welcome Dinner to AWS re:Invent UG Leader diversity scholarship recipients at [AquaKnox](https://www.venetian.com/restaurants/aquaknox.html) Restaurant on Sunday - November 24.
 
 This restaurant is in what is called “restaurant row” in the Venetian/Palazzo (that corridor of restaurants is very close to the entrance to the Venetian/Sands convention center).
