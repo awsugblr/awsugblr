@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'aws re:Invent 2018 recap: AWS User Group Leader Workshop & Networking Mixer'
+title: 'AWS re:Invent 2018 recap: AWS User Group Leader Workshop & Networking Mixer'
 date: 2018-12-04T23:24:34.079Z
 description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
