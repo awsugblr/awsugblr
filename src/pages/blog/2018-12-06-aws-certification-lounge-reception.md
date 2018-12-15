@@ -2,10 +2,12 @@
 templateKey: blog-post
 title: AWS Certification Lounge & Reception
 date: 2018-12-03T17:02:40.984Z
-description: 'AWS Re:Invent 2018 experience by Bhuvaneswari Subramani'
+description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
-  - AWSReInvent2018
+  - awsreinvent2018
 ---
+_This is a series of blog posts chronicling my _[_experience at AWS re:Invent 2018_](https://www.awsugblr.in/tags/awsreinvent-2018/)_. Hope you enjoy the posts._
+
 Becoming AWS Certified helps individuals gain credibility for their AWS expertise and enables organizations to identify skilled professionals to lead IT initiatives. \
 AWS Certification Lounge & Reception at Re:Invent 2018 was a good recognition for the AWS Certification achievements, where we had access the following benefits at re:Invent:
 
