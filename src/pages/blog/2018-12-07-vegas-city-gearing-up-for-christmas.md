@@ -7,7 +7,7 @@ tags:
   - awsreinvent2018
 ---
 _This is a series of blog posts chronicling my _[_experience at AWS re:Invent 2018_](https://www.awsugblr.in/tags/awsreinvent-2018/)_. Hope you enjoy the posts._\
-__\
+\
 Vegas City gearing up for Christmas - some clicks from Caesar Palace & Crystal Mall
 
 ![null](/img/christmas_1.png)
