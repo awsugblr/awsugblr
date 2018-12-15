@@ -6,6 +6,8 @@ description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - awsreinvent2018
 ---
+_This is a series of blog posts chronicling my _[_experience at AWS re:Invent 2018_](https://www.awsugblr.in/tags/awsreinvent-2018/)_. Hope you enjoy the posts._\
+__\
 Workshops are two-hour, hands-on sessions we were are expected to work in teams to solve problems using AWS. Workshops organized attendees into small groups and provide scenarios to encourage interaction, giving attendees the opportunity to learn from and teach each other. Each workshop started with a 10–15-minute lecture by the main speaker, and the rest of the time was spent working as a group. There were additional AWS experts in the room to make sure every group gets the assistance they need.
 
 Come prepared with your laptop and willingness to learn! We will provide any AWS credits you may need.
