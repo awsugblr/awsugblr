@@ -10,7 +10,7 @@ _This is a series of blog posts chronicling my _[_experience at AWS re:Invent 20
 __\
 The magnanimity of the Registration counter and the SWAG counter reassured that #AWSReInvent2018 Team is all set to receive 50,000+ attendees.
 
-![null](/img/registration.png)
+![null](/img/registration_0.png)
 
 ![null](/img/registration_2.png)
 
