@@ -33,4 +33,20 @@ Joy knew no bounds when you are surprised with a Golden Ticket to witness [Andy 
 
 ![null](/img/goldenticket.png)
 
-![null](/img/hero_venue.png)
+
+
+## Hero's Gallery 
+
+![](/img/hero_venue.png)
+
+![](/img/hero_4_ross.png)
+
+![](/img/hero_5.png)
+
+![](/img/hero_6.png)
+
+![](/img/hero_7.png)
+
+![](/img/hero_8.png)
+
+![](/img/hero_9.png)
