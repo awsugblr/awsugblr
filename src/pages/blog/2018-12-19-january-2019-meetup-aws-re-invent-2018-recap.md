@@ -26,7 +26,11 @@ AWS re:Invent has come and gone by with loads of announcements. Join us as we lo
 
 ### RSVP
  
-Please head over to [https://go.awsugblr.in/jan-2019-meetup](https://go.awsugblr.in/jan-2019-meetup) to RSVP for the meetup 
+Please head over to [https://go.awsugblr.in/jan-2019-meetup](https://go.awsugblr.in/jan-2019-meetup) to RSVP for the meetup. 
+
+### Venue
+
+We're finalizing venue details and will be updated soon.
 
 
 ### More re:Invent 2018
