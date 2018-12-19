@@ -9,6 +9,8 @@ tags:
 ![null](/img/reinvent.png)
 
 \
+_This is a series of blog posts chronicling my _[_experience at AWS re:Invent 2018_](https://www.awsugblr.in/tags/awsreinvent-2018/)_. Hope you enjoy the posts._
+
 Though [Jeevan Dongre](https://www.linkedin.com/in/sathyabhat/) and [Rahul Jain](https://www.linkedin.com/in/rahrj/) have sent the nomination for #WomenInTech months ago, the invite from Amazon to AWS re:Invent 2018 as one among the 5 recipients across the globe for **AWS re:Invent  2018 Community Leader Diversity Scholarship** was a pleasant surprise.
 
 I am pleased, humbled and honoured for this recognition from Amazon and all the credit goes to AWS Community Hero [Jeevan Dongre](https://www.linkedin.com/in/sathyabhat/) and our newest Community Hero [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/) for laying a conducive platform for community lead learning and sharing through #awsugblr.
@@ -19,7 +21,7 @@ My heartfelt thanks to my boss [Vynessa Alexander](https://www.linkedin.com/in/v
 
 My hearty congratulations to the fellow recipients [Ana Luca Diegues](https://www.linkedin.com/in/anluca/), [Zamira Jaupaj](https://www.linkedin.com/in/zamirajaupaj/),  [Jocylyn Sy](https://www.linkedin.com/in/jocylynsy/) & [Ayeni Oluwakemi](https://www.linkedin.com/in/ayenioluwakemi/). 
 
-![](/img/we_4.png)
+![null](/img/we_4.png)
 
 \
 Whatever happened in Vegas, need not stay in Vegas! So, let me jot down some of the key events that that inspired me at re:Invent 2018. \
