@@ -6,7 +6,7 @@ description: 'AWS re:Invent 2018 experience by Bhuvaneswari Subramani'
 tags:
   - awsreinvent2018
 ---
-_This is a series of blog posts chronicling my _[_experience at AWS re:Invent 2018_](https://www.awsugblr.in/tags/awsreinvent-2018/)_. Hope you enjoy the posts._
+_This is a series of blog posts chronicling my _[_experience at AWS re:Invent 2018_](https://www.awsugblr.in/tags/awsreinvent2018/)_. Hope you enjoy the posts._
 
 ![null](/img/herodinner_invite_1.png)
 
@@ -33,20 +33,18 @@ Joy knew no bounds when you are surprised with a Golden Ticket to witness [Andy 
 
 ![null](/img/goldenticket.png)
 
+## Hero's Gallery
 
+![null](/img/hero_venue.png)
 
-## Hero's Gallery 
+![null](/img/hero_4_ross.png)
 
-![](/img/hero_venue.png)
+![null](/img/hero_5.png)
 
-![](/img/hero_4_ross.png)
+![null](/img/hero_6.png)
 
-![](/img/hero_5.png)
+![null](/img/hero_7.png)
 
-![](/img/hero_6.png)
+![null](/img/hero_8.png)
 
-![](/img/hero_7.png)
-
-![](/img/hero_8.png)
-
-![](/img/hero_9.png)
+![null](/img/hero_9.png)
