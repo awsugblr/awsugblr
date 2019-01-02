@@ -19,7 +19,7 @@ Thanks a lot to Rahul Jain for his support to AWS User Group Bengaluru and many 
 
 My heartfelt thanks to my boss [Vynessa Alexander](https://www.linkedin.com/in/vynessa-alexander-5742029/), Vice President, GT Nexus, an Infor company, who stood by me positively all times for the various volunteering activities that I have been involved with.
 
-My hearty congratulations to the fellow recipients [Ana Luca Diegues](https://www.linkedin.com/in/anluca/), [Zamira Jaupaj](https://www.linkedin.com/in/zamirajaupaj/),  [Jocylyn Sy](https://www.linkedin.com/in/jocylynsy/) & [Ayeni Oluwakemi](https://www.linkedin.com/in/ayenioluwakemi/). 
+My hearty congratulations to the fellow recipients [Ana Luca Diegues](https://www.linkedin.com/in/anluca/), [Zamira Jaupaj](https://www.linkedin.com/in/zamirajaupaj/),  [Jocylyn Sy](https://www.linkedin.com/in/jocylynsy/) & [Ayeni Oluwakemi](https://www.linkedin.com/in/ayenioluwakemi/) and here is the official blog from Amazon - [Meet the Women Building AWS Technical Communities Around the World](https://aws.amazon.com/blogs/publicsector/meet-the-women-building-aws-technical-communities-around-the-world/).
 
 ![null](/img/we_4.png)
 
