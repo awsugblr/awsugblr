@@ -12,7 +12,7 @@ AWS re:Invent 2018 recap started with a warm welcome by [Jeevan Dongre](https://
 
 ![null](/img/madhu.jpg)
 
-Madhu took us on quick ride around **_how did AWS enthusiasts re:Invent in Las Vegas_ **right from _Harley ride_ to _re:Play party_ and from _deep-dive sessions_, _expert sessions_, _hackathons_ to _hands-on labs_. 
+Madhu took us on quick ride around **_how did AWS enthusiasts re:Invent in Las Vegas_ **right from _Harley ride_ to _re:Play party_ and from _deep-dive sessions_, _expert sessions_, _hackathons_ to _hands-on-labs_. 
 
 Probably this would have kindled an eagerness in the attendees to look forward for re:Invent 2019 early bird registration?
 
@@ -146,7 +146,7 @@ Here are some important links to AWS re:Invent 2018:
 
 ![null](/img/closingnote.png)
 
-Our re:Invent recap would have been incomplete without a Selfie with the Speaker...
+Our re:Invent recap would have been incomplete without a **_Selfie with the Speaker_**...
 
 ![null](/img/selfiwithspeaker.png)
 
