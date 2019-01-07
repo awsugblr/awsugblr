@@ -18,7 +18,7 @@ Probably this would have kindled an eagerness in the attendees to look forward f
 
 [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/) shared her experience as an [AWS diversity scholarship recipient at  re:Invent 2018](https://aws.amazon.com/blogs/publicsector/meet-the-women-building-aws-technical-communities-around-the-world/) and you may read more about stories in the blog - [Journey through re:Invent 2018 ](https://www.awsugblr.in/blog/2018-12-03-journey-through-re-invent-2018/).
 
-![](/img/bhuvana-copy.jpg)
+![null](/img/bhuvana-copy.jpg)
 
 \
 Madhu took over the stage back to help us dive deep into all new announcements for AWS Services and of course the next 3 hours was lively to witness the tale from the technocrat! 
@@ -148,13 +148,13 @@ Here are some important links to AWS re:Invent 2018:
 
 Our re:Invent recap would have been incomplete without a Selfie with the Speaker...
 
-![](/img/selfiwithspeaker.png)
+![null](/img/selfiwithspeaker.png)
 
 AWSUGBLR organizers would like to thank
 
 * The speakers: Madhu for explaining all new launches in detail & Bhuvaneswari for sharing her re:Invent experience
 * Attendees for taking time out of their Saturday and joining us for the meet
 * Amazon Internet Services Private Limited for hosting the meetup and providing stickers, tea/coffee and snacks
-* [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) for contributing to the meetup report 
+* [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) for contributing to the meetup report and [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for supplemental inputs
 
 Stay tuned for upcoming meetups! For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
