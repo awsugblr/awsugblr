@@ -12,12 +12,15 @@ AWS re:Invent 2018 recap started with a warm welcome by [Jeevan Dongre](https://
 
 ![null](/img/madhu.jpg)
 
-Madhu took us on quick ride around \`how did AWS enthusiasts re:Invent in Las Vegas\` right from Harley ride to re:Play party and from deep-dive sessions, expert sessions, hackathons to hands-on labs. 
+Madhu took us on quick ride around **_how did AWS enthusiasts re:Invent in Las Vegas_ **right from _Harley ride_ to _re:Play party_ and from _deep-dive sessions_, _expert sessions_, _hackathons_ to _hands-on labs_. 
 
 Probably this would have kindled an eagerness in the attendees to look forward for re:Invent 2019 early bird registration?
 
 [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/) shared her experience as an [AWS diversity scholarship recipient at  re:Invent 2018](https://aws.amazon.com/blogs/publicsector/meet-the-women-building-aws-technical-communities-around-the-world/) and you may read more about stories in the blog - [Journey through re:Invent 2018 ](https://www.awsugblr.in/blog/2018-12-03-journey-through-re-invent-2018/).
 
+![](/img/bhuvana-copy.jpg)
+
+\
 Madhu took over the stage back to help us dive deep into all new announcements for AWS Services and of course the next 3 hours was lively to witness the tale from the technocrat! 
 
 AWS re:Invent is the biggest learning conference hosted by Amazon Web Services for the global cloud computing community. The event features are keynote announcements, training and certification opportunities, access to technical sessions, a partner expo, after-hours events and so much more. More than 50K people attend this event from world wide. This year event was full of new services in Compute, Database, Security, Machine Learning, Artificial Intelligence, IoT, Analytics, Big Data, Deep Learning etc.
@@ -134,12 +137,12 @@ In the end of sessions cool stickers (AWS re:invent 2018 Stickers) were distribu
 Here are some important links to AWS re:Invent 2018:
 
 * [AWS re:Invent 2018](https://aws.amazon.com/new/reinvent/)
-* Peter DeSantis, VP, AWS Global Infrastructure 
-* Terry Wise, VP of Global Alliances Ecosystems, and Channels, AWS 
-* Keynote by Andy Jassy, CEO, Amazon Web Services
-* Keynote by Werner Vogels, CTO, Amazon.com
+* [Peter DeSantis](https://youtu.be/mDNHK-SzXEM), VP, AWS Global Infrastructure 
+* [Terry Wise](https://youtu.be/7NJs7CsstHc), VP of Global Alliances Ecosystems, and Channels, AWS 
+* [Keynote by Andy Jassy](https://youtu.be/ZOIkOnW640A), CEO, Amazon Web Services
+* [Keynote by Werner Vogels](https://youtu.be/femopq3JWJg), CTO, Amazon.com
 
-Prashanth HN, co-organizer AWS User Group Bengaluru, expressed his heartfelt thanks to Madhu for such an awesome session and also encouraged & invited us, the attendees, to write technical blogs under AWS User Group Bengaluru Blog.  
+[Prashanth HN](https://www.linkedin.com/in/hnprashanth/), co-organizer AWS User Group Bengaluru, expressed his heartfelt thanks to Madhu for such an awesome session and also encouraged & invited us, the attendees, to write technical blogs under AWS User Group Bengaluru Blog.  
 
 ![null](/img/closingnote.png)
 
@@ -149,9 +152,9 @@ Our re:Invent recap would have been incomplete without a Selfie with the Speaker
 
 AWSUGBLR organizers would like to thank
 
-* The speakers Spencer, Chandra, Saket, Gaurav, Neeraj for explaining the various concepts and use cases
+* The speakers: Madhu for explaining all new launches in detail & Bhuvaneswari for sharing her re:Invent experience
 * Attendees for taking time out of their Saturday and joining us for the meet
 * Amazon Internet Services Private Limited for hosting the meetup and providing stickers, tea/coffee and snacks
-* [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) for contributing to the meetup report
+* [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) for contributing to the meetup report 
 
 Stay tuned for upcoming meetups! For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
