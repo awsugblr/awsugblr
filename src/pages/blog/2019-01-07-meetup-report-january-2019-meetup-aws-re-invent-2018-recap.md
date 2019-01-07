@@ -10,9 +10,7 @@ The January 2019 meetup was held at the newly opened Amazon Internet Services Pr
 
 AWS re:Invent 2018 recap started with a warm welcome by Jeevan Dongre, AWS Community Hero and Lead - AWS User Group Bengaluru and introduced our speaker of the day, Madhusudan Sekhar, Principal Technical Evangelist and Head Digital Innovation, Amazon Internet Services Private Limited.
 
-![](/img/madhu.jpg)
-
-
+![null](/img/madhu.jpg)
 
 Madhu took us on quick ride around \`how did AWS enthusiasts re:Invent in Las Vegas\` right from Harley ride to re:Play party and from deep-dive sessions, expert sessions, hackathons to hands-on labs. 
 
@@ -24,7 +22,7 @@ Madhu took over the stage back to help us dive deep into all new announcements f
 
 AWS re:Invent is the biggest learning conference hosted by Amazon Web Services for the global cloud computing community. The event features are keynote announcements, training and certification opportunities, access to technical sessions, a partner expo, after-hours events and so much more. More than 50K people attend this event from world wide. This year event was full of new services in Compute, Database, Security, Machine Learning, Artificial Intelligence, IoT, Analytics, Big Data, Deep Learning etc.
 
-![](/img/audience.png)
+![null](/img/audience.png)
 
 Here is a brief about all announcements featured by categories:
 
@@ -129,13 +127,9 @@ In AWS re:Invent 2018, 100+ new features and updates were announced. These updat
 
 \    … and the list goes on.
 
-
-
 In the end of sessions cool stickers (AWS re:invent 2018 Stickers) were distributed.
 
-![](/img/swags.jpg)
-
-
+![null](/img/swags.jpg)
 
 Here are some important links to AWS re:Invent 2018:
 
@@ -147,8 +141,17 @@ Here are some important links to AWS re:Invent 2018:
 
 Prashanth HN, co-organizer AWS User Group Bengaluru, expressed his heartfelt thanks to Madhu for such an awesome session and also encouraged & invited us, the attendees, to write technical blogs under AWS User Group Bengaluru Blog.  
 
-![](/img/closingnote.png)
+![null](/img/closingnote.png)
 
 Our re:Invent recap would have been incomplete without a Selfie with the Speaker...
 
-Stay tuned for upcoming meetups. Follow us on Linkedin or Twitter and for more update please visit:  https://awsugblr.in .
+![](/img/selfiwithspeaker.png)
+
+AWSUGBLR organizers would like to thank
+
+* The speakers Spencer, Chandra, Saket, Gaurav, Neeraj for explaining the various concepts and use cases
+* Attendees for taking time out of their Saturday and joining us for the meet
+* Amazon Internet Services Private Limited for hosting the meetup and providing stickers, tea/coffee and snacks
+* [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) for contributing to the meetup report
+
+Stay tuned for upcoming meetups! For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
