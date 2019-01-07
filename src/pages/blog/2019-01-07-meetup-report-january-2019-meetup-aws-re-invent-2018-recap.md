@@ -8,7 +8,7 @@ tags:
 ---
 The January 2019 meetup was held at the newly opened Amazon Internet Services Private Ltd office.
 
-AWS re:Invent 2018 recap started with a warm welcome by Jeevan Dongre, AWS Community Hero and Lead - AWS User Group Bengaluru and introduced our speaker of the day, Madhusudan Sekhar, Principal Technical Evangelist and Head Digital Innovation, Amazon Internet Services Private Limited.
+AWS re:Invent 2018 recap started with a warm welcome by [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), AWS Community Hero and Lead - AWS User Group Bengaluru and introduced our speaker of the day, [Madhusudan Sekhar](https://www.linkedin.com/in/madhusudanshekar/), Principal Technical Evangelist and Head Digital Innovation, Amazon Internet Services Private Limited.
 
 ![null](/img/madhu.jpg)
 
@@ -16,7 +16,7 @@ Madhu took us on quick ride around \`how did AWS enthusiasts re:Invent in Las Ve
 
 Probably this would have kindled an eagerness in the attendees to look forward for re:Invent 2019 early bird registration?
 
-Bhuvaneswari Subramani shared her experience as an AWS diversity scholarship recipient at  re:Invent 2018 and you may read more about stories in the blog - Journey through re:Invent 2018 
+[Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/) shared her experience as an [AWS diversity scholarship recipient at  re:Invent 2018](https://aws.amazon.com/blogs/publicsector/meet-the-women-building-aws-technical-communities-around-the-world/) and you may read more about stories in the blog - [Journey through re:Invent 2018 ](https://www.awsugblr.in/blog/2018-12-03-journey-through-re-invent-2018/).
 
 Madhu took over the stage back to help us dive deep into all new announcements for AWS Services and of course the next 3 hours was lively to witness the tale from the technocrat! 
 
