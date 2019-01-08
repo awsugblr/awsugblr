@@ -4,7 +4,7 @@ title: 'Meetup report: January 2019 Meetup: AWS re:Invent 2018 Recap'
 date: 2019-01-07T12:57:38.692Z
 description: Summary of January 2019 Meetup
 tags:
-  - 'meetup January 2018 re:Invent recap'
+  - 'meetup January 2019 re:Invent recap'
 ---
 The January 2019 meetup was held at the newly opened Amazon Internet Services Private Ltd office.
 
