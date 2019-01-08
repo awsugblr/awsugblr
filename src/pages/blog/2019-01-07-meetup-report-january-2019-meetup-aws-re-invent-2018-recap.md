@@ -128,6 +128,11 @@ In AWS re:Invent 2018, 100+ new features and updates were announced. These updat
 * S3 Intelligent-Tiering
 * Amazon EBS Doubles Max Performance of io1 Volumes
 
+## **AWS Ground Station**
+
+In this exciting times where one can buy a kit to make a self decaying orbital satellite and launch to space, AWS have launched AWS Ground Station to deliver a satellite ground station-as-a-service and pay for what you use. \
+AWS Ground Station is a fully managed service that lets you control satellite communications, downlink and process satellite data, and scale your satellite operations quickly, easily and cost-effectively without having to worry about building or managing your own ground station infrastructure.  
+
 \    … and the list goes on.
 
 In the end of sessions cool stickers (AWS re:invent 2018 Stickers) were distributed.
@@ -146,7 +151,7 @@ Here are some important links to AWS re:Invent 2018:
 
 ![null](/img/closingnote.png)
 
-Our re:Invent recap would have been incomplete without a **_Selfie with the Speaker_**...
+Our re:Invent recap would have been incomplete without a _**Selfie with the Speaker**_...
 
 ![null](/img/selfiwithspeaker.png)
 
