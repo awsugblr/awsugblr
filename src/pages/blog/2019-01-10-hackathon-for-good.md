@@ -34,4 +34,4 @@ Theme set for the Hackathon is as follows and more details can be found on our p
 
 ## Closing Note
 
-Success is no accident! Our **Hackathon for Good** would have certainly paved way to the IT Corridor for the aspiring Engineering students.
+Success is no accident! Our **Hackathon for Good** would have certainly paved way for the aspiring Engineering students to the IT Corridor.
