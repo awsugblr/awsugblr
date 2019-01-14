@@ -24,7 +24,7 @@ Theme set for the Hackathon is as follows and more details can be found on our p
 
 ## Registration
 
-[John Varghese](https://www.linkedin.com/in/jvaws/) & [Abhilash Nair](https://www.linkedin.com/in/hiabhilash/) in action at the registration counter
+[John Varghese](https://www.linkedin.com/in/jvaws/) & [Abhilash Nair](https://www.linkedin.com/in/hiabhilash/) in action at the registration counter.
 
 ![Hackathon registration](/img/img_20190105_083118.jpg)
 
@@ -34,7 +34,7 @@ Theme set for the Hackathon is as follows and more details can be found on our p
 
 ## Welcome Note
 
-John extended his hearty welcome to all the participants & judges. Gave a brief introduction about the **Hackathon for Good **and provided the guidelines. 
+John extended his hearty welcome to all the contesting teams & judges. Gave a brief introduction about the **Hackathon for Good **and provided the guidelines. 
 
 ![welcome](/img/img_20190105_090520.jpg)
 
@@ -47,6 +47,8 @@ With no further delay, Hackers were on the job once their Team ID / Team Names w
 Thanks to [Runcy Oommen](https://www.linkedin.com/in/runcyoommen/) for setting up a git repository for the contestants to commit their source code. He had provided detailed instructions to use the repository and helped the teams to setup.
 
 The teams working on AWS Cloud had additional advantage of availing $20 AWS Credit coupons. Thanks you AWS Team!
+
+To break the monotony and have some fun, Runcy have organized **AWSome Quiz **during the break time**.**
 
 ![hackers](/img/img_20190105_143229.jpg)
 
