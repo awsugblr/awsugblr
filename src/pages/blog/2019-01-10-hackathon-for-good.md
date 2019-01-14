@@ -2,11 +2,11 @@
 templateKey: blog-post
 title: Heartwarming Hackathon in God's own country!
 date: 2019-01-10T09:19:40.446Z
-description: Hackathon for good
+description: Jan 05 2019 - Hackathon for good
 tags:
   - hackathon 2019
 ---
-The first ever **Hackathon** organized by **AWS Community Leaders, AWS **&** Intuit** in Kochi, India for the IT professionals and college students, the budding engineers, turned to be a huge success. And the event stands as a testimony for what a grand victory could be when all hands put together. With that self-contentment, would like to bring our involved experience to the table for you to visualize it through our eyes.
+The first ever **Hackathon** organized by **AWS Community Leaders, AWS **and** Intuit** in Kochi, India for the IT professionals and college students, the budding engineers, turned to be a huge success. And the event stands as a testimony for what a grand victory could be when all hands put together. With that self-contentment, would like to bring our involved experience to the table for you to visualize it through our eyes.
 
 ![null](/img/kochi_hackathon.jpeg)
 
