@@ -36,11 +36,29 @@ Theme set for the Hackathon is as follows and more details can be found on our p
 
 ## Hackers on the Job
 
-![](/img/img_20190105_090453.jpg)
+![hackers](/img/img_20190105_143229.jpg)
+
+![hackers](/img/img_20190105_102409.jpg)
+
+![hackers](/img/img_20190105_102453.jpg)
 
 ## Presentation
 
+![](/img/img_20190105_161538.jpg)
+
+![](/img/img_20190105_160501.jpg)
+
+![](/img/img_20190105_164910.jpg)
+
+![](/img/whatsapp-image-2019-01-05-at-23.01.03-2.jpg)
+
 ## Award Distribution
+
+![](/img/whatsapp-image-2019-01-05-at-23.06.01.jpg)
+
+![](/img/whatsapp-image-2019-01-05-at-23.06.04.jpg)
+
+![](/img/whatsapp-image-2019-01-05-at-23.05.50.jpg)
 
 ## Closing Note
 
