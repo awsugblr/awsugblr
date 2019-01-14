@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Heartwarming Hackathon in God's own country!
 date: 2019-01-10T09:19:40.446Z
-description: Hackathon for good
+description: Jan 05 2019 - Hackathon for good
 tags:
   - hackathon 2019
 ---
