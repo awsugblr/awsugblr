@@ -58,7 +58,8 @@ To break the monotony and have some fun, Runcy have organized **AWSome Quiz **du
 
 ## Presentation
 
-The main session of the day was to show case their creativity & implementation coupled with their deep sense for social cause to address most impactful issues. And thats the tough moment for the judges to identify & isolate the most influential \`problem statement and solution\` .
+The main session of the day was to show case their creativity & implementation coupled with their deep sense for social cause to address the most impactful issues. \
+And that was the tough moment for the judges to identify & isolate the most influential \`problem statement and solution\`.
 
 ![null](/img/img_20190105_160501.jpg)
 
@@ -98,3 +99,7 @@ Amal Das NP and Akhil Rajan have bagged the first prize for their innovative app
 ## Closing Note
 
 Success is no accident! Our **Hackathon for Good** would have certainly paved way for the aspiring Engineering students to the IT Corridor.
+
+```
+  Event experience captured by Bhuvaneswari Subramani & Runcy Oommen
+```
