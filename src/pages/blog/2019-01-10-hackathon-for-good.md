@@ -26,9 +26,17 @@ Theme set for the Hackathon is as follows and more details can be found on our p
 
 ![Hackathon registration](/img/img_20190105_083118.jpg)
 
+![Registration manned by John](/img/img_20190105_085015.jpg)
+
 ## Welcome Note
 
+![welcome](/img/img_20190105_090520.jpg)
+
+![welcome attendees](/img/img_20190105_090453.jpg)
+
 ## Hackers on the Job
+
+![](/img/img_20190105_090453.jpg)
 
 ## Presentation
 
