@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Hackathon for Good '
+title: Heartwarming Hackathon in God's own country!
 date: 2019-01-10T09:19:40.446Z
 description: Hackathon for good
 tags:
