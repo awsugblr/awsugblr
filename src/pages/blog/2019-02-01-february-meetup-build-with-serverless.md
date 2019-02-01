@@ -28,8 +28,7 @@ ETHNUS,\
 Second Floor, SST Chambers,\
 No.151/17/1, 36th Cross Rd,\
 4th Block, 5th Block,\
-Jayanagar,\
-Bengaluru
+Jayanagar,Bengaluru
 
 **Google Maps:** <https://goo.gl/maps/v5TTMYnDRAy>
 
