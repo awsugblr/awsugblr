@@ -22,7 +22,7 @@ Even though AWS has many serverless services, it takes a lot of time and effort 
 
 Please head over to <https://goo.gl/forms/bUUOFL9QKtAuwWQp2> to RSVP for the meetup. 
 
-## **Venue: **
+## **Venue**
 
 ETHNUS,\
 Second Floor, SST Chambers,\
