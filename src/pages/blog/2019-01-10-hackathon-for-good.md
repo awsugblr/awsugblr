@@ -69,7 +69,9 @@ And that was the tough moment for the judges to identify & isolate the most infl
 
 ## Award Distribution
 
-Amal Das NP and Akhil Rajan have bagged the first prize for their innovative application **RapidSupportDesk** which could be helpful for the society to handle disaster and other major disruptions. The application uses Amazon Connect and Amazon Lex for recording Incoming calls and routing requests to support teams. Also have been designed to follow up with the incident reporters by polling automatic questions and store the records in S3 buckets for the reference.
+Amal Das NP and Akhil Rajan have bagged the first prize for their innovative application [**RapidSupportDesk**](https://github.com/kochihack/Rapid_Contact_Centre) which could be helpful for the society to handle disaster and other major disruptions. The application uses Amazon Connect and Amazon Lex for recording Incoming calls and routing requests to support teams. Also have been designed to follow up with the incident reporters by polling automatic questions and store the records in S3 buckets for the reference.
+
+The [2nd prize](https://github.com/kochihack/Hope) was safely secured by Aswin A V, Basil K Y & Jishnu Prakasan and 3rd prize went to Medical Subscription team.
 
 ![null](/img/whatsapp-image-2019-01-05-at-23.06.01.jpg)
 
