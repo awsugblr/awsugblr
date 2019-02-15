@@ -8,11 +8,9 @@ tags:
 ---
 ## Agenda:
 
-**Talk 1: Fastrack Serverless App Development with AWS Amplify** by Prashanth HN
+**Talk 1: Fastrack Serverless App Development with AWS Amplify** by Prashanth HN & Adithya Reddy
 
 Even though AWS has many serverless services, it takes a lot of time and effort to put them all together. AWS Amplify makes it really easy to add these capabilities to your application with ease and automates lot of details. In this session we will build a sample app using AWS Amplify and see how it can help accelerate development process.
-
-**Talk2**: Yet to be decided
 
 ## **Date**
 
