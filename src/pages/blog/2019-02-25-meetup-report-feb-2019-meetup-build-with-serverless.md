@@ -23,6 +23,30 @@ AWS provides a set of fully managed services that one can use to build and run s
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 AWSUGBLR organizers would like to thank
 
 * The speakers: Prashanth HN, co-founder WheelsBox.com & co-organizer AWS User Group Bengaluru.
