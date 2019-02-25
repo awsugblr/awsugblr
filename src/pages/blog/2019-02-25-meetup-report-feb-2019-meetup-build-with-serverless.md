@@ -6,6 +6,8 @@ description: Summary of Feb 2019 Meetup
 tags:
   - meetup February 2019
 ---
+![](/img/amplify-talk.jpeg)
+
 The February 2019 meetup was held at [Ethnus](https://ethnus.com/), Bangalore.\
 \
 Build with Serverless started with  a warm welcome by [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), AWS Community Hero and Lead - AWS User Group Bengaluru and introduced our speaker of the day, [Prashanth HN](https://in.linkedin.com/in/hnprashanth) co-founder of Wheelsbox.com.
@@ -23,11 +25,9 @@ AWS provides a set of fully managed services that one can use to build and run s
 
 Here are some examples of Serverless managed services offered by AWS: 
 
-
-
 <picture>
 
-
+![](/img/image4.png)
 
 Then the Speaker talked about: “What is AWS Amplify?”
 
@@ -36,6 +36,8 @@ AWS Amplify is an open source JavaScript library provided by Amazon Web Services
 The AWS Amplify library modules are broken down into categories (Auth, Analytics, Storage, APIs, Caching) to quickly add features such as User SignUp/SignIn, MFA, tracking or metric analytics, content management or Serverless API integration. 
 
 <picture>
+
+![](/img/image5.png)
 
 Amplify provides us with:
 
@@ -51,9 +53,9 @@ The amplify init command is a one-time initialization step for your Amplify powe
 
 \    **$ amplify init** ( Initialization )
 
-
-
 <picture>
+
+![](/img/image3.png)
 
 Amplify provides a set of  comprehensive library for building sophisticated cloud-powered apps:
 
@@ -80,27 +82,7 @@ If you find AWS Amplify exciting and want to get start with it, below are some r
 Jeevan unveiled the 3rd AWS Community Day date & venue, briefing the success story of [AWS Community Day Bengaluru 2018 ](https://www.youtube.com/watch?v=t08KFuSgUZE) and whats in store for the upcoming Community Day. \
 Watch out <https://communityday.awsugblr.in/> for further updates on AWS Community Day Bengaluru 2019.
 
-
-
 Stay tuned for upcoming meetups. Follow us on Linkedin or Twitter and for more update please visit:  https://awsugblr.in .                             
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 AWSUGBLR organizers would like to thank
 
