@@ -4,11 +4,11 @@ title: 'February Meetup: Build with Serverless'
 date: 2019-02-01T14:16:03.851Z
 description: 'We are back with another meetup, this time with Serverless as theme.'
 tags:
-  - meetup
+  - meetup February 2019
 ---
 ## Agenda:
 
-**Talk 1: Fastrack Serverless App Development with AWS Amplify** by Prashanth HN & Adithya Reddy
+**Fastrack Serverless App Development with AWS Amplify** by Prashanth HN
 
 Even though AWS has many serverless services, it takes a lot of time and effort to put them all together. AWS Amplify makes it really easy to add these capabilities to your application with ease and automates lot of details. In this session we will build a sample app using AWS Amplify and see how it can help accelerate development process.
 
