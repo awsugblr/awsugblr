@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Meetup report: Feb 2019 Meetup: Build with Serverless'
 date: 2019-02-25T05:28:06.801Z
-description: Summary of Feb 2019 Meetup
+description: Summary of Feb 2019 Meet-up
 tags:
   - meetup February 2019
 ---
