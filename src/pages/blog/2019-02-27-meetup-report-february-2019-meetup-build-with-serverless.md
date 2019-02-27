@@ -8,6 +8,8 @@ tags:
 ---
 Build with Serverless started with  a warm welcome by [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), AWS Community Hero and Lead - AWS User Group Bengaluru and introduced our speaker of the day, [Prashanth HN](https://in.linkedin.com/in/hnprashanth) co-founder of Wheelsbox.com.
 
+![speaker](/img/image1.jpg)
+
 ## Talk started with the question: “What is Serverless Architecture ?”
 
 A serverless architecture is a way to build and run applications and services without having to manage infrastructure. By using a serverless architecture, developers can focus on their core product instead of worrying about managing and operating servers or runtimes, either in the cloud or on-premises. Serverless has some benefits, for instance:
@@ -21,6 +23,8 @@ AWS provides a set of fully managed services that one can use to build and run s
 
 Here are some examples of Serverless managed services offered by AWS: 
 
+![](/img/image4.png)
+
 \    
 
 ## Then Speaker talked about: “What is AWS Amplify?”
@@ -28,6 +32,8 @@ Here are some examples of Serverless managed services offered by AWS:
 AWS Amplify is an open source JavaScript library provided by Amazon Web Services (AWS) that enables developers to build applications with cloud services on web or mobile platforms. It is designed to be an open and pluggable with other back-end components and services. It  is designed to give a declarative interface to client developers looking to perform common actions using cloud services in a scalable and secure manner. 
 
 The AWS Amplify library modules are broken down into categories (Auth, Analytics, Storage, APIs, Caching) to quickly add features such as User SignUp/SignIn, MFA, tracking or metric analytics, content management or Serverless API integration. 
+
+![](/img/image2.png)
 
   Image Source: AWS Amplify Official 
 
@@ -50,6 +56,8 @@ The amplify init command is a one-time initialization step for your Amplify powe
 ```
 
 Amplify provides a set of  comprehensive library for building sophisticated cloud-powered apps:
+
+![](/img/image5.png)
 
    Image Source: AWS Amplify Official 
 
