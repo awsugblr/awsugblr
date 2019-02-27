@@ -73,6 +73,18 @@ If you find AWS Amplify exciting and want to get start with it, below are some r
 * AWS Amplify FAQ: https://aws.amazon.com/amplify/faqs/
 * AWS Amplify Console FAQ: https://aws.amazon.com/amplify/console/faqs/
 
+On the whole it was a wonderful demo where #amplify, #congnito & #serverless were absolutely simplified. The most frequently asked questions from the attendees were "Show me the console, Did amplify do everything for you ?"\
+\
+\
 In end, a thank you note by Jeevan and announcements for our upcoming Community Day - 2019 ( https://communityday.awsugblr.in/ ). 
 
-Stay tuned for upcoming meetups. Follow us on Linkedin or Twitter and for more update please visit:  https://awsugblr.in .
+Stay tuned for upcoming meetups. Follow us on [Linkedin](https://www.linkedin.com/in/awsugblr/) or [Twitter](https://twitter.com/awsugblr) and for more update please visit:  [https://awsugblr.in](https://awsugblr.in/) .
+
+AWSUGBLR organizers would like to thank
+
+* The speakers: Prashanth HN for a great demo
+* Attendees for taking time out of their Saturday and joining us for the meet
+* Amazon Internet Services Private Limited for hosting the meetup and providing stickers, tea/coffee and snacks
+* [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) for contributing to the meetup report and [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for supplemental inputs
+
+Stay tuned for upcoming meetups! For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
