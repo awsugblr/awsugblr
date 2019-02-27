@@ -39,12 +39,11 @@ Amplify provides us with:
   `\    $ amplify init ( Initialization )`
   Amplify provides a set of  comprehensive library for building sophisticated cloud-powered apps:
 
-![](/img/image5.png)
-
+![null](/img/image5.png)
 
    Image Source: AWS Amplify Official 
 
-And it’s time for a Demo. Yes, it was a live demo by Prashanth starting from very scratch. Demo includes:
+And it’s time for a demo. Yes, it was a live demo by Prashanth starting from very scratch. Demo includes:
 
 * How to install Amplify CLI?
 * How to develop an application with Amplify?
