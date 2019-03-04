@@ -8,9 +8,11 @@ tags:
 ---
 ## About India Cloud Summit?
 
-India Cloud Summit is the place to explore new ideas  learn from industry experts. This summit have put together a mix of thought leaders & industry experts to cover topics like Artificial Intelligence (AI)/Machine Learning (ML), Alexa, IoT, Migration, Big Data and Cloud Architecture best practices.
+[India Cloud Summit](https://www.indiacloudsummit.com/) is the place to explore new ideas  learn from industry experts. This summit have put together a mix of thought leaders & industry experts to cover topics like Artificial Intelligence (AI)/Machine Learning (ML), Alexa, IoT, Migration, Big Data and Cloud Architecture best practices.
 
 The purpose of the summit is to network, share ideas and have meaningful conversations about how others are implementing Cloud in their Organizations, Cloud migration, DevOps and more.
+
+India Cloud Summit 2019 was hosted in Radisson Blu on 15th Feb 2019.
 
 **AWSUGBLR** is a group of passionate AWS Developers, Architects, Users, Evangelists who meet to share best practices, discuss upcoming features, pit falls etc. \
 [Runcy Oommen](https://www.linkedin.com/in/runcyoommen/), our co-organizer,  proudly presented on **Building a Serverless WebApp **at the submit and it was very well received by the audience.
@@ -31,19 +33,17 @@ Serverless has some benefits, for instance:
 
 Serverless applications don’t require provisioning, maintaining and administering servers for backend components such as compute, memory and storage.                                 
 
-![null]()
-
 Further, Runcy spoke about the “Difference b/w IAAS, PAAS, CAAS and FAAS?” 
 
 ![](/img/3.png)
 
-Infrastructure as a Service (IaaS) - A highly automated and scalable compute resources, complemented by cloud storage and network capability which can be self-provisioned, metered, monitored and available on-demand. For Instance: Google Compute Engine, AWS EC2, Azure VMs etc.
+**Infrastructure as a Service (IaaS)** - A highly automated and scalable compute resources, complemented by cloud storage and network capability which can be self-provisioned, metered, monitored and available on-demand. For Instance: Google Compute Engine, AWS EC2, Azure VMs etc.
 
-Platform as a Service (PaaS)- A service provider offers access to a cloud-based environment in which users can build and deliver applications. The provider supplies underlying infrastructure. For Instance: Google App Engine, AWS Elastic BeanStalk etc.
+**Platform as a Service (PaaS)**- A service provider offers access to a cloud-based environment in which users can build and deliver applications. The provider supplies underlying infrastructure. For Instance: Google App Engine, AWS Elastic BeanStalk etc.
 
-Containers as a Service (CaaS) - A cloud service model that allows users to manage and deploy containers, applications and clusters through container-based virtualization. For Instance: Google Container Engine, AWS Container Engine etc.
+**Containers as a Service (CaaS)** - A cloud service model that allows users to manage and deploy containers, applications and clusters through container-based virtualization. For Instance: Google Container Engine, AWS Container Engine etc.
 
-Function as a Service (FaaS) - An entirely new cloud model which provides a platform for customers to develop, run, and manage applications without the complex maintenance and building of infrastructure that is usually associated with the development and the launch of an app.
+**Function as a Service (FaaS)** - An entirely new cloud model which provides a platform for customers to develop, run, and manage applications without the complex maintenance and building of infrastructure that is usually associated with the development and the launch of an app.
 
 ![](/img/4.png)
 
