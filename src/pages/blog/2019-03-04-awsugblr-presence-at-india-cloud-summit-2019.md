@@ -33,9 +33,9 @@ Serverless has some benefits, for instance:
 
 Serverless applications don’t require provisioning, maintaining and administering servers for backend components such as compute, memory and storage.                                 
 
-Further, Runcy spoke about the “Difference b/w IAAS, PAAS, CAAS and FAAS?” 
+Further, Runcy spoke about the “Difference between IAAS, PAAS, CAAS and FAAS?” 
 
-![](/img/3.png)
+![null](/img/3.png)
 
 **Infrastructure as a Service (IaaS)** - A highly automated and scalable compute resources, complemented by cloud storage and network capability which can be self-provisioned, metered, monitored and available on-demand. For Instance: Google Compute Engine, AWS EC2, Azure VMs etc.
 
@@ -45,7 +45,7 @@ Further, Runcy spoke about the “Difference b/w IAAS, PAAS, CAAS and FAAS?”
 
 **Function as a Service (FaaS)** - An entirely new cloud model which provides a platform for customers to develop, run, and manage applications without the complex maintenance and building of infrastructure that is usually associated with the development and the launch of an app.
 
-![](/img/4.png)
+![null](/img/4.png)
 
 And it’s time for a demo. Yes, it was a live demo by Runcy Oommen from scratch. Demo includes following AWS Services:
 
@@ -63,6 +63,6 @@ Complete code and slides for demo can be found at:
 
 At the end, an award was presented to Runcy Oommen from the organizers of the India Cloud Summit:
 
-![](/img/5.png)
+![null](/img/5.png)
 
 Stay tuned for upcoming meetups. For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
