@@ -15,12 +15,15 @@ The CFP can be submitted on the [Community Day website](https://communityday.aws
 
 Whether you are an experienced speaker or never have given a talk, if you have a story to share or a use case to describe, we encourage you to submit a talk.
 
-Put forward your talks on the [Community Day website](https://communityday.awsugblr.in/#cfp)
+### How do I propose my talk?
 
-Important dates to remember:
+Please fill up the CFP form on the [Community Day website](https://communityday.awsugblr.in/#cfp)
+
+### Important dates to remember:
 
 * March 4th, 2019: CFP opens
 * April 10, 2019: Last date for submission of CFP
 * April 15, 2019: Speaker list announced.
+* July 27, 2019: Day of the event.
 
-If you have any questions, do drop us an email at <mailto:info@awsugblr.in>
+If you have any questions, do drop us an email at <mailto:info@awsugblr.in> or reach us on our [social media channels](https://www.awsugblr.in/about/)
