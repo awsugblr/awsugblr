@@ -9,7 +9,7 @@ tags:
 ---
 [AWS Users Group Bengaluru](https://www.awsugblr.in/) is back with a bang to host the most awaited event, [AWS Community Day Bengaluru 2019](https://communityday.awsugblr.in), unveiling success stories, use cases & much more from industry leaders.
 
-We're now inviting and accepting talk proposals for AWS Community Day 2019. Tell us about your use cases, success stories, lessons learnt from failures, share your challenges and what you learned along the way. We're looking for real-world use cases and lessons learnt more than simple tutorial rundowns. 
+We're now inviting and accepting talk proposals for AWS Community Day 2019. Tell us about your use cases, success stories, lessons learned from failures, share your challenges and what you learned along the way. We're looking for real-world use cases and lessons learned more than simple tutorial rundowns. 
 
 The CFP can be submitted on the [Community Day website](https://communityday.awsugblr.in/#cfp). CFP will remain open till April 10th. Post then, the review panel will evaluate the proposals and reach out and publish the talks.
 
