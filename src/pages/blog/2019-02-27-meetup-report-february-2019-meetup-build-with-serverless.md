@@ -10,7 +10,7 @@ tags:
   - February 2019
   - Report
 ---
-Build with Serverless started with  a warm welcome by [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), AWS Community Hero and Lead - AWS User Group Bengaluru and introduced our speaker of the day, [Prashanth HN](https://in.linkedin.com/in/hnprashanth) co-founder of Wheelsbox.com.
+Build with Serverless started with  a warm welcome by [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), AWS Community Hero and Lead - AWS User Group Bengaluru and introduced our speaker of the day, [Prashanth HN](https://in.linkedin.com/in/hnprashanth) co-founder of [Wheelsbox.com](https://wheelsbox.com/).
 
 ![null](/img/image1.jpg)
 
