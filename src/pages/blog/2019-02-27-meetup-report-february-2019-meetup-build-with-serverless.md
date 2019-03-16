@@ -73,7 +73,7 @@ AWSUGBLR organizers would like to thank
 
 * The speakers: Prashanth HN for a great demo
 * Attendees for taking time out of their Saturday and joining us for the meet
-* Ethnus for hosting the meetup and providing stickers, tea/coffee and snacks
+* Ethnus for hosting the meetup and tea/coffee and snacks
 * [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) for contributing to the meetup report and [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for supplemental inputs
 
 Stay tuned for upcoming meetups! For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
