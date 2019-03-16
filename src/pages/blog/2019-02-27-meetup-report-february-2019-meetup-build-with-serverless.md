@@ -8,7 +8,7 @@ tags:
   - February 2019
   - Report
 ---
-Build with Serverless started with  a warm welcome by [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), AWS Community Hero and Lead - AWS User Group Bengaluru and introduced our speaker of the day, [Prashanth HN](https://in.linkedin.com/in/hnprashanth) co-founder of Wheelsbox.com.
+Build with Serverless started with  a warm welcome by [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), AWS Community Hero and Lead - AWS User Group Bengaluru and introduced our speaker of the day, [Prashanth HN](https://in.linkedin.com/in/hnprashanth) co-founder of [Wheelsbox.com](https://wheelsbox.com/).
 
 ![null](/img/image1.jpg)
 
@@ -58,10 +58,10 @@ After adding all capabilities the app was fully functional & it was time to ship
 
 If you find AWS Amplify exciting and want to get start with it, below are some reference links which helps you in getting start:
 
-* AWS Amplify Home: https://aws-amplify.github.io
-* Demo Project: https://github.com/hnprashanth/amplify-demo-calorie-tracker
-* AWS Amplify FAQ: https://aws.amazon.com/amplify/faqs/
-* AWS Amplify Console FAQ: https://aws.amazon.com/amplify/console/faqs/
+* AWS Amplify Home: <https://aws-amplify.github.io>
+* Demo Project: <https://github.com/hnprashanth/amplify-demo-calorie-tracker>
+* AWS Amplify FAQ: <https://aws.amazon.com/amplify/faqs/>
+* AWS Amplify Console FAQ: <https://aws.amazon.com/amplify/console/faqs/>
 
 On the whole it was a wonderful demo where Amplify, Cognito & Serverless were absolutely simplified. The most frequently asked questions from the attendees were "Show me the console, Did Amplify do everything for you ?"
 
@@ -73,7 +73,7 @@ AWSUGBLR organizers would like to thank
 
 * The speakers: Prashanth HN for a great demo
 * Attendees for taking time out of their Saturday and joining us for the meet
-* Amazon Internet Services Private Limited for hosting the meetup and providing stickers, tea/coffee and snacks
+* Ethnus for hosting the meetup and tea/coffee and snacks
 * [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) for contributing to the meetup report and [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for supplemental inputs
 
 Stay tuned for upcoming meetups! For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
