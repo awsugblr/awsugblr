@@ -2,9 +2,7 @@
 templateKey: blog-post
 title: 'Meetup report: February 2019 Meetup: Build with Serverless'
 date: 2019-02-27T11:58:38.897Z
-description: >-
-  Summary of February 2019 Meetup to Build your own multi-tenant photo album web
-  app
+description: Summary of February 2019 Meetup focusing on Serverless with AWS Amplify
 tags:
   - Meetup
   - February 2019
