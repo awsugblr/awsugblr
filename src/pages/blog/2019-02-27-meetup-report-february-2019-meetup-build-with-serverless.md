@@ -58,10 +58,10 @@ After adding all capabilities the app was fully functional & it was time to ship
 
 If you find AWS Amplify exciting and want to get start with it, below are some reference links which helps you in getting start:
 
-* AWS Amplify Home: https://aws-amplify.github.io
-* Demo Project: https://github.com/hnprashanth/amplify-demo-calorie-tracker
-* AWS Amplify FAQ: https://aws.amazon.com/amplify/faqs/
-* AWS Amplify Console FAQ: https://aws.amazon.com/amplify/console/faqs/
+* AWS Amplify Home: <https://aws-amplify.github.io>
+* Demo Project: <https://github.com/hnprashanth/amplify-demo-calorie-tracker>
+* AWS Amplify FAQ: <https://aws.amazon.com/amplify/faqs/>
+* AWS Amplify Console FAQ: <https://aws.amazon.com/amplify/console/faqs/>
 
 On the whole it was a wonderful demo where Amplify, Cognito & Serverless were absolutely simplified. The most frequently asked questions from the attendees were "Show me the console, Did Amplify do everything for you ?"
 
