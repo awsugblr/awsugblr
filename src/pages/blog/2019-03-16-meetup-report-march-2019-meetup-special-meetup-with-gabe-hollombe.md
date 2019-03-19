@@ -17,13 +17,19 @@ The most awaited session started with a warm welcome by [Jeevan Dongre](https://
 
 
 
+Gabe discussed on building a photo sharing album (web app) using tools/frameworks like #React, #GraphQL, #APIGateway. AWS services like Amplify, Appsync, Cloudformation were also used.
 
+The session was at a brisk pace with live coding using AWS Cloud9 workspace and Gabe articulated & orchestrated that very well with an in depth coverage starting from setup, installation, env configuration and development.
 
+The step-by-step guide of this hands-on workshop can be accessed from - <https://amplify-workshop.go-aws.com>
 
+Here you go with the High level architecture for reference
+
+![](/img/architecture.png)
 
 Thanks to [Rashmi Shreedharan](https://www.linkedin.com/in/rashmis/) for all the arrangements.
 
-In end, a thank you note by Jeevan and announcements for our upcoming Community Day - 2019 ( https://communityday.awsugblr.in/ ). 
+Jeevan ended with a "Thank you Note" and added details about our upcoming Community Day - 2019 ( https://communityday.awsugblr.in/ ). 
 
 Stay tuned for upcoming meetups. Follow us on [Linkedin](https://www.linkedin.com/in/awsugblr/) or [Twitter](https://twitter.com/awsugblr) and for more update please visit:  [https://awsugblr.in](https://awsugblr.in/).
 
