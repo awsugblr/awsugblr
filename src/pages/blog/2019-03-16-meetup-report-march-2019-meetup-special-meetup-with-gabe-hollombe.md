@@ -15,7 +15,9 @@ Gabe Hollombe. It was unbelievable that by 6:15pm the hall was full. LogMeIn Tea
 
 The most awaited session started with a warm welcome by [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), AWS Community Hero and Lead - AWS User Group Bengaluru and introduced our speaker of the day, [Gabe Hollombe](https://www.linkedin.com/in/gabehollombe/), Technical Evangelist at Amazon Web Services, Singapore.
 
+![](/img/gabemeetup_2.png)
 
+![](/img/gabemeetup.png)
 
 Gabe discussed on building a photo sharing album (web app) using tools/frameworks like #React, #GraphQL, #APIGateway. AWS services like Amplify, Appsync, Cloudformation were also used.
 
