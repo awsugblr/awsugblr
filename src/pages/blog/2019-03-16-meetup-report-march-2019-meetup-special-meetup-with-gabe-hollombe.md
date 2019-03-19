@@ -31,7 +31,7 @@ Here you go with the High level architecture for reference
 
 Thanks to [Rashmi Shreedharan](https://www.linkedin.com/in/rashmis/) for all the arrangements.
 
-Jeevan ended with a "Thank you Note" and added details about our upcoming Community Day - 2019 ( https://communityday.awsugblr.in/ ). 
+Jeevan ended with a "Thank you, Note" and added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) and announced [Call for Proposal](https://www.awsugblr.in/blog/2019-03-04-call-for-proposals-for-aws-community-day-bengaluru-2019-are-now-open/). 
 
 Stay tuned for upcoming meetups. Follow us on [Linkedin](https://www.linkedin.com/in/awsugblr/) or [Twitter](https://twitter.com/awsugblr) and for more update please visit:  [https://awsugblr.in](https://awsugblr.in/).
 
