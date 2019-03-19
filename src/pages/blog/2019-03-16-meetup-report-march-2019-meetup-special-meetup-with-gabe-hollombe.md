@@ -40,6 +40,6 @@ AWSUGBLR organizers would like to thank
 * The speakers: Gabe Hollobe, for the live demo
 * Attendees for gathering on a weekday evening for the meet
 * [LogMeIn](https://www.logmein.com/) for hosting the meetup and providing stickers, tea/coffee and snacks
-* [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) for contributing to the meetup report and [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for supplemental inputs
+* [Runcy Ommen](https://www.linkedin.com/in/runcyoommen/) and [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for contributing to the meetup report
 
 Stay tuned for upcoming meetups! For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
