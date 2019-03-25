@@ -10,13 +10,13 @@ tags:
   - '2019'
   - April
 ---
-Owing to the success of AWS User Group Bengaluru's Feb 2019 meetup on [Build with Serverless](https://www.awsugblr.in/blog/2019-02-27-meetup-report-february-2019-meetup-build-with-serverless/) by [Prashanth HN](https://in.linkedin.com/in/hnprashanth) co-founder of [Wheelsbox.com](https://wheelsbox.com/) and overwhelming appreciations in social media, we had a request from [Marcelo Palladino,](https://www.linkedin.com/in/mfpalladino/) co-organizer [AWS user group Sao Paulo](https://www.meetup.com/awsusergroupsp/) to schedule an online presentation to the Sao Paulo user group members. 
+Owing to the success of our Feb 2019 meetup on [Build with Serverless](https://www.awsugblr.in/blog/2019-02-27-meetup-report-february-2019-meetup-build-with-serverless/) by [Prashanth HN](https://in.linkedin.com/in/hnprashanth) co-organizer of AWS User Group, Bengaluru and overwhelming appreciations in social media, we had a request from [Marcelo Palladino,](https://www.linkedin.com/in/mfpalladino/) co-organizer [AWS user group Sao Paulo](https://www.meetup.com/awsusergroupsp/) to schedule an online presentation to the Sao Paulo user group members. 
 
 That casual conversation in twitter didn't end there!
 
-![](/img/awsurblr_saopaulo.png)
+![null](/img/awsurblr_saopaulo.png)
 
-Prashanth & Marcelo continued to brainstorm to give the initial notion, a shape!
+Prashanth & Marcelo continued to brainstorm to give the initial notion, an identity in the form of a web session!
 
 It wasn't easy due to timezone difference: Sao Paulo meetup usually happens at 7:00 PM on a weekday and it sounded unrealistic for Prashanth, a typical Bengalurian who would obviously be in deep sleep at 3:00 AM. 
 
