@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: >-
-  April 2019 e-meetup: awsuglr in collaboration with AWS user group Sao Paulo to
-  help Build with Serverless
+  April 2019 e-meetup: AWSUGBLR in collaboration with AWS UG Sao Paulo to help
+  Build with Serverless
 date: 2019-03-24T08:27:16.308Z
 description: Details about our upcoming April 2019 e-meetup
 tags:
