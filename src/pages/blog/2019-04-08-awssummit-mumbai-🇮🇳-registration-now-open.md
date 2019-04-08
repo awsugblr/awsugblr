@@ -12,4 +12,4 @@ India's most awaited largest IT event, Amazon Web Services (AWS) Summit in Mumba
 
 Register for free today @ <https://aws.amazon.com/events/summits/mumbai/> 
 
-![](/img/awssummit_mumbai_open.jpg)
+![null](/img/awssummit_mumbai_open.jpg)
