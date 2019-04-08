@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "#AWSSummit Mumbai \U0001F1EE\U0001F1F3 registration now open"
+title: '#AWSSummit Mumbai registration now open'
 date: 2019-04-08T03:54:58.511Z
 description: AWSSummit Mumbai Announcement
 tags:
