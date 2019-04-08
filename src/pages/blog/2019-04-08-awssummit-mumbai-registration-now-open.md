@@ -14,4 +14,4 @@ Enlighten yourself all day with demos, lightening talks, hands-on learning from 
 
 Register for free today @ <https://aws.amazon.com/events/summits/mumbai/>
 
-![](/img/awssummit_mumbai_open.jpg)
+![null](/img/awssummit_mumbai_open.jpg)
