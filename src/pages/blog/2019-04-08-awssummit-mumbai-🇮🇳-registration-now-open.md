@@ -10,6 +10,8 @@ tags:
 ---
 India's most awaited largest IT event, Amazon Web Services (AWS) Summit in Mumbai 🇮🇳 on May 15, 2019, is open for registration now!
 
+Enlighten yourself all day with demos, lightening talks, hands-on learning from #awscloud experts around the world focusing eight key themes - Operate, AL / ML, Analytics, Security, Migration, Media and FSI
+
 Register for free today @ <https://aws.amazon.com/events/summits/mumbai/> 
 
 ![null](/img/awssummit_mumbai_open.jpg)
