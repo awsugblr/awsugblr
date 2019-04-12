@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Winners of FREE pass to GraphQL Asia 2019 conference
+title: Announcing winners of FREE pass to GraphQL Asia Bengaluru 2019 conference
 date: 2019-04-12T08:58:15.977Z
 description: GraphQL Asia 2019 Conference passes
 tags:
