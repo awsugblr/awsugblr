@@ -6,7 +6,7 @@ description: 'AWS Women In Tech Day at #AWSSummit Mumbai '
 tags:
   - awssummit mumbai 2019 diversity
 ---
-AWS is hosting the first **Women in Tech Day **in Mumbai, India. 
+AWS is hosting the first **Women in Tech Day** in Mumbai, India. 
 
 ![](/img/awssummit_womenintechday.jpg)
 
