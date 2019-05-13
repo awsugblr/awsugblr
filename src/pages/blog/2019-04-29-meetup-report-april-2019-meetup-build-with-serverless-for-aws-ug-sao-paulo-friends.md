@@ -33,9 +33,9 @@ The much awaited e-meetup for AWS UG Sao Paulo friends to [Build with Serverless
 >
 > The Meetup worked perfectly. We had a good sound system and a big screen. All experience was as a regular Meetup.
 >
-> Prashanth did a great introduction of AWS Amplify and show how start and delivery a entire application from scratch.
+> Prashanth did a great introduction of AWS Amplify and showed how to build an entire application from scratch using amplify.
 >
-> Speaking as an organizer everything worked like a charm. We had a lot of questions after the presentation and stayed for 40 minutes talking about the content. We feel like a mission accomplished and we hope do it again and continue to "build bridges" and to cause some social impact.
+> Speaking as an organizer, everything worked like a charm. We had a lot of questions after the presentation and stayed for 40 minutes talking about the content. We feel like a mission accomplished and we hope do it again and continue to "build bridges" and to cause some social impact.
 >
 >
 
