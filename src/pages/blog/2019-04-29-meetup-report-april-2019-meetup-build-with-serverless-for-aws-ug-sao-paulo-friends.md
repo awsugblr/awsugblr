@@ -9,6 +9,7 @@ tags:
   - e-meetup
   - '2019'
   - April
+  - report
 ---
 The much awaited e-meetup for AWS UG Sao Paulo friends to [Build with Serverless](https://www.awsugblr.in/blog/2019-03-24-april-2019-e-meetup-awsuglr-in-collaboration-with-aws-user-group-sao-paulo-to-help-build-with-serverless/) started with great enthusiasm. 
 
@@ -17,6 +18,8 @@ The much awaited e-meetup for AWS UG Sao Paulo friends to [Build with Serverless
 
 
 ![Best Photo with the Speaker!](/img/img-20190428-wa0005.jpg)
+
+![](/img/img_20190427_110848.jpg)
 
 >
 >
