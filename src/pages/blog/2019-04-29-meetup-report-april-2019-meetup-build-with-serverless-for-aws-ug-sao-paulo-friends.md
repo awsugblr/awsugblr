@@ -39,5 +39,6 @@ The much awaited e-meetup for AWS UG Sao Paulo friends to [Build with Serverless
 >
 >
 
+Let's continue to nurture the cross-learnings across the boundaries.\
 \
 Stay tuned for upcoming meetups. Follow us on [Linkedin](https://www.linkedin.com/in/awsugblr/) or [Twitter](https://twitter.com/awsugblr) and for more update please visit: <https://awsugblr.in>
