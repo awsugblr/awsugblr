@@ -15,7 +15,7 @@ Grand Hyatt Mumbai was all set to welcome the enthusiastic women aspirants to ge
 Rohini addressed about Build & Lean including AWS Community in her session on **Let’s Build with AWS **
 
 * **Build **- Rohini walked through the 5 pillars of moden applications setting the stage for upcoming sessions
-* **Learn **- She** **spoke about Projects on AWS, Github Samples, Machine Learning University, tutorials, Certifications, Open Source technology and much more. All attendees will be getting flat 30% discount on training offered by AWS Training and Certification, AISPL. Thats indeed a great reason to rejoice!
+* **Learn **- She spoke about Projects on AWS, Github Samples, Machine Learning University, tutorials, Certifications, Open Source technology and much more. All attendees will be getting flat 30% discount on training offered by AWS Training and Certification, AISPL. Thats indeed a great reason to rejoice!
 * **AWS Community India **- Rohini also spoke about how the User Groups in India have established a standard for community based selfless learning and sharing platform and also AWS Community Heros & their contribution to the AWS community
 
 ![](/img/wit_rohini.png)
