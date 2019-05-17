@@ -43,7 +43,7 @@ Aarthi's session was a pure reflection of her passion blend with profession and 
 
 ![](/img/wit_aarti.png)
 
-Lunch conversations with women from different experience levels was a great feeling but all were united by common goal of learning to reach great heights.
+Lunch conversations with women from different experience levels was a great feeling but all were united by common goal of learning to be on Cloud 9.
 
 ![](/img/wit_lunch.png)
 
