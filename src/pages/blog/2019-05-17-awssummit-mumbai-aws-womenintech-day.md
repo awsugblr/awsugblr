@@ -29,7 +29,7 @@ Arun spoke about how Serverless computing evolved and now valued as one of the p
 
 ![null](/img/wit_arun.png)
 
-![](/img/wit_womenintech.png)
+![null](/img/wit_womenintech.png)
 
 [Gabe Hollombe](https://www.linkedin.com/in/gabehollombe/), Technical Evangelist, AWS spoke on **Building Intelligent Apps using AI services** \
 Thanks to Gabe to paint lovely picture on the inquisitve minds with AI Services, ML Services and ML framework & Infrstructure. We realized how simple is to recognize David Becham in the scene using Amazon Rekognition celebrity recognition API. Went to explaining about object & scene detection, face recognition, optical character recognition. It was a great learning experience to witness how Policy Bazar in India have used AI for their Business development.
@@ -46,10 +46,10 @@ Aarthi's session was a pure reflection of her passion blend with profession and 
 \
 Any session will be incomplete without a selfie :) 
 
-![](/img/wit_selfitime.png)
+![null](/img/wit_selfitime.png)
 
 Lunch conversations with women from different experience levels was a great feeling but all were united by common goal of learning to be on Cloud 9.
 
 ![null](/img/wit_lunch.png)
 
-I was glad to be part of such an Amazing event!
+I was glad to be part of such an Amazing event and share my experience with fellow techies!
