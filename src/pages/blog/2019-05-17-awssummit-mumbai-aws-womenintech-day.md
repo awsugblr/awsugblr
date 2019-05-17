@@ -16,13 +16,13 @@ Rohini addressed about Build & Lean including AWS Community in her session on **
 
 * **Build **- Rohini walked through the 5 pillars of moden applications setting the stage for upcoming sessions
 * **Learn **- She spoke about Projects on AWS, Github Samples, Machine Learning University, tutorials, Certifications, Open Source technology and much more. All attendees will be getting flat 30% discount on training offered by AWS Training and Certification, AISPL. Thats indeed a great reason to rejoice!
-* **AWS Community India **- Rohini also spoke about how the User Groups in India have established a standard for community based selfless learning and sharing platform and also AWS Community Heros & their contribution to the AWS community
+* **AWS Community India **- Rohini also spoke about how the User Groups in India have established a standard for community based selfless learning and sharing platform and also AWS Community Heros & their contribution to the AWS community.
 
 ![](/img/wit_rohini.png)
 
 ![](/img/wit_hero.png)
 
-
+![AWS re:Invent 2018 Community Leader Diversity Scholarship recipient](/img/wit_bhu.png)
 
 [Arun Gupta](https://www.linkedin.com/in/arunpgupta/), Arun Gupta, Global Principal Open Source Technologist, AWS spoke on **Serverless: Functions, Containers and Beyond **\
 Arun spoke about how Serverless computing evolved and now valued as one of the preeminent technologies driving cloud adoption and modern applications. He spoke about the myriad of serverless offerings that have been created since its inception and explained how serverless will fundamentally change the way we think about application architecture and where do we see the next wave of innovation.
@@ -44,5 +44,7 @@ Aarthi's session was a pure reflection of her passion blend with profession and 
 ![](/img/wit_aarti.png)
 
 Lunch conversations with women from different experience levels was a great feeling but all were united by common goal of learning to reach great heights.
+
+![](/img/wit_lunch.png)
 
 I was glad to be part of such an Amazing event!
