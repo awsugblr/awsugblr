@@ -8,7 +8,7 @@ tags:
 ---
 AWS Women in Tech Day was a half-day conference aimed to inspire, educate and bring Female IT professionals together through technical discussions, demos and networking opportunities with AWS experts.
 
-Grand Hyatt Mumbai was all set to welcome the enthusiastic women aspirants to get them up to the speed on the hottest trends in cloud computing.  [Rashmi Shreedharan](https://www.linkedin.com/in/rashmis/) and [Rohini Gaonkar](https://in.linkedin.com/in/rohini-gaonkar-b909a12b) were extending hearty welcome to the attendees to set a stage for networking and infact were thrilled with the overwhelming response of 120+ registrations in the first ever organized AWS Women in Tech Day.
+Grand Hyatt Mumbai was all set to welcome the enthusiastic women aspirants to get them up to the speed on the hottest trends in cloud computing.  [Rashmi Shreedharan](https://www.linkedin.com/in/rashmis/), Manager - Developer Marketing and [Rohini Gaonkar](https://in.linkedin.com/in/rohini-gaonkar-b909a12b), Senior Solution Architect, Amazon were extending hearty welcome to the attendees to set a stage for networking and infact were thrilled with the overwhelming response of 120+ registrations in the first ever organized AWS Women in Tech Day.
 
 ![](/img/wit_registration.png)
 
@@ -24,17 +24,25 @@ Rohini addressed about Build & Lean including AWS Community in her session on **
 
 
 
-Arun 
-
-
+[Arun Gupta](https://www.linkedin.com/in/arunpgupta/), Arun Gupta, Global Principal Open Source Technologist, AWS spoke on **Serverless: Functions, Containers and Beyond **\
+Arun spoke about how Serverless computing evolved and now valued as one of the preeminent technologies driving cloud adoption and modern applications. He spoke about the myriad of serverless offerings that have been created since its inception and explained how serverless will fundamentally change the way we think about application architecture and where do we see the next wave of innovation.
 
 ![](/img/wit_arun.png)
 
-Gabe
+[Gabe Hollombe](https://www.linkedin.com/in/gabehollombe/), Technical Evangelist, AWS spoke on **Building Intelligent Apps using AI services** \
+Thanks to Gabe to paint lovely picture on the inquisitve minds with AI Services, ML Services and ML framework & Infrstructure. We realized how simple is to recognize David Becham in the scene using Amazon Rekognition celebrity recognition API. Went to explaining about object & scene detection, face recognition, optical character recognition. It was a great learning experience to witness how Policy Bazar in India have used AI for their Business development.
+
+
 
 ![](/img/wit_gabe.png)
 
 \
-Aarthi
+[Aarthi Raju](https://www.linkedin.com/in/aarthi-raju/), Principal Solutions Architect, AWS spoke on ** IoT and the cloud**
+
+Aarthi's session was a pure reflection of her passion blend with profession and definitely would love to have an iRobo for myself if I could get one in India :) 
 
 ![](/img/wit_aarti.png)
+
+Lunch conversations with women from different experience levels was a great feeling but all were united by common goal of learning to reach great heights.
+
+I was glad to be part of such an Amazing event!
