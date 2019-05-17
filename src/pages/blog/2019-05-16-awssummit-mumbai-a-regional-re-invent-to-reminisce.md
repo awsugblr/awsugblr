@@ -8,7 +8,7 @@ tags:
 ---
 With [\#AWSSummit](https://www.awsugblr.in/blog/2019-04-08-awssummit-mumbai-registration-now-open/) annoucement, [Rashmi Shreedharan](https://www.linkedin.com/in/rashmis/), Manager - Developer Marketing, AWS extended the invite to AWS User Group Leads and AWS Community Heros join the India's largest IT event, Amazon Web Services (AWS) Summit in Mumbai on May 15, 2019.
 
-![](/img/awssummit_mumbai.png)
+![null](/img/awssummit_mumbai.png)
 
 I was glad to be part of [\#AWSSummit](https://aws.amazon.com/events/summits/mumbai/) events as #awsugblr represent along with AWS Community Heros [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/) & [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/)  and AWS UG Lead [Prashanth NH](https://in.linkedin.com/in/hnprashanth).
 
