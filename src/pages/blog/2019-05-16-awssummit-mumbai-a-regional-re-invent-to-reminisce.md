@@ -22,9 +22,11 @@ We were equally excited to meet fellow AWS UG Leads across the country
 * [Piyush Chandra](https://www.linkedin.com/in/piyush-chandra-604472167/) from Delhi
 * [Dhaval Nagar](https://www.linkedin.com/in/dhavaln/) from Surat
 
+
+
 Two days at Mumbai was a great learning experience from AWS experts around the globe and networking with like-minded folks, all the time reminded me to call this very well organized event as a regional re:Invent. It's certainly worth capturing some of the wonderful moments to reminisce..
 
-AWS Women In Tech Days 
+AWS Women In Tech Day
 
 Cloud Warrior
 
