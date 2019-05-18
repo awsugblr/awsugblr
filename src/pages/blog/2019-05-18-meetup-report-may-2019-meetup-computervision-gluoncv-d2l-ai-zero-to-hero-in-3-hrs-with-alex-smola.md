@@ -12,7 +12,7 @@ tags:
 ---
 AWS User Group Bengaluru and Bridgei2i were equally honoured to host our star speaker [Alex Smola](https://alex.smola.org/), Distinguished Scientist / VP - Machine Learning at AWS. Alex is recognized as one of the world’s top machine learning experts. Alex having keen interest in deep learning research, scalability of algorithms, statistical modeling, machine learning etc. 
 
-We are also proud to annouce the first ever live streaming of a meetup through <https://www.twitch.tv/awsugblr> to enable the AWS User Groups across India to follow along Alex Smola's masterclass to dive into** Deep Learning**. 
+We are also proud to annouce the first ever live streaming of our meetup through <https://www.twitch.tv/awsugblr> to enable the AWS User Groups across India to follow along Alex Smola's masterclass workshop on **Dive into Deep Learning**. 
 
 The session started with “Computer vision is one of the key applications of deep learning.” All the participants had pre-configured their laptops with the prerequisites mentioned our [meetup announcement blog](https://www.awsugblr.in/blog/2019-05-03-may-meetup-deep-learning-hands-on-workshop-with-alex-smola/) since this meetup was a planned a workshop.
 
