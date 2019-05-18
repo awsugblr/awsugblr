@@ -103,11 +103,13 @@ Here are some important links to GluonCV & D2L.ai:
 
 ## Selfie with the Speaker & Group Photo
 
+![](/img/selfie.jpg)
 
+![](/img/group_pic.jpeg)
 
 Thanks to [Rashmi Shreedharan](https://www.linkedin.com/in/rashmis/) & [Girish Patil](https://www.linkedin.com/in/girish-cloud/) for all the arrangements.
 
-[Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/) added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) and announced the Super Early Bird offer conference pass for 1499/- valid till May 31st 2019.
+In the closing note, [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/) extended his hearty thanks to Alex Smola and added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) spanned across two days - 26th & 27th July  and announced the Super Early Bird offer conference pass for 1499/- valid till May 31st 2019. 
 
 Stay tuned for upcoming meetups. Follow us on [LinkedIn](https://www.linkedin.com/in/awsugblr/) or [Twitter](https://twitter.com/awsugblr) and for more update please visit:  [https://awsugblr.in](https://awsugblr.in/).
 
