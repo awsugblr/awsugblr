@@ -12,14 +12,12 @@ tags:
   - May 2019
   - Report
 ---
-AWS User Group Bengaluru and Bridgei2i were equally honoured to host our star speaker [Alex Smola](https://alex.smola.org/), Director of Machine Learning, AWS and also proud to annouce first ever live streaming of a meetup through <https://www.twitch.tv/awsugblr> to enable the AWS User Groups across India to follow along Alex Smola's masterclass to dive into** Deep Learning**. 
+AWS User Group Bengaluru and Bridgei2i were equally honoured to host our star speaker [Alex Smola](https://alex.smola.org/), Distinguished Scientist / VP - Machine Learning at AWS and also proud to annouce the first ever live streaming of a meetup through <https://www.twitch.tv/awsugblr> to enable the AWS User Groups across India to follow along Alex Smola's masterclass to dive into** Deep Learning**. 
 
 ![](/img/alex_for_blog.jpg)
 
 \
 Attendees were ready with their laptops pre-configured with pre-requsite seup on Gluon & GPU.
-
-
 
 ![](/img/alex_attendees.jpg)
 
