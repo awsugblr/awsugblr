@@ -1,8 +1,6 @@
 ---
 templateKey: blog-post
-title: >-
-  Meetup report: May 2019 Meetup: ComputerVision GluonCV & D2L.ai - Zero to Hero
-  in 3 hrs with Alex Smola
+title: 'May 2019 #Meetup Report: Dive into #DeepLearning by @smolix'
 date: 2019-05-18T05:11:52.420Z
 description: >-
   Summary of May 2019 Meetup - ComputerVision GluonCV & D2L.ai - Zero to Hero in
