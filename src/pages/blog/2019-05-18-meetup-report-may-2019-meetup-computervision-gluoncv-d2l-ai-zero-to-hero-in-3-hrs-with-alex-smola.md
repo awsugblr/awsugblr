@@ -24,7 +24,7 @@ Attendees were ready with their laptops pre-configured with pre-requsite seup on
 \
 [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), AWS Community Hero and Lead - AWS User Group Bengaluru concluded the session
 
-## Selfi with the Speaker
+## Selfie with the Speaker
 
 
 
