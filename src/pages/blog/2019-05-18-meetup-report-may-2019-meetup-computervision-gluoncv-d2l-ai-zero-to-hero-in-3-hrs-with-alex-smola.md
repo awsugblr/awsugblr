@@ -14,7 +14,7 @@ tags:
 ---
 AWS User Group Bengaluru and Bridgei2i were equally honoured to host our star speaker [Alex Smola](https://alex.smola.org/), Director of Machine Learning, AWS and also proud to annouce first ever live streaming of a meetup through <https://www.twitch.tv/awsugblr> to enable the AWS User Groups across India to follow along Alex Smola's masterclass to dive into** Deep Learning**. 
 
-![](/img/alex_deeplearning.jpg)
+![](/img/alex_for_blog.jpg)
 
 \
 Attendees were ready with their laptops pre-configured with pre-requsite seup on Gluon & GPU.
@@ -26,11 +26,15 @@ Attendees were ready with their laptops pre-configured with pre-requsite seup on
 \
 [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), AWS Community Hero and Lead - AWS User Group Bengaluru concluded the session
 
+## Selfi with the Speaker
+
+
+
 Thanks to [Rashmi Shreedharan](https://www.linkedin.com/in/rashmis/) & [Girish Patil](https://www.linkedin.com/in/girish-cloud/) for all the arrangements.
 
 [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/) added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) and announced the Super Early Bird offer conference pass for 1499/- valid till May 31st 2019.
 
-Stay tuned for upcoming meetups. Follow us on [Linkedin](https://www.linkedin.com/in/awsugblr/) or [Twitter](https://twitter.com/awsugblr) and for more update please visit:  [https://awsugblr.in](https://awsugblr.in/).
+Stay tuned for upcoming meetups. Follow us on [LinkedIn](https://www.linkedin.com/in/awsugblr/) or [Twitter](https://twitter.com/awsugblr) and for more update please visit:  [https://awsugblr.in](https://awsugblr.in/).
 
 AWSUGBLR organizers would like to thank
 
