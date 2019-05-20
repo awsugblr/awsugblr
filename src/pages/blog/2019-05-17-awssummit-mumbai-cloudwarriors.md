@@ -13,6 +13,7 @@ For 2019 CloudWarriors programme, [Rashmi Shreedharan](https://www.linkedin.com/
 ![null](/img/cw_welcomeboard.jpg)
 
 CloudWarriors started with registration, Lunch with Networking.\
+\
 **Dhruv Singhal, Head of Technology Amazon India **extended a warm welcome and set a stage to introduce the benefits for being part of AWS CloudWarriors and what it takes to become a CloudWarrior.
 
 ![null](/img/intro.png)
@@ -20,12 +21,12 @@ CloudWarriors started with registration, Lunch with Networking.\
 Opening Keynote was by **Olivier Klein, Head of Emerging Tech, APAC**
 
 where he spoke on Build in 2019: Distributed, Open, Data Centric and AI.\
-His phrase **Don't be a server hugger, think serverless! **caught great attendion that was needed the kick-off session.
+His phrase Don't be a server hugger, think serverless! caught great attendion that was needed the kick-off session.
 
 ![null](/img/cw_key_2.jpg)
 
 \
-Up next was **Arun Gupta, Global Principal Source Technologist** who took us through a stride on AWS Container Services Updates.
+Up next was **Arun Gupta, Global Principal Source Technologist **who took us through a stride on AWS Container Services Updates.
 
 Its phenominal that there have been 300% growth in running container instances over 15 months across startups, SMBs and Enterprises with 10 million+ tasks per week is being launched on AWS.
 
