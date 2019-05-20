@@ -31,9 +31,11 @@ Its phenominal that there have been 300% growth in running container instances o
 
 And the driving factors are ofcourse to lower down failure rates and faster response to the customers.
 
+Arun continued to explan how McDonald's home delivery application services 20K concurrent requests comming in multiple times of a day consistently.
+
 ![](/img/arun_gupta.jpg)
 
-adfaf
+Gabe Hollombe, Techical Evangelist, Machine Learnig for Digital Transformation
 
 sdfsd
 
