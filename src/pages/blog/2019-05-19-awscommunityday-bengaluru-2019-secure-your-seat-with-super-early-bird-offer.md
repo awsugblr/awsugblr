@@ -10,7 +10,7 @@ tags:
 ---
 Registration for [AWS Community Day Bengaluru 2019](https://communityday.awsugblr.in/) is now open; Secure your seat with Super Early Bird Offer - lasts until 31st May 2019.
 
-![](/img/acd_blr_registration.png)
+![null](/img/acd_blr_registration.png)
 
 Here is the golden opportunity to join the fellow developers, architects, cloud engineers, technocrats, evangelists, from  startups, SMB's, enterprises to different industries in Bangalore, on July 27, for a conversation about technology and human connection. Hear the experiences from technocrats and learn how you can implement and adopt the advanced technology to grow your business.
 
