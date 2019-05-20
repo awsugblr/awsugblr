@@ -71,3 +71,5 @@ No wonder that Hotstar's proud moments were honoured by Andy himself
 At the end of the session, AWS User Group Leads & AWS Community Heros across India tried to get into a Golden Frame along with Rashmi.
 
 ![](/img/cw_ugleads.jpg)
+
+Networking & Dinner continued for next couple hours followed by a SWAG from AWS to all the attendees.
