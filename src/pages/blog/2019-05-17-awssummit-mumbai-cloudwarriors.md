@@ -20,9 +20,9 @@ CloudWarriors started with registration, Lunch with Networking.\
 Opening Keynote was by **Olivier Klein, Head of Emerging Tech, APAC**
 
 where he spoke on Build in 2019: Distributed, Open, Data Centric and AI.\
-His phrase **Don't be a server hugger, think serverless! **caught** **great attendion that was needed the kick-off session.
+His phrase **Don't be a server hugger, think serverless! **caught great attendion that was needed the kick-off session.
 
-![](/img/cw_key_2.jpg)
+![null](/img/cw_key_2.jpg)
 
 \
 Up next was **Arun Gupta, Global Principal Source Technologist** who took us through a stride on AWS Container Services Updates.
@@ -33,7 +33,7 @@ And the driving factors are ofcourse to lower down failure rates and faster resp
 
 Arun continued to explan how McDonald's home delivery application services 20K concurrent requests comming in multiple times of a day consistently.
 
-![](/img/arun_gupta.jpg)
+![null](/img/arun_gupta.jpg)
 
 **Gabe Hollombe, Techical Evangelist** in his talk on **Machine Learnig for Digital Transformation **gave picturesque description about AWS's mission to put Machine Learning in the hands of every developer. Sounds like mission accomplished when we heard that 10k customers use ML on AWS. 
 
@@ -41,15 +41,15 @@ Gabe walked us through the ML stack that have broadest and deepest set of capabi
 
 Good to see how C-SPAN uses Amazon Rekognition to automatically index video news from footage. Yes, you can put AI to work for your business without any second thought.
 
-![](/img/gabe_ml.jpg)
+![null](/img/gabe_ml.jpg)
 
 After energizing tea break, **Ninad Phatak, Big Data SA **started on **Effective Data Lake on AWS**
 
 Ninad took us a tour on how to injest strcutured, semi-structured and un-structured data in AWS, store it in indermediate S3 bucket, process the data and store it in another S3 bucket and also send the processed data to analytics services like Kibana / EMR.
 
-********
+- - -
 
-![](/img/ninad.jpg)
+![null](/img/ninad.jpg)
 
 **Chandrasekhar Bhosle (DreamPlug) **spoke about their AWS Stack on Containers as part of** Voice of Customer **
 
@@ -58,18 +58,18 @@ Ninad took us a tour on how to injest strcutured, semi-structured and un-structu
 As part of your story, Mrudul Palvankar from Cognizant Technology Solutions India Pvt. Ltd. spoke about their seamless serverless solutions implementations.\
 She explained how 
 
-![](/img/serverless.jpg)
+![null](/img/serverless.jpg)
 
 On public demand, Gaurav, AWS Community Hero and Cloud Architect at Hotstar was asked to explain how they set the world record of 18.6 million views. The best part is that they were ready for 25 million concurrency tried and tested as part of their Gamedays.
 
-![](/img/gaurav.jpg)
+![null](/img/gaurav.jpg)
 
 No wonder that Hotstar's proud moments were honoured by Andy himself 
 
-![](/img/andy.png)
+![null](/img/andy.png)
 
 At the end of the session, AWS User Group Leads & AWS Community Heros across India tried to get into a Golden Frame along with Rashmi.
 
-![](/img/cw_ugleads.jpg)
+![null](/img/cw_ugleads.jpg)
 
 Networking & Dinner continued for next couple hours followed by a SWAG from AWS to all the attendees.
