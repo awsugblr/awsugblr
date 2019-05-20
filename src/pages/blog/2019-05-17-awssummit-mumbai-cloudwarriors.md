@@ -14,6 +14,7 @@ For 2019 CloudWarriors programme, [Rashmi Shreedharan](https://www.linkedin.com/
 
 ![](/img/cw_welcomeboard.jpg)
 
-dfdf
+CloudWarriors started with registration, Lunch with Networking.\
+Dhruv Singhal, Head of Technology Amazon India extended a warm welcome and set a stage to introduce the benefits for being part of AWS CloudWarriors and what it takes to become a CloudWarrior.
 
-![]()
+![](/img/intro.png)
