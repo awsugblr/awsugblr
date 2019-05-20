@@ -21,7 +21,7 @@ CloudWarriors started with registration, Lunch with Networking.\
 Opening Keynote was by **Olivier Klein, Head of Emerging Tech, APAC**
 
 where he spoke on Build in 2019: Distributed, Open, Data Centric and AI.\
-His phrase Don't be a server hugger, think serverless!** **caught great attendion that was needed the kick-off session.
+His phrase Don't be a server hugger, think serverless! caught great attendion that was needed the kick-off session.
 
 ![null](/img/cw_key_2.jpg)
 
