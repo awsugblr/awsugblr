@@ -35,15 +35,23 @@ Arun continued to explan how McDonald's home delivery application services 20K c
 
 ![](/img/arun_gupta.jpg)
 
-**Gabe Hollombe, Techical Evangelist, Machine Learnig for Digital Transformation******
+**Gabe Hollombe, Techical Evangelist** in his talk on **Machine Learnig for Digital Transformation **gave picturesque description about AWS's mission to put Machine Learning in the hands of every developer. Sounds like mission accomplished when we heard that 10k customers use ML on AWS. 
+
+Gabe walked us through the ML stack that have broadest and deepest set of capabilities.
+
+Good to see how C-SPAN uses Amazon Rekognition to automatically index video news from footage. Yes, you can put AI to work for your business without any second thought.
 
 ![](/img/gabe_ml.jpg)
 
-**Ninad Phatak, Big Data SA, Effective Data Lake on AWS******
+After energizing tea break, **Ninad Phatak, Big Data SA **started on **Effective Data Lake on AWS**
+
+Ninad took us a tour on how to injest strcutured, semi-structured and un-structured data in AWS, store it in indermediate S3 bucket, process the data and store it in another S3 bucket and also send the processed data to analytics services like Kibana / EMR.
+
+********
 
 ![](/img/ninad.jpg)
 
-
+**Chandrasekhar Bhosle (DreamPlug) **spoke about their AWS Stack on Containers as part of** Voice of Customer **
 
 **Your Story **
 
