@@ -54,7 +54,7 @@ Ninad took us a tour on how to ingest structured, semi-structured and unstructur
 
 **Chandrasekhar Bhosle (DreamPlug)** spoke about their AWS Stack on Containers as part of **Voice of Customer**
 
-**Your Story **
+**Your Story**
 
 As part of your story, Mrudul Palvankar from Cognizant Technology Solutions India Pvt. Ltd. spoke about their seamless serverless solutions implementations.
 
