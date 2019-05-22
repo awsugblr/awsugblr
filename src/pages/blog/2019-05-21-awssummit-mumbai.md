@@ -10,7 +10,7 @@ Early in the morning, at dawn (rather before the dawn), AWS Summit started to wi
 
 ## Registration
 
-![](/img/reg_1.png)
+![null](/img/reg_1.png)
 
 Registration continued until it was stopped after reaching 6k mark for security reasons. Year on Year 40% growth for summit is really wonderful.
 
@@ -18,14 +18,14 @@ Registration continued until it was stopped after reaching 6k mark for security 
 
 Opening note was Conor McNamara, Director, Business Development, APAC, AWS and his facts about India 17 AWS User Groups with 32170 members, 62 Cloud Warriors, 1200 attendees in AWS Community Days 2018 and 75k certified to-date is amazing. 
 
-![](/img/keynote-1.png)
+![null](/img/keynote-1.png)
 
 ## Keynote
 
 Keynote address was delivered by Peter DeSantis, Vice President, AWS Global Infrastructure and Customer Support. \
 Key announcements for us were 3rd AZ available now for Mumbai region and VMWare on Cloud AWS 
 
-![](/img/keyannouncements.png)
+![null](/img/keyannouncements.png)
 
 ## Keynote Customer Speakers
 
@@ -34,3 +34,36 @@ Sanjay Mohan, Group Chief Technology Officer, MakeMyTrip
 Venkatesh Natarajan, Chief Digital Officer and Senior Vice President – IT, Ashok Leyland
 
 Suhas Devaraju, Regional CIO, Hindustan Unilever Ltd.
+
+
+
+## Certification Lounge
+
+Certification Lounges are royal retreats at AWS conferences where certified professionals can register themselves to refresh, relax and rejoice with SWAGs for their accomplishments. 
+
+Also the newly registered members to the learning library were rewarded with extra special goodie. 
+
+![](/img/certificationlounge.png)
+
+
+
+## AWS Zone
+
+AWS Zone had row of booths with specialists from different services / domains like AWS FSI, AWS Media & Entertainment, AWS Migration, AWS Public Sector and Education, AWS Training & Certification. Had a fruitful conversations with these technophile to understand the effectiveness & usage of various services.
+
+![](/img/awszone.png)
+
+## \
+Startup Central
+
+![](/img/startup_central.png)
+
+
+
+## Tracks
+
+8 Tracks
+
+
+
+## Startup Central
