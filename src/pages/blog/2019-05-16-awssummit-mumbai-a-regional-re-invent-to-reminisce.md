@@ -30,4 +30,4 @@ Two days at Mumbai was a great learning experience from AWS experts around the g
 
 [CloudWarriors](https://www.awsugblr.in/blog/2019-05-17-awssummit-mumbai-cloudwarriors/)
 
-AWS Summit Mumbai
+[AWS Summit Mumbai](https://www.awsugblr.in/blog/2019-05-21-awssummit-mumbai/)
