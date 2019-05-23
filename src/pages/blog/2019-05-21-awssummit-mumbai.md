@@ -37,7 +37,7 @@ Venkatesh Natarajan, Chief Digital Officer and Senior Vice President – IT, Ash
 
 Suhas Devaraju, Regional CIO, Hindustan Unilever Ltd.
 
-![](/img/customerkeynote_1.png)
+![null](/img/customerkeynote_1.png)
 
 ## Certification Lounge
 
@@ -57,11 +57,9 @@ AWS Zone had row of booths with specialists from different services / domains li
 
 Taking photo of people taking photo is a fun; how about matchfix  as part of \`tweet to win SWAG\`
 
-![](/img/photo_of_photo.png)
+![null](/img/photo_of_photo.png)
 
-![](/img/main_group_summitday.png)
-
-
+![null](/img/main_group_summitday.png)
 
 ## Startup Central
 
