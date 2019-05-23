@@ -37,6 +37,8 @@ Venkatesh Natarajan, Chief Digital Officer and Senior Vice President – IT, Ash
 
 Suhas Devaraju, Regional CIO, Hindustan Unilever Ltd.
 
+![](/img/customerkeynote_1.png)
+
 ## Certification Lounge
 
 Certification Lounges are royal retreats at AWS conferences where certified professionals can register themselves to refresh, relax and rejoice with SWAGs for their accomplishments. 
