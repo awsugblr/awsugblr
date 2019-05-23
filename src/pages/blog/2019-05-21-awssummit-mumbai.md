@@ -35,35 +35,59 @@ Venkatesh Natarajan, Chief Digital Officer and Senior Vice President – IT, Ash
 
 Suhas Devaraju, Regional CIO, Hindustan Unilever Ltd.
 
-
-
 ## Certification Lounge
 
 Certification Lounges are royal retreats at AWS conferences where certified professionals can register themselves to refresh, relax and rejoice with SWAGs for their accomplishments. 
 
 Also the newly registered members to the learning library were rewarded with extra special goodie. 
 
-![](/img/certificationlounge.png)
-
-
+![null](/img/certificationlounge.png)
 
 ## AWS Zone
 
 AWS Zone had row of booths with specialists from different services / domains like AWS FSI, AWS Media & Entertainment, AWS Migration, AWS Public Sector and Education, AWS Training & Certification. Had a fruitful conversations with these technophile to understand the effectiveness & usage of various services.
 
-![](/img/awszone.png)
+![null](/img/awszone.png)
 
-## \
-Startup Central
+## 
 
-![](/img/startup_central.png)
+## Startup Central
 
+Startup central had series of talks lined up from 10:00AM to 5:00PM and also Startup Experts were available to answer the queries of the budding entrepreneurs. Visit here to understand more on the support from AWS for startups - [AWS Activate](https://aws.amazon.com/activate/) and [AWS Startups](https://aws.amazon.com/startups/).
 
+![null](/img/startup_central.png)
 
 ## Tracks
 
-8 Tracks
+8 tracks with 7 sessions each right after keynote had vide variety of sessions under Operate, AI/ML, Analytics, Security, Migration 1, Migration 2, Media & FSI.
+
+![](/img/tracks.png)
 
 
 
-## Startup Central
+## AWS DeepRacer Demo
+
+AWS DeepRacer Demo at the AWS Summit Mumbai Expo caught everybody's attention. I am sure most of them would have caught the motion and [Prashanth's tweet](https://twitter.com/prashanth/status/1128594364635144192) is nay an exception 
+
+![](/img/deepracer.jpg)
+
+
+
+## Expo & Sponsors
+
+The Sponsors have always been lifeline to pull-up such mega events and I am sure the attendees were super excited meet them at the Expo
+
+![](/img/expo.png)
+
+
+
+## Automating BusinessInsights
+
+![](/img/insights.png)
+
+
+
+## Closing Note
+
+\
+Closing Note was by none other than Madhusudan Shekar, Head Digital Innovation, AISPL.
