@@ -31,3 +31,5 @@ Two days at Mumbai was a great learning experience from AWS experts around the g
 [CloudWarriors](https://www.awsugblr.in/blog/2019-05-17-awssummit-mumbai-cloudwarriors/)
 
 [AWS Summit Mumbai](https://www.awsugblr.in/blog/2019-05-21-awssummit-mumbai/)
+
+It was great meeting [Rahul Jain](https://www.linkedin.com/in/rahrj/), [Rohini Gaonkar](https://in.linkedin.com/in/rohini-gaonkar-b909a12b), [Madhusudhan Shekar](https://www.linkedin.com/in/madhusudanshekar/), [Gabe Hollombe](https://www.linkedin.com/in/gabehollombe/), [Divya Mangothra](https://www.linkedin.com/in/mangotradivya/) & [Arun Gupta](https://www.linkedin.com/in/arunpgupta/)
