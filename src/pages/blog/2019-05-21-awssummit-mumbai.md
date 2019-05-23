@@ -14,6 +14,8 @@ Early in the morning, at dawn (rather before the dawn), AWS Summit started to wi
 
 Registration continued until it was stopped after reaching 6k mark for security reasons. Year on Year 40% growth for summit is really wonderful.
 
+![](/img/summitmap_1.png)
+
 ## Opening note
 
 Opening note was Conor McNamara, Director, Business Development, APAC, AWS and his facts about India 17 AWS User Groups with 32170 members, 62 Cloud Warriors, 1200 attendees in AWS Community Days 2018 and 75k certified to-date is amazing. 
@@ -61,33 +63,36 @@ Startup central had series of talks lined up from 10:00AM to 5:00PM and also Sta
 
 8 tracks with 7 sessions each right after keynote had vide variety of sessions under Operate, AI/ML, Analytics, Security, Migration 1, Migration 2, Media & FSI.
 
-![](/img/tracks.png)
-
-
+![null](/img/tracks.png)
 
 ## AWS DeepRacer Demo
 
 AWS DeepRacer Demo at the AWS Summit Mumbai Expo caught everybody's attention. I am sure most of them would have caught the motion and [Prashanth's tweet](https://twitter.com/prashanth/status/1128594364635144192) is nay an exception 
 
-![](/img/deepracer.jpg)
-
-
+![null](/img/deepracer.jpg)
 
 ## Expo & Sponsors
 
 The Sponsors have always been lifeline to pull-up such mega events and I am sure the attendees were super excited meet them at the Expo
 
-![](/img/expo.png)
+![](/img/partners_exhibitors.png)
 
 
+
+![null](/img/expo.png)
 
 ## Automating BusinessInsights
 
-![](/img/insights.png)
+Craig Stires, APAC Head of Data & Analystics, AWS had loads of information for the curious about analytics. Some key informations / announcements like stored-procs introduced for Redshift would save developers from doing lots of custom coding.
 
+![null](/img/insights.png)
 
+## 
 
 ## Closing Note
 
-\
-Closing Note was by none other than Madhusudan Shekar, Head Digital Innovation, AISPL.
+For a day long power packed conference, the first and last impression would last long in the busy minds of attendees.\
+The day concluded with the closing note by none other than Madhusudan Shekar, Head Digital Innovation, AISPL. \
+Who else could give an everlasting & impactful impression as Madhu ?
+
+![](/img/summit_closingnote.png)
