@@ -55,6 +55,14 @@ AWS Zone had row of booths with specialists from different services / domains li
 
 ## 
 
+## Mumbai Memories
+
+Taking photo of photo is a fun amidst \`tweet to win SWAG\`; How about match fixing to get same photo on twitter ??
+
+![](/img/photo_of_photo.png)
+
+![](/img/main_group_summitday.png)
+
 ## Startup Central
 
 Startup central had series of talks lined up from 10:00AM to 5:00PM and also Startup Experts were available to answer the queries of the budding entrepreneurs. Visit here to understand more on the support from AWS for startups - [AWS Activate](https://aws.amazon.com/activate/) and [AWS Startups](https://aws.amazon.com/startups/).
