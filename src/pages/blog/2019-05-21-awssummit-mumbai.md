@@ -37,8 +37,6 @@ Venkatesh Natarajan, Chief Digital Officer and Senior Vice President – IT, Ash
 
 Suhas Devaraju, Regional CIO, Hindustan Unilever Ltd.
 
-![null](/img/customerkeynote_1.png)
-
 ## Certification Lounge
 
 Certification Lounges are royal retreats at AWS conferences where certified professionals can register themselves to refresh, relax and rejoice with SWAGs for their accomplishments. 
@@ -53,13 +51,7 @@ AWS Zone had row of booths with specialists from different services / domains li
 
 ![null](/img/awszone.png)
 
-## Mumbai Memories
-
-Taking photo of people taking photo is a fun; how about matchfix  as part of \`tweet to win SWAG\`
-
-![null](/img/photo_of_photo.png)
-
-![null](/img/main_group_summitday.png)
+## 
 
 ## Startup Central
 
@@ -99,6 +91,9 @@ Craig Stires, APAC Head of Data & Analystics, AWS had loads of information for t
 
 For a day long power packed conference, the first and last impression would last long in the busy minds of attendees.\
 The day concluded with the closing note by none other than Madhusudan Shekar, Head Digital Innovation, AISPL. \
+\
+Madhu spoke about resiliency and how to build a team structure to build for resiliency (some components of the chaos talk I gave in the community day) and then about building a culture for innovation and experimentation\
+\
 Who else could give an everlasting & impactful impression as Madhu ?
 
 ![null](/img/summit_closingnote.png)
