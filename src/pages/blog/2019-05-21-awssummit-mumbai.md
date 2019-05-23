@@ -14,7 +14,7 @@ Early in the morning, at dawn (rather before the dawn), AWS Summit started to wi
 
 Registration continued until it was stopped after reaching 6k mark for security reasons. Year on Year 40% growth for summit is really wonderful.
 
-![](/img/summitmap_1.png)
+![null](/img/summitmap_1.png)
 
 ## Opening note
 
@@ -37,6 +37,8 @@ Venkatesh Natarajan, Chief Digital Officer and Senior Vice President – IT, Ash
 
 Suhas Devaraju, Regional CIO, Hindustan Unilever Ltd.
 
+![null](/img/customerkeynote_1.png)
+
 ## Certification Lounge
 
 Certification Lounges are royal retreats at AWS conferences where certified professionals can register themselves to refresh, relax and rejoice with SWAGs for their accomplishments. 
@@ -51,7 +53,13 @@ AWS Zone had row of booths with specialists from different services / domains li
 
 ![null](/img/awszone.png)
 
-## 
+## Mumbai Memories
+
+Taking photo of people taking photo is a fun; how about matchfix  as part of \`tweet to win SWAG\`
+
+![null](/img/photo_of_photo.png)
+
+![null](/img/main_group_summitday.png)
 
 ## Startup Central
 
@@ -75,9 +83,7 @@ AWS DeepRacer Demo at the AWS Summit Mumbai Expo caught everybody's attention. I
 
 The Sponsors have always been lifeline to pull-up such mega events and I am sure the attendees were super excited meet them at the Expo
 
-![](/img/partners_exhibitors.png)
-
-
+![null](/img/partners_exhibitors.png)
 
 ![null](/img/expo.png)
 
@@ -95,4 +101,4 @@ For a day long power packed conference, the first and last impression would last
 The day concluded with the closing note by none other than Madhusudan Shekar, Head Digital Innovation, AISPL. \
 Who else could give an everlasting & impactful impression as Madhu ?
 
-![](/img/summit_closingnote.png)
+![null](/img/summit_closingnote.png)
