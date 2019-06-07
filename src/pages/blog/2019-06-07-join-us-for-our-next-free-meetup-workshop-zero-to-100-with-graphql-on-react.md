@@ -54,7 +54,7 @@ AWS Community Days are community-organized cloud education events, featuring tec
 
 AWS Community Day Bengaluru 2019 will be conducted over a period of two days:
 
-- Day 1: Deep Learning Workshop by Sindhuri and Hemanth AWS and Serverless Workshop by Madhusudan Shekar, AWS & Srushith R, KonfHub
+- Day 1: Deep Learning Workshop by Shinduri KS and Hemanth Gahankari, AWS and Serverless Workshop by Madhusudan Shekar, AWS & Srushith R, KonfHub
 - Day 2: Sample of sessions
 
    - Keynote: Embracing Full-stack Serverless - A new paradigm by Gerard Sans, Developer Advocate, AWS
