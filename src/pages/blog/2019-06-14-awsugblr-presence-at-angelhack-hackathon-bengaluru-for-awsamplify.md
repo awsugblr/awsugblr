@@ -8,7 +8,7 @@ tags:
 ---
 [Prashanth HN](https://www.linkedin.com/in/hnprashanth/), co-organizer AWS User Group Bengaluru was very much excited over June 8th & 9th weekend at AngelHack Hackathon Bengaluru for AWS Amplify.
 
-As an Amplify expert, it was certainly a great momement for Prashanth to mentor the hackers at the AngelHack Hackathon, who were striving to make an impactful code with amplify and of-course he had the previlige to talk about AWS Amplify on behalf of AWS.
+As an Amplify expert, it was certainly a great moment for Prashanth to mentor the hackers at the AngelHack Hackathon, who were striving to make an impactful code with amplify and of-course he had the previlige to talk about AWS Amplify on behalf of AWS.
 
 ![null](/img/prashanth-angelhack.jpg)
 
