@@ -46,5 +46,5 @@ Sr. MTS , VMware software India & City Director - Women Who Code Bangalore
 AWS re:Invent Diversity Scholarship Recipient and AWS Community Hero
 
 \
-You may use FLAT10 coupon code to avail 10% discount on early bird offer.\
+You may use **FLAT10** coupon code to avail 10% discount on early bird offer.\
 Register today at[ https://communityday.awsugblr.in](< https://communityday.awsugblr.in>)
