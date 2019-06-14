@@ -46,3 +46,6 @@ Sr. MTS , VMware software India & City Director - Women Who Code Bangalore
 **Bhuvaneswari Subramani**
 
 AWS re:Invent Diversity Scholarship Recipient and AWS Community Hero
+
+\
+You may use FLAT10 coupon code to avail 10% discount on conference vouchers.
