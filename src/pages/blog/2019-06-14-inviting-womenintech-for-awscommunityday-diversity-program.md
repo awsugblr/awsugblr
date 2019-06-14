@@ -21,7 +21,7 @@ AWS User Group Bengaluru is bringing in the best brains who strongly believe **D
 \
 Register today at <https://communityday.awsugblr.in> with **FLAT10** coupon code to avail 10% discount on early bird offer. 
 
-Diversity & Inclusion are inseparable;  everyone are welcome to the session!
+Diversity & Inclusion are inseparable;  everyone is welcome to the session!
 
 ## **Program 1:** Practical tactics for achieving full potential in your career
 
@@ -30,7 +30,7 @@ Diversity & Inclusion are inseparable;  everyone are welcome to the session!
 **Diana Cruz Sola**\
 VP Inclusion and Diversity, Infor
 
-**_And enjoy the fireside chat with Diana.. _**
+_**And enjoy the fireside chat with Diana.. **_
 
 ## Program 2: Exploring opportunities with communities for a successful career
 
