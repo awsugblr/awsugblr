@@ -18,7 +18,8 @@ AWS User Group Bengaluru is bringing in the best brains who strongly believe **D
 >
 > By joining hands with the cross-learning community!
 
-
+\
+Register today at[ https://communityday.awsugblr.in](< https://communityday.awsugblr.in>) with **FLAT10** coupon code to avail 10% discount on early bird offer.
 
 ## **Program 1:** Practical tactics for achieving full potential in your career 
 
@@ -44,7 +45,3 @@ Sr. MTS , VMware software India & City Director - Women Who Code Bangalore
 
 **Bhuvaneswari Subramani**\
 AWS re:Invent Diversity Scholarship Recipient and AWS Community Hero
-
-\
-You may use **FLAT10** coupon code to avail 10% discount on early bird offer.\
-Register today at[ https://communityday.awsugblr.in](< https://communityday.awsugblr.in>)
