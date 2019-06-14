@@ -19,9 +19,9 @@ AWS User Group Bengaluru is bringing in the best brains who strongly believe **D
 > By joining hands with the cross-learning community!
 
 \
-Diversity & Inclusion are inseparable;  everyone is welcome to the session!\
-\
 Register today at <https://communityday.awsugblr.in> with **FLAT10** coupon code to avail 10% discount on the early bird offer. 
+
+Diversity & Inclusion are inseparable;  everyone is welcome to the session!
 
 ## **Program 1:** Practical tactics for achieving full potential in your career
 
