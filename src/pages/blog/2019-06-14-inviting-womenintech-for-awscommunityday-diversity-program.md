@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Inviting #WomenInTech for @AWSCommunityDay Diversity Program'
+title: 'Inviting #WomenInTech for @AWSCommunityDay Diversity Program, Register today!'
 date: 2019-06-14T03:29:05.134Z
 description: AWSCommunity Day Diversity Program
 tags:
@@ -26,9 +26,10 @@ AWS User Group Bengaluru is bringing in the best brains who strongly believe Div
 
 ![Diana Cruz Solash](/img/diana.jpg)
 
-**Diana Cruz Solas**
-
+**Diana Cruz Sola**\
 VP Inclusion and Diversity, Infor
+
+## 
 
 ## Program 2: Exploring opportunities with communities for a successful career
 
@@ -37,15 +38,13 @@ VP Inclusion and Diversity, Infor
 **Shwetha Lakshman Rao**\
 Sr. MTS , VMware software India & City Director - Women Who Code Bangalore
 
-
-
 ## Moderated by
 
-![](/img/bhuvana-pic.jpg)
+![Bhuvaneswari Subramani](/img/bhuvana-pic.jpg)
 
-**Bhuvaneswari Subramani**
-
+**Bhuvaneswari Subramani**\
 AWS re:Invent Diversity Scholarship Recipient and AWS Community Hero
 
 \
-You may use FLAT10 coupon code to avail 10% discount on conference vouchers.
+You may use FLAT10 coupon code to avail 10% discount on early bird offer.\
+Register today at[ https://communityday.awsugblr.in](< https://communityday.awsugblr.in>)
