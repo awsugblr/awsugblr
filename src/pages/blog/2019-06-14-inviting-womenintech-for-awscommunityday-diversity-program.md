@@ -19,18 +19,16 @@ AWS User Group Bengaluru is bringing in the best brains who strongly believe **D
 > By joining hands with the cross-learning community!
 
 \
-Register today at[ https://communityday.awsugblr.in](< https://communityday.awsugblr.in>) with **FLAT10** coupon code to avail 10% discount on early bird offer.
+Register today at <https://communityday.awsugblr.in> with **FLAT10** coupon code to avail 10% discount on early bird offer.
 
-## **Program 1:** Practical tactics for achieving full potential in your career 
+## **Program 1:** Practical tactics for achieving full potential in your career
 
 ![Diana Cruz Solash](/img/diana.jpg)
 
 **Diana Cruz Sola**\
 VP Inclusion and Diversity, Infor
 
-**_And enjoy the fireside chat with Diana.. _**
-
-
+_**And enjoy the fireside chat with Diana.. **_
 
 ## Program 2: Exploring opportunities with communities for a successful career
 
