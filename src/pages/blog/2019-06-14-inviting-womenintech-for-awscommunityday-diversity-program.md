@@ -6,7 +6,7 @@ description: AWSCommunity Day Diversity Program
 tags:
   - AWSCommunityDay 2019 Diversity
 ---
-AWS User Group Bengaluru is bringing in the best brains who strongly believe Diversity & Inclusivity are key to future.
+AWS User Group Bengaluru is bringing in the best brains who strongly believe **Diversity & Inclusivity** are key to future.
 
 > Come, witness the Diversity Program; 
 >
@@ -22,14 +22,14 @@ AWS User Group Bengaluru is bringing in the best brains who strongly believe Div
 
 ## **Program 1:** Practical tactics for achieving full potential in your career 
 
-## 
-
 ![Diana Cruz Solash](/img/diana.jpg)
 
 **Diana Cruz Sola**\
 VP Inclusion and Diversity, Infor
 
-## 
+**_And enjoy the fireside chat with Diana.. _**
+
+
 
 ## Program 2: Exploring opportunities with communities for a successful career
 
