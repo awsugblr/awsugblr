@@ -11,7 +11,10 @@ tags:
 ---
 June meetup started with an introduction and welcome note by Sathyajith setting stage for our speaker, [Shahid](https://www.linkedin.com/in/shahidh-k-muhammed-12782092) from Hasura. \
 \
-Equal Experts India Pvt Ltd -> https://www.equalexperts.com/
+[Equal Experts' ](https://www.equalexperts.com/)open office was quite conducive for a workshop! Thanks to [Vijay Sali ](https://www.linkedin.com/in/vijaysali)& his team for having everything in place.
+
+Today's meetup was good, Shahid started explaining why people are switching towards GraphQL and what are the advantages of GraphQL over REST. \
+There were not much people who were familiar with React in the meetup so it felt like, it was little more of React than Graphql, He covered almost everything from GraphQL including Realtime data handling using subscriptions, It was based on Hasura, so i felt it should have been vanilla graphql, like running ur own server or something, but as time was a constraint it was fare not to go deeper in it. One  good thing about the worshop was all the instructions are there in learn.hasura.io so u can follow it anytime. Overall it was a good workshop.
 
 The step-by-step guide of this hands-on workshop can be accessed from - <https://learn.hasura.io/graphql/react>.\
 \
@@ -23,7 +26,7 @@ AWSUGBLR organizers would like to thank
 
 * The speakers: Shahid, for the hands-on workshop
 * Attendees for gathering on a weekday evening for the meet
-* [Equal Experts India Pvt Ltd](https://www.equalexperts.com/contact-us/bengaluru/) for hosting the meetup 
+* [Equal Experts India Pvt Ltd](https://www.equalexperts.com/contact-us/bengaluru/) for hosting the meetup, providing tea & snacks 
 * [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for contributing to the meetup report
 
 Stay tuned for upcoming meetups! For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
