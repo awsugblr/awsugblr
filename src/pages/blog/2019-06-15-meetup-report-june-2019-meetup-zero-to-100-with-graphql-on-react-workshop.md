@@ -11,15 +11,7 @@ tags:
 ---
 Equal Experts India Pvt Ltd
 
-
-
-
-
-
-
-
-
-The step-by-step guide of this hands-on workshop can be accessed from - <https://amplify-workshop.go-aws.com>.\
+The step-by-step guide of this hands-on workshop can be accessed from - <https://learn.hasura.io/graphql/react>.\
 \
 Sathyajith ended with a "Thank you, Note" and added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) and announced special 30'5 discount valid for -- hrs. 
 
