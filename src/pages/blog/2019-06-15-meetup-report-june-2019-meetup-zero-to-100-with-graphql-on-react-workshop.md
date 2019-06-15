@@ -13,7 +13,7 @@ Equal Experts India Pvt Ltd
 
 The step-by-step guide of this hands-on workshop can be accessed from - <https://learn.hasura.io/graphql/react>.\
 \
-Sathyajith ended with a "Thank you, Note" and added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) and announced special 30'5 discount valid for -- hrs. 
+Sathyajith ended with a "Thank you, Note" and added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) and announced special 30% discount valid for -- hrs. 
 
 Stay tuned for upcoming meetups. Follow us on [Linkedin](https://www.linkedin.com/in/awsugblr/) or [Twitter](https://twitter.com/awsugblr) and for more update please visit:  [https://awsugblr.in](https://awsugblr.in/).
 
