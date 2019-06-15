@@ -9,12 +9,13 @@ tags:
   - Report
   - Workshop
 ---
-June meetup started with an introduction and welcome note by Sathyajith setting stage for our speaker, [Shahid](https://www.linkedin.com/in/shahidh-k-muhammed-12782092), Hasura. \
+June meetup started with an introduction and welcome note by Sathyajith setting stage for our speaker, [Shahid](https://www.linkedin.com/in/shahidh-k-muhammed-12782092) from Hasura. \
+\
 Equal Experts India Pvt Ltd -> https://www.equalexperts.com/
 
 The step-by-step guide of this hands-on workshop can be accessed from - <https://learn.hasura.io/graphql/react>.\
 \
-Sathyajith ended with a "Thank you, Note" and added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) and announced special 30% discount valid for -- hrs. 
+Sathyajith ended with a "Thank you, Note" and added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) and announced special 20%  for the June meetup attendees with a discount valid for 2 days only. 
 
 Stay tuned for upcoming meetups. Follow us on [Linkedin](https://www.linkedin.com/in/awsugblr/) or [Twitter](https://twitter.com/awsugblr) and for more update please visit:  [https://awsugblr.in](https://awsugblr.in/).
 
