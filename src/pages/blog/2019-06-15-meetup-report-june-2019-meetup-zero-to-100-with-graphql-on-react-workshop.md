@@ -9,7 +9,8 @@ tags:
   - Report
   - Workshop
 ---
-Equal Experts India Pvt Ltd
+June meetup started with an introduction and welcome note by Sathyajith setting stage for our speaker, [Shahid](https://www.linkedin.com/in/shahidh-k-muhammed-12782092), Hasura. \
+Equal Experts India Pvt Ltd -> https://www.equalexperts.com/
 
 The step-by-step guide of this hands-on workshop can be accessed from - <https://learn.hasura.io/graphql/react>.\
 \
