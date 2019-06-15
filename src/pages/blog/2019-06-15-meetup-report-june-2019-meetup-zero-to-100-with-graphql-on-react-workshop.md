@@ -11,10 +11,10 @@ tags:
 ---
 June meetup started with an introduction and welcome note by Sathyajith setting stage for our speaker, [Shahid](https://www.linkedin.com/in/shahidh-k-muhammed-12782092) from Hasura. \
 \
-[Equal Experts' ](https://www.equalexperts.com/)open office was quite conducive for a workshop! Thanks to [Vijay Sali ](https://www.linkedin.com/in/vijaysali)& his team for having everything in place.
+[Equal Experts' ](https://www.equalexperts.com/)open office was quite conducive for a workshop! Thanks to [Vijay Sali ](https://www.linkedin.com/in/vijaysali)& Pratap R V from Equal Experts for having everything in place.
 
-Today's meetup was good, Shahid started explaining why people are switching towards GraphQL and what are the advantages of GraphQL over REST. \
-There were not much people who were familiar with React in the meetup so it felt like, it was little more of React than Graphql, He covered almost everything from GraphQL including Realtime data handling using subscriptions, It was based on Hasura, so i felt it should have been vanilla graphql, like running ur own server or something, but as time was a constraint it was fare not to go deeper in it. One  good thing about the worshop was all the instructions are there in learn.hasura.io so u can follow it anytime. Overall it was a good workshop.
+Shahid started explaining why people are switching towards GraphQL and what are the advantages of GraphQL over REST. \
+There were not much people who were familiar with React in the meetup and at times Shahid have to touch base React also along with GraphQL starting from scratch. He covered almost everything from GraphQL including Realtime data handling using subscriptions. It was based on Hasura, so i felt it should have been vanilla graphql, like running ur own server or something, but as time was a constraint it was fare not to go deeper in it. One  good thing about the worshop was all the instructions are there in learn.hasura.io so u can follow it anytime. Overall it was a good workshop.
 
 The step-by-step guide of this hands-on workshop can be accessed from - <https://learn.hasura.io/graphql/react>.\
 \
