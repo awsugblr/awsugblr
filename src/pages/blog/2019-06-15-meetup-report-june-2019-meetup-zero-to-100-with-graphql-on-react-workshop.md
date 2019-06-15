@@ -19,7 +19,7 @@ Stay tuned for upcoming meetups. Follow us on [Linkedin](https://www.linkedin.co
 
 AWSUGBLR organizers would like to thank
 
-* The speakers: , for the hands-on workshop
+* The speakers: Shahid, for the hands-on workshop
 * Attendees for gathering on a weekday evening for the meet
 * [Equal Experts India Pvt Ltd](https://www.equalexperts.com/contact-us/bengaluru/) for hosting the meetup 
 * [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for contributing to the meetup report
