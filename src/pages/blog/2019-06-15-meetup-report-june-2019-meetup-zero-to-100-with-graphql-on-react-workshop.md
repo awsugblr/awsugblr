@@ -9,16 +9,21 @@ tags:
   - Report
   - Workshop
 ---
-June meetup started with an introduction and welcome note by Sathyajith setting stage for our speaker, [Shahid](https://www.linkedin.com/in/shahidh-k-muhammed-12782092) from Hasura. \
+June meetup started with an introduction and welcome note by [Sathyajith](https://www.linkedin.com/in/sathyabhat/), AWS Community Hero and co-orgainzer AWS User Group, Bengaluru setting stage for our speaker, [Shahid](https://www.linkedin.com/in/shahidh-k-muhammed-12782092) from Hasura. \
 \
 [Equal Experts' ](https://www.equalexperts.com/)open office was quite conducive for a workshop! Thanks to [Vijay Sali ](https://www.linkedin.com/in/vijaysali)& Pratap R V from Equal Experts for having everything in place.
 
 Shahid started explaining why people are switching towards GraphQL and what are the advantages of GraphQL over REST. \
-There were not much people who were familiar with React in the meetup and at times Shahid have to touch base React also along with GraphQL starting from scratch. He covered almost everything from GraphQL including Realtime data handling using subscriptions. It was based on Hasura, so i felt it should have been vanilla graphql, like running ur own server or something, but as time was a constraint it was fare not to go deeper in it. One  good thing about the worshop was all the instructions are there in learn.hasura.io so u can follow it anytime. Overall it was a good workshop.
+There were not much people who were familiar with React in the meetup and at times Shahid have to touch base React also along with GraphQL starting from scratch. He covered almost everything from GraphQL including Realtime data handling using subscriptions. \
+Majority of the use case was focused on Hasura, though some were wondering it should have been vanilla graphql, like running our own server or something. At the time, with the limited time we had for workshop people knew it wasn't fare  to go deeper in it. One good thing about the workshop was all the instructions are there in [https://learn.hasura.io ](https://learn.hasura.io)accessible to everyone. Overall it was a great workshop!
+
+![](/img/graphql-june2019.png)
 
 The step-by-step guide of this hands-on workshop can be accessed from - <https://learn.hasura.io/graphql/react>.\
 \
-Sathyajith ended with a "Thank you, Note" and added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) and announced special 20%  for the June meetup attendees with a discount coupon MEETUP20 valid over the weekend only. 
+Sathyajith ended with a "Thank you, Note" and added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) and announced special 20%  for the June meetup attendees with a discount coupon MEETUP20 valid over the weekend only.  Well, if you get to read this blog, you might be a lucky one for the offer too.
+
+![](/img/sathyajith-june2019.jpg)
 
 Stay tuned for upcoming meetups. Follow us on [Linkedin](https://www.linkedin.com/in/awsugblr/) or [Twitter](https://twitter.com/awsugblr) and for more update please visit:  [https://awsugblr.in](https://awsugblr.in/).
 
