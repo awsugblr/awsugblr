@@ -21,7 +21,7 @@ Majority of the use-case was focused on Hasura, though some were wondering it sh
 
 The step-by-step guide of this hands-on workshop can be accessed from - <https://learn.hasura.io/graphql/react>.\
 \
-Sathyajith ended with a "Thank you, Note" and added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) and announced special 20%  for the June meetup attendees with a discount coupon MEETUP20 valid over the weekend only.  Well, if you get to read this blog, you might be a lucky one for the offer too.
+Sathyajith ended with a "Thank you, Note" and added details about our upcoming Community Day - 2019 ( <https://communityday.awsugblr.in/> ) and announced special 20% discount coupon MEETUP20  for the June meetup attendees with a validity over the weekend only.  Well, if you get to read this blog, you might be a lucky one for the offer too.
 
 ![](/img/sathyajith-june2019.jpg)
 
