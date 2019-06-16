@@ -9,13 +9,13 @@ tags:
   - Report
   - Workshop
 ---
-June meetup started with an introduction and welcome note by [Sathyajith](https://www.linkedin.com/in/sathyabhat/), AWS Community Hero and co-orgainzer AWS User Group, Bengaluru setting stage for our speaker, [Shahid](https://www.linkedin.com/in/shahidh-k-muhammed-12782092) from Hasura. \
+June meetup started with an introduction and welcome note by [Sathyajith](https://www.linkedin.com/in/sathyabhat/), AWS Community Hero and co-orgainzer AWS User Group Bengaluru, setting stage for our speaker, [Shahid](https://www.linkedin.com/in/shahidh-k-muhammed-12782092) from Hasura. \
 \
-[Equal Experts' ](https://www.equalexperts.com/)open office was quite conducive for a workshop! Thanks to [Vijay Sali ](https://www.linkedin.com/in/vijaysali)& Pratap R V from Equal Experts for having everything in place.
+[Equal Experts' ](https://www.equalexperts.com/)open office was quite conducive for the workshop! Thanks to [Vijay Sali ](https://www.linkedin.com/in/vijaysali)& Pratap R V from Equal Experts for having everything in place.
 
 Shahid started explaining why people are switching towards GraphQL and what are the advantages of GraphQL over REST. \
 There were not much people who were familiar with React in the meetup and at times Shahid have to touch base React also along with GraphQL starting from scratch. He covered almost everything from GraphQL including Realtime data handling using subscriptions. \
-Majority of the use case was focused on Hasura, though some were wondering it should have been vanilla graphql, like running our own server or something. At the time, with the limited time we had for workshop people knew it wasn't fare  to go deeper in it. One good thing about the workshop was all the instructions are there in [https://learn.hasura.io ](https://learn.hasura.io)accessible to everyone. Overall it was a great workshop!
+Majority of the use-case was focused on Hasura, though some were wondering it should have been vanilla graphql, like running our own server or something. At the same time, people knew it wasn't fare to go deeper in it with the limited duration. One good thing about the workshop was all the instructions are there in [https://learn.hasura.io ](https://learn.hasura.io)accessible to everyone. Overall it was a great workshop!
 
 ![](/img/graphql-june2019.png)
 
