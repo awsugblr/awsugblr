@@ -5,7 +5,7 @@ date: 2019-06-21T10:00:00.000Z
 description: 'We are honoured to have Amazon Alexa as our Platinum Sponsor'
 tags:
   - Community Day
-  - 2019
+  - '2019'
   - Sponsor
   - Announcement
 ---
