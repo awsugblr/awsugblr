@@ -14,13 +14,13 @@ tags:
 
 We're honoured to announce Amazon Alexa as a Platinum Sponsor for AWS Community Day Bengaluru 2019.
 
-![alexa-sponsor-collateral](/img/alexa.png)
+![alexa-sponsor-collateral](/img/communityday2019/alexa.png)
 
 
 Amazon Alexa, the cloud based voice service that powers Amazon Echo, provides access to thousands of skills that enable customers to voice control their world, whether it’s listening to music hands free, controlling their smart home devices with a simple ask of “turn on the lights,” setting timers when their hands are busy in the kitchen, listening to the news in the morning as they get ready for work, or even ordering a pizza. Through a series of free, self-service, public APIs like the Alexa Skills Kit, developers can build new skills for Alexa and integrate Alexa into their products and services. You don’t need to have a background in natural language understanding (NLU) or speech recognition to build great voice experiences for Alexa.
 Alexa is always getting smarter, both for features, and for NLU and accuracy. Because her brain is in the AWS cloud, she continually learns and adds more functionality, every hour, every day. 
 
-Join us for AWS Community Day on July 27th, 2019 to hear Alexa evangelist, [Sohan Maheshwar](https://www.linkedin.com/in/sohanmaheshwar/) talk about how you too can create voice enabled interfaces for your users with Alexa.
+Join us for AWS Community Day on July 27th, 2019 to hear Alexa evangelist, [Sohan Maheshwar](https://www.linkedin.com/in/sohanmaheshwar/) talk about how you too can create voice enabled interfaces for your users with Alexa. 
 
 ### About AWS Community Day Bengaluru 2019
 
