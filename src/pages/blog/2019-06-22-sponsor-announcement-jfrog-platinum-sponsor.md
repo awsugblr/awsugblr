@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: 'Sponsor Announcement - jFrog | Platinum Sponsor for AWS Community Day 2019'
+title: 'Sponsor Announcement - JFrog | Platinum Sponsor for AWS Community Day 2019'
 date: 2019-06-21T10:00:00.000Z
-description: 'We are honoured to have jFrog as our Platinum Sponsor'
+description: 'We are honoured to have JFrog as our Platinum Sponsor'
 tags:
   - Community Day
   - '2019'
@@ -12,13 +12,13 @@ tags:
 
 ### jFrog 
 
-We're honoured to announce [jFrog](https://jfrog.com/) as a Platinum Sponsor for AWS Community Day Bengaluru 2019.
+We're honoured to announce [JFrog](https://jfrog.com/) as a Platinum Sponsor for AWS Community Day Bengaluru 2019.
 
 ![jfrog-sponsor-collateral](/img/communityday2019/jfrog.png)
 
 The JFrog Team is thrilled to be part of the [AWS Community Day Bangalore 2019](https://communityday.awsugblr.in)! JFrog offers solutions for developers and DevOps engineers which provide complete control, insight and binary management throughout the software development lifecycle.
 
-That way, DevOps teams have transparency and control of their entire build and release process, all with the power of cloud-based development, a hybrid or on-prem model. Come and meet the frogs on July 27th and learn how to release software faster with JFrog Artifactory on AWS.
+That way, DevOps teams have transparency and control of their entire build and release process, all with the power of cloud-based development, a hybrid or on-prem model. Come and meet the frogs on July 27th and learn how to release software faster with [JFrog Artifactory on AWS](https://jfrog.com/partner/amazon/).
 
 ### About AWS Community Day Bengaluru 2019
 
