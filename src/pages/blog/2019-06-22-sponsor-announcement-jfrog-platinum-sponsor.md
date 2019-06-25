@@ -10,7 +10,7 @@ tags:
   - Announcement
 ---
 
-### jFrog 
+### JFrog 
 
 We're honoured to announce [JFrog](https://jfrog.com/) as a Platinum Sponsor for AWS Community Day Bengaluru 2019.
 
