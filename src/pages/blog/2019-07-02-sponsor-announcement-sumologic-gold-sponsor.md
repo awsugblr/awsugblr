@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: 'Sponsor Announcement - Sumo Logic | Gold Sponsor for AWS Community Day 2019'
+title: 'Sponsor Announcement - Sumo Logic | Silver Sponsor for AWS Community Day 2019'
 date: 2019-07-03T10:00:00.000Z
-description: 'We are honoured to have Sumo Logic as our Gold Sponsor'
+description: 'We are honoured to have Sumo Logic as our Silver Sponsor'
 tags:
   - Community Day
   - '2019'
@@ -12,7 +12,7 @@ tags:
 
 ### Sumo Logic 
 
-We're honoured to announce [Sumo Logic](https://www.sumologic.com/) as a Gold Sponsor for AWS Community Day Bengaluru 2019 happening on July 27, 2019.
+We're honoured to announce [Sumo Logic](https://www.sumologic.com/) as a Silver Sponsor for AWS Community Day Bengaluru 2019 happening on July 27, 2019.
 
 ![sumologic-sponsor-collateral](/img/communityday2019/sumologic.png)
 
