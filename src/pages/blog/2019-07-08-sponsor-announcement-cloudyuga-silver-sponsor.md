@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Sponsor Announcement - CloudYuga | Silver Sponsor for AWS Community Day 2019'
 date: 2019-07-08T10:00:00.000Z
-description: 'We are honoured to have Tensult as our Silver Sponsor'
+description: 'We are honoured to have CloudYuga as our Silver Sponsor'
 tags:
   - Community Day
   - '2019'
