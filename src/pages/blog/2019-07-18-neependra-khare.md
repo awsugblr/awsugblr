@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Know Your AWS Community Day Bengaluru 2019 Speaker - Neependra Khare'
-date: 2019-07-15T10:00:00.000Z
+date: 2019-07-18T10:00:00.000Z
 description: 'Interested in getting to know Neependra Khare better? Read on.'
 tags:
   - Community Day
