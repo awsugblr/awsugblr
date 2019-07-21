@@ -36,6 +36,6 @@ Time manipulation - there is so much I want to do and so little time for it.
 
 
 
-Boyan Dimitrov will be speaking about Complex architectures for authentication and authorization on AWS at the AWS Community Day Bengaluru 2019. You can connect with Boyan Dimitrov on [LinkedIn](https://aws.amazon.com/developer/community/heroes/boyan-dimitrov/) and [Twitter](https://twitter.com/).
+Boyan Dimitrov will be speaking about Complex architectures for authentication and authorization on AWS at the AWS Community Day Bengaluru 2019. You can connect with Boyan Dimitrov on [LinkedIn](https://aws.amazon.com/developer/community/heroes/boyan-dimitrov/) and [Twitter](https://twitter.com/nathariel).
 
 To learn more and to register for the AWS Community Day Bengaluru 2019, please visit the [Community Day website](https://communityday.awsugblr.in)
