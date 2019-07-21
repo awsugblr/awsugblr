@@ -35,6 +35,6 @@ If I were a Superhero, I'd like to have Omnilingualism. I figured it might be in
 
 
 
-Divya Krishnamurthi will be speaking about topic at the AWS Community Day Bengaluru 2019. You can connect with Divya Krishnamurthi on [LinkedIn](https://www.linkedin.com/in/) and [Twitter](https://twitter.com/).
+Divya Krishnamurthi will be speaking about Building a Conversational AI Assistant with AWS Lambda and Google Home at the AWS Community Day Bengaluru 2019. You can connect with Divya Krishnamurthi on [LinkedIn](https://www.linkedin.com/in/divyakrishnamurthi/).
 
 To learn more and to register for the AWS Community Day Bengaluru 2019, please visit the [Community Day website](https://communityday.awsugblr.in)
