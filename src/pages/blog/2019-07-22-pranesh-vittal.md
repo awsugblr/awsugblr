@@ -35,7 +35,7 @@ Tour the world on a motorcycle
 
 
 
-Pranesh Vittal will be speaking about topic at the AWS Community Day Bengaluru 2019. You can connect with Pranesh Vittal on [LinkedIn](https://www.linkedin.com/in/praneshvittal/).  
+Pranesh Vittal will be speaking about Medlife's journey with AWS from 0(ZERO) orders to 6 digit mark at the AWS Community Day Bengaluru 2019. You can connect with Pranesh Vittal on [LinkedIn](https://www.linkedin.com/in/praneshvittal/).  
 
 
 To learn more and to register for the AWS Community Day Bengaluru 2019, please visit the [Community Day website](https://communityday.awsugblr.in)
