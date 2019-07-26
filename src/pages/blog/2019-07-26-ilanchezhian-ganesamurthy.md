@@ -12,7 +12,7 @@ tags:
 
 ### About AWS Community Day Bengaluru 2019
 
-![](/img/communityday2019/speakers/know-your-Ilanchezhian Ganesamurthy.png)
+![](/img/communityday2019/speakers/know-your-speaker-ilan.png)
 
 AWS Community Days are community-organized cloud education events, featuring technical discussions and demos led by expert AWS users and industry leaders from around the world. AWS community is designed to educate everyone about the AWS platform, architecture best practices and about new innovation. The global AWS ecosystem consists of a range of AWS enthusiasts and advocates who are passionate about helping others build. 
 
