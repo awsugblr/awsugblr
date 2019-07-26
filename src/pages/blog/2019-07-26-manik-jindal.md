@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Know Your AWS Community Day Bengaluru 2019 Speaker - Manik Jindal'
-date: 2019-07-15T10:00:00.000Z
+date: 2019-07-26T10:00:00.000Z
 description: 'Interested in getting to know Manik Jindal better? Read on.'
 tags:
   - Community Day
