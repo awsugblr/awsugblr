@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: 'Know Your AWS Community Day Bengaluru 2019 Speaker - Denis D'Souza'
+title: "Know Your AWS Community Day Bengaluru 2019 Speaker - Denis D'Souza"
 date: 2019-07-26T10:00:00.000Z
-description: 'Interested in getting to know Denis D'Souza better? Read on.'
+description: "Interested in getting to know Denis D'Souza better? Read on."
 tags:
   - Community Day
   - '2019'
