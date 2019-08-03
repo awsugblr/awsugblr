@@ -14,6 +14,13 @@ Thanks to the expert technical trainers Hemanth Gahankari & Shinduri KS from AIS
 
 ![](/img/dlw_2.png)
 
+In attendees got to learn the following and tested their new skills and were all set to apply knowledge to their working environment through a variety of practical exercises.
+
+* Define machine learning (ML) and deep learning
+* Identify the concepts in a deep learning ecosystem
+* Leverage Amazon SageMaker and MXNet programming frameworks for deep learning workloads
+* Fit AWS solutions for deep learning deployments
+
 Felicitation to the trainers
 
 ![](/img/dlw_5.png)
