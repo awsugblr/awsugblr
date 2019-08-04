@@ -6,7 +6,7 @@ description: AWS Community Day Bengaluru 2019 experience by Bhuvaneswari Subrama
 tags:
   - communityday 2019 bengaluru
 ---
-AWS Community Day Bengaluru 2019 - The Hatrick made a history to be the biggest AWS Community Day in Asia, spanned across two days with full day Workshop & Conference and first ever AWS Community Day across the globe to host Diversity Program. It certainly gives immense pleasure to pen down the rich experience much more than being part of the team behind!
+AWS Community Day Bengaluru 2019 - The Hatrick made a history to be the biggest AWS Community Day in Asia. The event was spanned across two days with full day Workshop & Conference and also proudly takes the credit of first ever AWS Community Day across the globe to host Diversity Program. It certainly gives immense pleasure to pen down the rich experience much more than being part of the team behind!
 
 ## **Day 1**
 
