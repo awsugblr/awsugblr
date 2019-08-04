@@ -49,7 +49,14 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 
 ![](/img/luckydip_001.png)
 
-* 
+* **Goodies**
+
+Gladwin from Wheelsbox.com have been our one stop shop for all the goodies, right from AWS Community Day logo-ed Sipper bottles, 800+ Attendee T-shirts, 1000+ AWSUGBLR Logo Badges, AWSUGBLR logo T-shirts for volunteers and speakers, Speaker Memento and cool bag for the speaker memento. Finally he helped with Sipper bottle with Infor logo for Diversity Program too. No matter what "Never Say No"; I appreciate that!
+
+![](/img/speaker_memento.png)
+
+* Hosts for 4 Tracks\
+  Sathyajith, Prashanth, Runcy & Myself took up the hosting the four tracks respectively. 
 
 If I have the power to hire for a large enterprise, I would hire all of these highly skilled, self-motivated, committed, passionate folks, matured enough to respect & appreciate each others talent. Apparently they are are diversified by their skillsets and multitude of talents but united by common goal with the prime focus to get AWS Community Day Bengaluru 2019 into flying colours.
 
