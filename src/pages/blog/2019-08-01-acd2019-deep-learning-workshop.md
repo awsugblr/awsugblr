@@ -6,15 +6,17 @@ description: AWS Community Day Bengaluru 2019 experience by Bhuvaneswari Subrama
 tags:
   - communityday 2019 bengaluru workshop
 ---
+Day -1 of AWS Community Day Bengaluru 2019 is for the focused learners to gain deeper appreciation of the select AWS Technology - _Deep Learning on AWS & Serverless on AWS._\
+\
 The one-day Deep Learning WorkShop on AWS was designed with an intend to teach cloud-based deep learning (DL) solutions on the AWS platform to the developers who are responsible for developing deep learning applications or the developers who want to understand concepts behind deep learning and how to implement a deep learning solution on AWS.
 
-The course taught how to run your models on the cloud using Amazon EC2‒based deep learning Amazon Machine Image (AMI) and Apache MXNet on AWS frameworks. In addition, trainers explained how to use Amazon SageMaker and deploy your deep learning models using AWS services like AWS Lambda and Amazon Elastic Container Service (Amazon ECS)—all while designing intelligent systems on AWS.
+The course taught how to run the models on the cloud using Amazon EC2‒based deep learning Amazon Machine Image (AMI) and Apache MXNet on AWS frameworks. In addition, trainers explained how to use Amazon SageMaker and deploy your deep learning models using AWS services like AWS Lambda and Amazon Elastic Container Service (Amazon ECS)—all while designing intelligent systems on AWS.
 
 We had solid 35 registrations and 32 have turned up. Radisson Blu is always a go to place for such workshops with yummy food, stable internet connection and spacious lab kind of setup apt for workshops.
 
 Thanks to the expert technical trainers Hemanth Gahankari & Shinduri KS from Amazon Internet Services Private Limited (AISPL) Certification & Training Team.
 
-KonfHub played a key role in arranging the logistics and which helped making the training happen smoothly and successfully. Heartfelt thanks to [Ganesh Samarthyam](https://twitter.com/GSamarthyam) & [Hari Kiran](https://www.linkedin.com/in/gharikiran/)!
+KonfHub played a key role in arranging the logistics which helped us to conduct the training smoothly and successfully. Heartfelt thanks to [Ganesh Samarthyam](https://twitter.com/GSamarthyam) & [Hari Kiran](https://www.linkedin.com/in/gharikiran/)!
 
 ![null](/img/dlw_2.png)
 
