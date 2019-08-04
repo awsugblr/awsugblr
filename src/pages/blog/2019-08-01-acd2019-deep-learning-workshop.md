@@ -39,4 +39,4 @@ A glimpse from the luncheon ..
 
 A group pic..
 
-![](/img/dlw_6.png)
+![null](/img/dlw_6.png)
