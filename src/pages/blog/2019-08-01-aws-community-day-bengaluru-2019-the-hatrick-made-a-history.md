@@ -13,7 +13,7 @@ AWS Community Day Bengaluru 2019 - The Hatrick made a history to be the biggest 
 Deep Learning & Serverless Workshops were in partnership with AWS User Group Bengaluru and CodeOps Technologies with the expert trainers from Amazon Internet Services Private Limited (AISPL) Certification & Training Team. Usually the conference / workshop ticket sales would be at peak in the last two weeks but Serverless workshop as an exception was sold out two weeks before.  
 
 * [Deep Learning Workshop](https://www.awsugblr.in/blog/2019-08-01-acd2019-deep-learning-workshop/)
-* Serverless workshop
+* [Serverless workshop](https://www.awsugblr.in/blog/2019-08-03-acd2019-serverless-workshop/)
 
 ## Day 2
 
