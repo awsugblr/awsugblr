@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: AWS Community Day Bengaluru 2019 - Serverless Workshop
+title: AWS Community Day Bengaluru 2019 - Day 1 - Serverless Workshop
 date: 2019-08-03T16:29:38.475Z
 description: AWS Community Day Bengaluru 2019 experience by Bhuvaneswari Subramani
 tags:
