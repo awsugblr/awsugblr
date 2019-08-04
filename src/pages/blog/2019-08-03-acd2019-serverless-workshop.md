@@ -6,16 +6,10 @@ description: AWS Community Day Bengaluru 2019 experience by Bhuvaneswari Subrama
 tags:
   - communityday 2019 bengaluru workshop
 ---
-
-
 The one-day Serverless WorkShop on AWS 
 
-
-
-
-
-![](/img/sw_1.png)
+![null](/img/sw_1.png)
 
 Felicitation by 
 
-![](/img/sw_3.png)
+![null](/img/sw_3.png)
