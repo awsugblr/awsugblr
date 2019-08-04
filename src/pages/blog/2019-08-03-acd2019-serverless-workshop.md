@@ -26,6 +26,10 @@ KonfHub played a key role in arranging the logistics which helped us to conduct 
 
 ![](/img/sw_2.png)
 
+The application presented users with an HTML & JS based user interface for ordering food items and indicating the location where they would like the food to be delivered. The interface on the backend with a RESTful web service will submit the request and find and dispatch food to the requester’s location. The application also provided facilities for users to register with the service and log in before ordering food.
+
+The application architecture was designed to use S3 hosts static web resources including HTML, CSS, JavaScript, and image files which are loaded in the user's browser. JavaScript executed in the browser sends and receives data from a backend API built using Lambda & Step Functions and API Gateway. Amazon Cognito provides user management and authentication functions to secure the backend API. Finally, DynamoDB provides a persistence layer where data can be stored by the API's Lambda function.\
+\
 Felicitation to the trainers by [Prashanth HN](https://www.linkedin.com/in/hnprashanth/), co-organizer of AWS User Group Bengaluru and CTO / Co-Founder [wheelsbox.com ](www.wheelsbox.com)
 
 ![null](/img/sw_3.png)
