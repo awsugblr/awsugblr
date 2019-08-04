@@ -16,7 +16,7 @@ With the knowledge from the workshop, developers can build and deploy their own 
 
 We had 45 registrations and 43 have turned up. The highlight was the tickets got sold out 2 weeks before the workshop and were really sad to turn down to many interested folks. Radisson Blu is always a go to place for such workshops with yummy food, stable internet connection and spacious lab kind of setup apt for workshops.
 
-Thanks to the expert technical trainers[ Madhusudhan Shekar](https://www.linkedin.com/in/madhusudanshekar/), Head - Digital Innovation from Amazon Internet Services Private Limited (AISPL) and [Srushith R](https://www.linkedin.com/in/srushith/), Head of Engineering from CodeOps Technologies.
+Thanks to the AWS experts[ Madhusudhan Shekar](https://www.linkedin.com/in/madhusudanshekar/), Head - Digital Innovation from Amazon Internet Services Private Limited (AISPL) and [Srushith R](https://www.linkedin.com/in/srushith/), Head of Engineering from CodeOps Technologies.
 
 KonfHub played a key role in arranging the logistics which helped us to conduct the training smoothly and successfully. Heartfelt thanks to [Ganesh Samarthyam](https://twitter.com/GSamarthyam) & [Hari Kiran](https://www.linkedin.com/in/gharikiran/)!
 
