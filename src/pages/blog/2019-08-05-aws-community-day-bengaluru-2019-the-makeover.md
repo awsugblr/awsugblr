@@ -22,13 +22,14 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
   April 10, 2019: Last date for submission of CFP
   April 15, 2019: Speaker list announcement
   July 27, 2019: Day of the event
-* [Wheelsbox.com ](Wheelsbox.com)**Team was in total action**
-  * **Website:** Prashanth's team - Akhil & Praveen, took a complete overhaul of the [Community Day website](http://communityday.awsugblr.in) and it was a phenomenal change from [2018 Community Day Website](http://communityday.awsugblr.in/2018). \
+* [Wheelsbox.com ](Wheelsbox.com)**Team lead by Prashanth was in total action**
+  * **Website:** Prashanth's team, took a complete overhaul of the [Community Day website](http://communityday.awsugblr.in) and it was a phenomenal change from [2018 Community Day Website](http://communityday.awsugblr.in/2018). \
     Well, if you are reading this blog after 2019, you may consider looking at http://communityday.awsugblr.in/2019 and http://communityday.awsugblr.in/ or the successive one. 
-  * **Marketing Collaterals: **Sponsor, Speaker
-  *  
-* [Call for Proposals](https://www.awsugblr.in/blog/2019-03-04-call-for-proposals-for-aws-community-day-bengaluru-2019-are-now-open/) was opened-up on 4th March 2019 and we adhered to the rest of the dates.
-* Harsha Ramakrishnan & Sahil Sharma have setup AWS Community Day Bengaluru 2019 booth in an AWS Event on 19th July 2019 to create an awareness about the Community Day.
+  * **Marketing Collaterals: **Sponsor, Speaker, Know your Speaker blog, Emailers for Workshop, Conference and Combo
+  * Thanks to [Akhil VC](https://www.linkedin.com/in/akhilvc10/), [Praveen Gorakala](https://www.linkedin.com/in/praveen-kumar-gorakala-50494b92/) & [Rahul Sawant](https://www.linkedin.com/in/rahul-sawant-895481109/)
+* [Call for Proposals](https://www.awsugblr.in/blog/2019-03-04-call-for-proposals-for-aws-community-day-bengaluru-2019-are-now-open/) was opened-up on 4th March 2019 and we adhered to the rest of the dates till the event.
+* [Harsha Ramakrishnan](https://www.linkedin.com/in/harshar/) & [Sahil Sharma](https://twitter.com/gh05t_r00t) have setup AWS Community Day Bengaluru 2019 booth in an AWS Event on 19th July 2019 to create an awareness about the Community Day.
+* Starting with [Why you should AWS community Day blog](https://medium.com/@piyushj02/why-should-i-attend-aws-community-day-2019-9b712dd61e6e) to all the marketing help, [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) was standing by and [Kaivalya Shah](https://www.linkedin.com/in/kaivalyashah/) was ready to pitch in wherever required.
 * **Know your Speaker** Blog Series\
   Know your Speaker blog series was best in class automation & integration by Sathyajith  with 60 lines of quick coding in GO language.
   * User input to the typeform creates a trello card
@@ -37,31 +38,36 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
   * You may view all the blog posts under Know your Speaker blog series - [https://www.awsugblr.in/tags/know-your-speaker/ ](https://www.awsugblr.in/tags/know-your-speaker/)
 * **Diversity Program**
   * Diversity Program have been by baby from day 1 and thanks to [Rashmi Sreedharan  ](https://www.linkedin.com/in/rashmis/)for all those brainstorming sessions. It was a great experience to devise a program with super good speakers  who has greater insight and much more experience in Diversity & Inclusion. Happy to collaborate with several #WomenInTech forums like WiMLDS - India, hersecondinnings.com, Women Who Code Bangalore, Infosecgirls & OWASPBangalore.
-* **Agenda App was AWSome **
+* **AWSome Agenda App  - **again by Wheelsbox.com Team
   * It is time aware, shows talks in current time slot when you open
-    * attendee can create his/her own schedule for multi-track events
-    * it has kiosk mode if conference organiser wishes to put this on a screen at the event and since it’s time aware it will always show current talk\
-      How it works video here - [https://youtu.be/-tUR5bI9s6g ](https://youtu.be/-tUR5bI9s6g)\
-      Code here - 
+  * attendee can create his/her own schedule for multi-track events
+  * it has kiosk mode if conference organiser wishes to put this on a screen at the event and since it’s time aware it will always show current talk\
+    How it works video here - [https://youtu.be/-tUR5bI9s6g ](https://youtu.be/-tUR5bI9s6g)\
+    Code here - 
 
 ![null](/img/agenda_001.png)
 
 * **Lucky Dip Alexa Skill**\
   We had 💯*💯of fun picking a winner for the giveaway at AWS #communityday Bangalore. Thanks to Runcy for developing an Alexa skill by loading all registered attendees (minus speakers/volunteers) that picked a random name from list 🙌 \
-  Code here - <https://github.com/awsugblr/cd2019-luckydip>. 
+  Code here - <https://github.com/awsugblr/cd2019-luckydip>. This was super hit in the closing note.
 
 ![null](/img/luckydip_001.png)
 
+* Runcy had also collaborated with Facebook Developer Circle, EFY, to
 * **Event Goodies**
 
-Gladwin from Wheelsbox.com have been our one stop shop for all the goodies, right from AWS Community Day logo-ed Sipper bottles, 800+ Attendee T-shirts, 1000+ AWSUGBLR Logo Badges, AWSUGBLR logo T-shirts for volunteers and speakers, Speaker Memento and cool bag for the speaker memento. Finally he helped with Sipper bottle with Infor logo for Diversity Program too. No matter what "Never Say No"; I appreciate that!
+Gladwin from Wheelsbox.com have been our one stop shop for all the goodies, right from AWS Community Day logo-ed Sipper bottles, 800+ Attendee T-shirts, 1000+ AWSUGBLR Logo Badges, AWSUGBLR logo T-shirts for volunteers and speakers, Speaker Memento and cool bag for the speaker memento. Finally he helped with Sipper bottle with Infor logo for Diversity Program too. \
+No matter what "Never Say No" attitude; I appreciate that!
 
 ![null](/img/speaker_memento.png)
 
 * **Hosts for 4 Tracks**\
   Sathyajith, Prashanth, Runcy & Myself took up the hosting the four tracks respectively and it was a great experience for me to write the emcee script for the event. 
-* ****[**Konfhub Technologies**](https://konfhub.com/)**, the Ticketing Partner**\
+* [Konfhub Technologies](https://konfhub.com/), **the Ticketing Partner**\
   Great effort from whole KonfHub team for the great work behind the scenes in ticketing and on the day of the event for the best registration experience and developing the sponsorship app in record time.
+* Sathyajith was again doing wonders with integration
+  * zapier plans for konfhub ticket sales integration with awsugblr.slack.com slack channel. Every 50th & 100th ticket sale was a celebration.  
+  * buffer pro plan for sending feeds to awsugblr social media 
 * [WOne Creations Private Limited](https://www.facebook.com/Wonecreations/) for the ideation, production and execution of events and experiences.
 
 If I have the power to hire for a large enterprise, I would hire all of these highly skilled, self-motivated, committed, passionate folks, matured enough to respect & appreciate each others talent. Apparently they are are diversified by their skillsets and multitude of talents but united by common goal with the prime focus to get AWS Community Day Bengaluru 2019 into flying colours.
