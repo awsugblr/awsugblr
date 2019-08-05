@@ -31,11 +31,20 @@ Video Recording:
 
 <Photo>
 
-## Sponsor Talk 2  Building Voice Enabled Experiences with Alexa
+## Sponsor Talk 2:  Building Voice Enabled Experiences with Alexa
 
-Our next speaker is Karthik Ragubathy, Solution Architect, Alexa Skills Kit at Amazon.
+Karthik Ragubathy, Solution Architect, Alexa Skills Kit at Amazon.
 
 Who else can talk better about voice enabled experiences ?
+
+Slide Deck: \
+Video Recording: 
+
+<Photo>
+
+## Sponsor Talk 3 How Freshworks reduced blast radius and improved uptime at 500k requests per minute 
+
+Kiran Darisi, Co-Founder and Distinguished Engineer at Freshworks
 
 Slide Deck: \
 Video Recording: 
