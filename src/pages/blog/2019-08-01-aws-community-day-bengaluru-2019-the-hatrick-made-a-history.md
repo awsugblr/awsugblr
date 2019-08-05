@@ -29,6 +29,4 @@ It was 5:00am on the conference day, the majestic spectacle of sunrise have not 
 * Closing Note
 * Sponsors
 * Certification & Training Lounge
-* Organizers
-
-##
+* The Team Behind!
