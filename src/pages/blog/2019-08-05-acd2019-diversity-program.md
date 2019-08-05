@@ -4,7 +4,7 @@ title: ACD2019 - Diversity Program
 date: 2019-08-05T05:08:41.359Z
 description: AWS Community Day Bengaluru 2019 experience by Bhuvaneswari Subramani
 tags:
-  - communityday 2019 bengaluru diversity
+  - communityday 2019 bengaluru Diversity
 ---
 As part of AWS Community Day Bengaluru 2019, happy & proud to host first the ever #diversity program as part of the AWS Cloud Community Day across the globe. \
 Wonderful audience, best speakers across the globe and great topics to enlighten, I was pretty excited about the event!\
@@ -38,4 +38,8 @@ Shwetha addressed the audience on **Exploring opportunities with communities for
 
 On the whole, the Diversity Program was a huge success with inspiring and insightful presentations.
 
-Special thanks to [\#infor](https://www.infor.com/) & Diana for sponsoring goodie to all the diversity program attendees. Thanks to [Rashmi Sreedharan](https://www.linkedin.com/in/rashmis/), for her involvement and support all through planning & execution. Kudos to the organisers [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/), [Runcy Oommen](https://www.linkedin.com/in/runcyoommen/) and [Prashanth HN](https://www.linkedin.com/in/hnprashanth/) for standing by!
+Special thanks to [\#infor](https://www.infor.com/) & Diana for sponsoring goodie to all the diversity program attendees. \
+\
+Thanks to [Rashmi Sreedharan](https://www.linkedin.com/in/rashmis/), for her involvement and support all through planning & execution. \
+\
+Kudos to the organisers [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/), [Runcy Oommen](https://www.linkedin.com/in/runcyoommen/) and [Prashanth HN](https://www.linkedin.com/in/hnprashanth/) for standing by!
