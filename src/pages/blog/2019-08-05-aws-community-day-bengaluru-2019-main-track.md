@@ -6,4 +6,20 @@ description: AWS Community Day Bengaluru 2019 experience by Bhuvaneswari Subrama
 tags:
   - communityday 2019 bengaluru
 ---
-Main Track
+AWS Community Day Bengaluru 2019 started with full house and high energy! Our MC extend hearty welcome to Sponsors, Speakers, Attendees and everyone who made the event possible.
+
+## Keynote: Embracing Full-stack Serverless. A new paradigm
+
+\
+The keynote speaker Gerard Sans, a Developer Advocate at AWS, an always happy Computer Science Engineer, and a humble GDE.
+
+He loves to share his learnings by giving talks, trainings, and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students, and giving back to the community.
+
+And we are super excited to have him as a keynote speaker\
+\
+Slide Deck: \
+Video Recording: 
+
+<Photo>
+
+## Sponsor Talk 1 - Tips and Tricks for Running Your SaaS Business on AWS: Lessons Learned from JFrog
