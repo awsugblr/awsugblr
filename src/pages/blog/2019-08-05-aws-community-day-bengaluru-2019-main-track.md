@@ -22,4 +22,13 @@ Video Recording:
 
 <Photo>
 
-## Sponsor Talk 1 - Tips and Tricks for Running Your SaaS Business on AWS: Lessons Learned from JFrog
+## Sponsor Talk 1: Tips and Tricks for Running Your SaaS Business on AWS: Lessons Learned from JFrog 
+
+
+
+Prasanna Raghavendra, R&D Director from JFrog India and Seshu Reddy, SRE from JFrog India walked us through their lessons learned from JFrog.
+
+Slide Deck: \
+Video Recording: 
+
+<Photo>
