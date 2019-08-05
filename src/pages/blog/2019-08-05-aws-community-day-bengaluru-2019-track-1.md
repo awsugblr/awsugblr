@@ -6,7 +6,7 @@ description: AWS Community Day Bengaluru 2019 experience by Bhuvaneswari Subrama
 tags:
   - communityday 2019 bengaluru
 ---
-Welcome to AWS Community Day Bengaluru 2019 hosted by [Sathyajith](https://www.linkedin.com/in/sathyabhat/)
+Welcome to AWS Community Day Bengaluru 2019 hosted by [Sathyajith](https://www.linkedin.com/in/sathyabhat/), AWS Community Hero & organizer AWS User Group Bengaluru.
 
 ## Talk 1: Serverless Architecture : The future of Cloud Computing
 
