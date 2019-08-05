@@ -17,8 +17,8 @@ He loves to share his learnings by giving talks, trainings, and writing about co
 
 And we are super excited to have him as a keynote speaker\
 \
-Slide Deck: \
-Video Recording: 
+**Slide Deck: **\
+**Video Recording: **
 
 <Photo>
 
@@ -26,8 +26,8 @@ Video Recording:
 
 Prasanna Raghavendra, R&D Director from JFrog India and Seshu Reddy, SRE from JFrog India walked us through their lessons learned from JFrog.
 
-Slide Deck: \
-Video Recording: 
+**Slide Deck: **\
+**Video Recording: **
 
 <Photo>
 
@@ -37,8 +37,8 @@ Karthik Ragubathy, Solution Architect, Alexa Skills Kit at Amazon.
 
 Who else can talk better about voice enabled experiences ?
 
-Slide Deck: \
-Video Recording: 
+**Slide Deck: **\
+**Video Recording: **
 
 <Photo>
 
@@ -46,7 +46,7 @@ Video Recording:
 
 Kiran Darisi, Co-Founder and Distinguished Engineer at Freshworks
 
-Slide Deck: \
-Video Recording: 
+**Slide Deck: **\
+**Video Recording: **
 
 <Photo>
