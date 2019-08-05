@@ -24,7 +24,7 @@ Deep Learning & Serverless Workshops were co-ogranized by AWS User Group Bengalu
 
 ## Day 2
 
-It was 5:00am on the conference day, the majestic spectacle of sunrays have not yet penetrated into Hotel Conrad but the organizers / volunteers have already gathered for the finally planning & getting ready to execute on the much awaited D-Day, AWS Community Day Bengaluru 2019. That's the spirit and beauty of the community which inspires, energizes, renews and gives lots of new hope on how all hands put together would make wonders! The arrival of Mumbai, Chennai user group leads and Konfhub team in next hour or so gave a feel of friends & family gathered for a typical Indian wedding preparation.
+It was 5:00am on the conference day, the majestic spectacle of sunrise have not yet passed the golden rays into Hotel Conrad but the organizers / volunteers have already gathered for the finally planning & getting ready to execute on the much awaited D-Day, AWS Community Day Bengaluru 2019. That's the spirit and beauty of the community which inspires, energizes, renews and gives lots of new hope on how all hands put together would make wonders! The arrival of Mumbai, Chennai user group leads and Konfhub team in next hour or so gave a feel of friends & family gathered for a typical Indian wedding preparation.
 
 We had 800+ AWS enthusiasts to witness one of the biggest tech conferences in Bengaluru, having a wide variety of use cases & success stories, including, but not limited to, Serverless, Containers, Security, Machine Learning, Artificial Intelligence, IoT, Databases, Blockchain and much more.
 
