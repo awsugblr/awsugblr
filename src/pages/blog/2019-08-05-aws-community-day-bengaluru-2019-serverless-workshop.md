@@ -34,4 +34,4 @@ Felicitation to the trainers by [Prashanth HN](https://www.linkedin.com/in/hnpra
 
 A glimpse from the luncheon ..
 
-![null]()
+![null](/img/sl_lunch.png)
