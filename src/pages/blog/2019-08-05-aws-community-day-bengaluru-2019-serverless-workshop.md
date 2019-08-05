@@ -10,7 +10,7 @@ Day -1 of AWS Community Day Bengaluru 2019 is for the focused learners to gain d
 __\
 The one-day Serverless WorkShop on AWS get you up to develop AWSome App - a Serverless Food-delivery Application conducted by experts from AWS.
 
-In this workshop developers will deploy a simple web application that enables users to request food from the AWSome Food website using services like AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, AWS Step Functions and Amazon Cognito.
+In this workshop developers deployed a simple web application that enables users to request food from the AWSome Food website using services like AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, AWS Step Functions and Amazon Cognito.
 
 With the knowledge from the workshop, developers can build and deploy their own serverless applications using these services for common use cases like web applications, analytics, and more.
 
