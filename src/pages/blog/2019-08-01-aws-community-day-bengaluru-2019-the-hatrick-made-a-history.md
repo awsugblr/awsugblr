@@ -17,7 +17,7 @@ Deep Learning & Serverless Workshops were in partnership with AWS User Group Ben
 
 ## Day 2
 
-It was 5:00am on the conference day, the majestic spectacle of sunrise have not yet penetrated into Hotel Conrad but the organizers / volunteers have already gathered for the finally planning & get ready to execute on the much awaited D-Day. That's the spirit and beauty of the community which inspires, energizes, renews and gives lots of new hope on how all hands put together would make wonders! The arrival of Mumbai, Chennai user group leads and Konfhub team in next hour or so gave a feel of friends & family gathered for a typical Indian wedding preparation.
+It was 5:00am on the conference day, the majestic spectacle of sunrise have not yet penetrated into Hotel Conrad but the organizers / volunteers have already gathered for the finally planning & getting ready to execute on the much awaited D-Day, AWS Community Day Bengaluru 2019. That's the spirit and beauty of the community which inspires, energizes, renews and gives lots of new hope on how all hands put together would make wonders! The arrival of Mumbai, Chennai user group leads and Konfhub team in next hour or so gave a feel of friends & family gathered for a typical Indian wedding preparation.
 
 * [The makeover of AWS Community Day Bengaluru 2019](https://www.awsugblr.in/blog/2019-08-04-acd2019-the-makeover)
 * Main Track
