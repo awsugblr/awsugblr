@@ -28,6 +28,8 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
   * **Marketing Collaterals: **Sponsor, Speaker, Know your Speaker blog, Emailers for Workshop, Conference and Combo
   * Thanks to [Akhil VC](https://www.linkedin.com/in/akhilvc10/), [Praveen Gorakala](https://www.linkedin.com/in/praveen-kumar-gorakala-50494b92/) & [Rahul Sawant](https://www.linkedin.com/in/rahul-sawant-895481109/)
 * [Call for Proposals](https://www.awsugblr.in/blog/2019-03-04-call-for-proposals-for-aws-community-day-bengaluru-2019-are-now-open/) was opened-up on 4th March 2019 and we adhered to the rest of the dates till the event.
+* **Proposal Selection: **\
+  The most difficult part of the event 
 * [Harsha Ramakrishnan](https://www.linkedin.com/in/harshar/) & [Sahil Sharma](https://twitter.com/gh05t_r00t) have setup AWS Community Day Bengaluru 2019 booth in an AWS Event on 19th July 2019 to create an awareness about the Community Day.
 * Starting with [Why you should AWS community Day blog](https://medium.com/@piyushj02/why-should-i-attend-aws-community-day-2019-9b712dd61e6e) to all the marketing help, [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/) was standing by and [Kaivalya Shah](https://www.linkedin.com/in/kaivalyashah/) was ready to pitch in wherever required.
 * **Know your Speaker** Blog Series\
@@ -54,10 +56,9 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 ![null](/img/luckydip_001.png)
 
 * Runcy had also collaborated with Facebook Developer Circle, EFY, to
-* **Event Goodies**
-
-Gladwin from Wheelsbox.com have been our one stop shop for all the goodies, right from AWS Community Day logo-ed Sipper bottles, 800+ Attendee T-shirts, 1000+ AWSUGBLR Logo Badges, AWSUGBLR logo T-shirts for volunteers and speakers, Speaker Memento and cool bag for the speaker memento. Finally he helped with Sipper bottle with Infor logo for Diversity Program too. \
-No matter what "Never Say No" attitude; I appreciate that!
+* **Event Goodies**\
+  Gladwin from Wheelsbox.com have been our one stop shop for all the goodies, right from AWS Community Day logo-ed Sipper bottles, 800+ Attendee T-shirts, 1000+ AWSUGBLR Logo Badges, AWSUGBLR logo T-shirts for volunteers and speakers, Speaker Memento and cool bag for the speaker memento. Finally he helped with Sipper bottle with Infor logo for Diversity Program too. \
+  No matter what "Never Say No" attitude; I appreciate that!
 
 ![null](/img/speaker_memento.png)
 
@@ -69,6 +70,7 @@ No matter what "Never Say No" attitude; I appreciate that!
   * zapier plans for konfhub ticket sales integration with awsugblr.slack.com slack channel. Every 50th & 100th ticket sale was a celebration.  
   * buffer pro plan for sending feeds to awsugblr social media 
 * [WOne Creations Private Limited](https://www.facebook.com/Wonecreations/) for the ideation, production and execution of events and experiences.
+* Jeevan did an excellent co-ordination all through the planning & execution 
 
 If I have the power to hire for a large enterprise, I would hire all of these highly skilled, self-motivated, committed, passionate folks, matured enough to respect & appreciate each others talent. Apparently they are are diversified by their skillsets and multitude of talents but united by common goal with the prime focus to get AWS Community Day Bengaluru 2019 into flying colours.
 
