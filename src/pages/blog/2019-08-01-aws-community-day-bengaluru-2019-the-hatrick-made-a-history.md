@@ -28,7 +28,7 @@ It was 5:00am on the conference day, the majestic spectacle of sunrise have not 
 
 We had 800+ AWS enthusiasts to witness one of the biggest tech conferences in Bengaluru, having a wide variety of use cases & success stories, including, but not limited to, Serverless, Containers, Security, Machine Learning, Artificial Intelligence, IoT, Databases, Blockchain and much more.
 
-* [The makeover of AWS Community Day Bengaluru 2019](https://www.awsugblr.in/blog/2019-08-04-acd2019-the-makeover)
+* The makeover of AWS Community Day Bengaluru 2019
 * Main Track
 * Track - 1
 * Track - 2
