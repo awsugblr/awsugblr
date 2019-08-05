@@ -11,7 +11,7 @@ AWS Community Day Bengaluru 2019 started with full house and high energy! Our MC
 ## Keynote: Embracing Full-stack Serverless. A new paradigm
 
 \
-The keynote speaker Gerard Sans, a Developer Advocate at AWS, an always happy Computer Science Engineer, and a humble GDE.
+The keynote speaker[ Gerard Sans,](https://www.linkedin.com/in/gerard-sans/) a Developer Advocate at AWS, an always happy Computer Science Engineer, and a humble GDE.
 
 He loves to share his learnings by giving talks, trainings, and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students, and giving back to the community.
 
@@ -24,9 +24,18 @@ Video Recording:
 
 ## Sponsor Talk 1: Tips and Tricks for Running Your SaaS Business on AWS: Lessons Learned from JFrog 
 
-
-
 Prasanna Raghavendra, R&D Director from JFrog India and Seshu Reddy, SRE from JFrog India walked us through their lessons learned from JFrog.
+
+Slide Deck: \
+Video Recording: 
+
+<Photo>
+
+## Sponsor Talk 2  Building Voice Enabled Experiences with Alexa
+
+Our next speaker is Karthik Ragubathy, Solution Architect, Alexa Skills Kit at Amazon.
+
+Who else can talk better about voice enabled experiences ?
 
 Slide Deck: \
 Video Recording: 
