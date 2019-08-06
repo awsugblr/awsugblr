@@ -26,9 +26,11 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 * [Wheelsbox.com ](Wheelsbox.com)**team lead by Prashanth was in total heroic action**
   * **Website:**  A complete overhaul of the [Community Day website](http://communityday.awsugblr.in) and it was a phenomenal change from [2018 Community Day Website](http://communityday.awsugblr.in/2018). \
     Well, if you are reading this blog after 2019, you may consider looking at http://communityday.awsugblr.in/2019 and http://communityday.awsugblr.in/ or the successive one. That gave feel of getting ready for a mega event!
-  * **Marketing Collaterals: **Sponsor, Speaker, Know your Speaker blog, Speaker Flow presentations for each track, Emailers for Workshop, Conference & Combo and Slide Deck Template
+  * **Marketing Collaterals:**
+    ** **Sponsor, Speaker, Know your Speaker blog, Speaker Flow presentations for each track, Emailers for Workshop, Conference & Combo and Slide Deck Template
     You name it something & you will get it in no time.
-  * **Designs: **Volunteer & Attendee T-Shirts, AWSBUGBLR Buddy Batch, Speaker Memento, 
+  * **Website:**
+    ** **Volunteer & Attendee T-Shirts, AWSBUGBLR Buddy Batch, Speaker Memento, 
   * Thanks to [Prashanth](https://www.linkedin.com/in/hnprashanth/), [Akhil VC](https://www.linkedin.com/in/akhilvc10/), [Praveen Gorakala](https://www.linkedin.com/in/praveen-kumar-gorakala-50494b92/), Krishna Muddi & [Rahul Sawant](https://www.linkedin.com/in/rahul-sawant-895481109/)
 * [Call for Proposals](https://www.awsugblr.in/blog/2019-03-04-call-for-proposals-for-aws-community-day-bengaluru-2019-are-now-open/) was opened-up on 4th March 2019 and we adhered to the rest of the dates in the schedule till the event.
 * **Proposal Selection: **\
@@ -51,7 +53,7 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 
 ![null](/img/agenda_001.png)
 
-* **Lucky Dip Alexa Skill **\
+* **Lucky Dip Alexa Skill**\
   We had 💯*💯of fun picking a winner for the giveaway at AWS #communityday Bangalore. Thanks to Runcy for developing an Alexa skill by loading all registered attendees (minus speakers/volunteers) that picked a random name from list 🙌 \
   Code here - <https://github.com/awsugblr/cd2019-luckydip>. This was super hit in the closing note.
 
@@ -65,7 +67,8 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 ![null](/img/speaker_memento.png)
 
 * **Hosts for 4 Tracks**\
-  Sathyajith, Prashanth, Runcy & Myself took up the hosting the four tracks respectively along with 2 additional volunteers for each track and it was a great experience for me to write the emcee script for the event. 
+  Sathyajith, Prashanth, Runcy & Myself took up hosting the four tracks respectively along with 2 additional volunteers for each track and it was a great experience for me to write the emcee script for the event. 
+* Well, with this wholistic experience, I also had the privilege to write content for website, emailers and blogs.
 * [Konfhub Technologies](https://konfhub.com/), **the Ticketing Partner**\
   Kudos to the whole KonfHub team for the great work behind the scenes in ticketing and on the day of the event for the best registration experience and developing the sponsorship app in record time. Heartfelt thanks to [Ganesh Samarthyam](https://twitter.com/GSamarthyam) & [Hari Kiran](https://www.linkedin.com/in/gharikiran/)!
 * Sathyajith again did wonders with integration
@@ -73,7 +76,7 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
     All hands were together to promote ticket sales.
   * Buffer pro plan for sending feeds to awsugblr social media 
 * [WOne Creations Private Limited](https://www.facebook.com/Wonecreations/) for the ideation, production and execution of events and experiences.
-* AWS Community Hero / Hotstar Hero [Gaurav Kamboj ](https://www.linkedin.com/in/gauravkamboj/)was our one man army in the social media team on the Community Day! Thanks to [Partha](https://www.linkedin.com/in/parthasarathi-b/) & [Ilan](https://www.linkedin.com/in/ilanchezhian/), Community Leaders from AWS User Group Chennai, for supporting with Goodie Distribution, **Coffee with Gerard **and much more on the event day.
+* AWS Community Hero / Hotstar Hero [Gaurav Kamboj ](https://www.linkedin.com/in/gauravkamboj/)was our one man army in the social media team on the Community Day! Thanks to [Partha](https://www.linkedin.com/in/parthasarathi-b/) & [Ilan](https://www.linkedin.com/in/ilanchezhian/), Community Leaders from AWS User Group Chennai, for supporting with Goodie Distribution, _Coffee with Gerard _and much more on the event day.
 * Very well integrated AWS Community Leaders across India were like pillars and [Rashmi Sreedharan](https://www.linkedin.com/in/rashmis/) was our backbone. Thanks to [Rahul Jain](https://www.linkedin.com/in/rahrj/) & [Madhusudhan Shekar](https://www.linkedin.com/in/madhusudanshekar/) for all those encouragements. 
 * Jeevan did an excellent co-ordination all through the planning & execution, empowered the right people to collaborate on allocated portfolio.
 * AWS Cloud was also super excited about our AWS Community Day Bengaluru 2019 and announced to the world!
@@ -88,4 +91,4 @@ Getting featured in [YourStory](https://yourstory.com/2019/07/aws-group-bengalur
 
 ![null](/img/volunteers.png)
 
-See you again at AWS Community Day Bengaluru 2019!
+See you again at AWS Community Day Bengaluru 2020!
