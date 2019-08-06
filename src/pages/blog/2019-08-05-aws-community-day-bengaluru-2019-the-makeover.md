@@ -66,7 +66,6 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 
 * **Hosts for 4 Tracks**\
   Sathyajith, Prashanth, Runcy & Myself took up the hosting the four tracks respectively along with 2 additional volunteers for each track and it was a great experience for me to write the emcee script for the event. 
-* Well, with this wholistic experience, I also had the privilege to write content for website, emailers and blogs.
 * [Konfhub Technologies](https://konfhub.com/), **the Ticketing Partner**\
   Kudos to the whole KonfHub team for the great work behind the scenes in ticketing and on the day of the event for the best registration experience and developing the sponsorship app in record time. Heartfelt thanks to [Ganesh Samarthyam](https://twitter.com/GSamarthyam) & [Hari Kiran](https://www.linkedin.com/in/gharikiran/)!
 * Sathyajith again did wonders with integration
@@ -74,7 +73,7 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
     All hands were together to promote ticket sales.
   * Buffer pro plan for sending feeds to awsugblr social media 
 * [WOne Creations Private Limited](https://www.facebook.com/Wonecreations/) for the ideation, production and execution of events and experiences.
-* AWS Community Hero / Hotstar Hero [Gaurav Kamboj ](https://www.linkedin.com/in/gauravkamboj/)was our one man army in the social media team on the Community Day! Thanks to [Partha](https://www.linkedin.com/in/parthasarathi-b/) & [Ilan](https://www.linkedin.com/in/ilanchezhian/), Community Leaders from AWS User Group Chennai, for supporting with Goodie Distribution, _Coffee with Gerard _and much more on the event day.
+* AWS Community Hero / Hotstar Hero [Gaurav Kamboj ](https://www.linkedin.com/in/gauravkamboj/)was our one man army in the social media team on the Community Day! Thanks to [Partha](https://www.linkedin.com/in/parthasarathi-b/) & [Ilan](https://www.linkedin.com/in/ilanchezhian/), Community Leaders from AWS User Group Chennai, for supporting with Goodie Distribution, **Coffee with Gerard **and much more on the event day.
 * Very well integrated AWS Community Leaders across India were like pillars and [Rashmi Sreedharan](https://www.linkedin.com/in/rashmis/) was our backbone. Thanks to [Rahul Jain](https://www.linkedin.com/in/rahrj/) & [Madhusudhan Shekar](https://www.linkedin.com/in/madhusudanshekar/) for all those encouragements. 
 * Jeevan did an excellent co-ordination all through the planning & execution, empowered the right people to collaborate on allocated portfolio.
 * AWS Cloud was also super excited about our AWS Community Day Bengaluru 2019 and announced to the world!
@@ -89,4 +88,4 @@ Getting featured in [YourStory](https://yourstory.com/2019/07/aws-group-bengalur
 
 ![null](/img/volunteers.png)
 
-See you again at AWS Community Day Bengaluru 2020!
+See you again at AWS Community Day Bengaluru 2019!
