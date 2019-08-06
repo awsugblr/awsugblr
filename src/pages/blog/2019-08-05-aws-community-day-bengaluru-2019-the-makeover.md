@@ -70,7 +70,7 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
   * Zapier plans for Konfhub ticket sales integration with awsugblr.slack.com slack channel. Every 50th & 100th ticket sale was a celebration.  
   * Buffer pro plan for sending feeds to awsugblr social media 
 * [WOne Creations Private Limited](https://www.facebook.com/Wonecreations/) for the ideation, production and execution of events and experiences.
-* Hotstar hero Gaurav Kamboj was our one man army in the social media team on the Community Day!
+* Hotstar hero / AWS Community Hero [Gaurav Kamboj ](https://www.linkedin.com/in/gauravkamboj/)was our one man army in the social media team on the Community Day!
 * Very well integrated AWS Community Leaders across India were like pillars and [Rashmi Sreedharan](https://www.linkedin.com/in/rashmis/) was our backbone. Thanks to [Rahul Jain](https://www.linkedin.com/in/rahrj/) & [Madhusudhan Shekar](https://www.linkedin.com/in/madhusudanshekar/) for all those encouragements.
 * Jeevan did an excellent co-ordination all through the planning & execution, empowered the right people to collaborate on allocated portfolio.
 * AWS Cloud was also super excited about our AWS Community Day Bengaluru 2019 and announced to the world!
