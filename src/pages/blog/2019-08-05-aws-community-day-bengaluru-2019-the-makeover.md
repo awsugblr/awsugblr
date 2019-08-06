@@ -13,6 +13,7 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 
 ![null](/img/acd_announcement.jpeg)
 
+* With the retrospect from organizing & hosting AWS Community Day Bengaluru 2018, we have fine tuned our strategy and allocated the portfolio based on the SWOT analysis!
 * Jeevan started sending note to our long list of Sponsors who have expressed interests in and have been pretty excited to be part of AWS Community Day Bengaluru 2019. \
   Call for sponsorships were announced on our [social media pages](https://www.awsugblr.in/about).  Sponsorships have always been Jeevan's forte and he did the best this time as well.
 * Most of the discussion & planning happened over awsugblr.slack.com with 3 in-person meetings at cafe coffee day. 
