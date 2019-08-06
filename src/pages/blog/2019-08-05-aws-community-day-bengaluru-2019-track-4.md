@@ -6,4 +6,22 @@ description: AWS Community Day Bengaluru 2019 experience by Bhuvaneswari Subrama
 tags:
   - communityday 2019 bengaluru
 ---
-Track - 4
+Welcome to AWS Community Day Bengaluru 2019 - Track 4 hosted by [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/), AWS Community Hero & organizer AWS User Group Bengaluru.
+
+## Talk 1: Practical tactics for achieving full potential in your career
+
+[Diana Solash](https://www.linkedin.com/in/diana-cruz-solash-4452336/), VP Inclusion and Diversity, Infor 
+
+**SlideDeck: **\
+**Video Recording:**
+
+<Photo>
+
+## Talk 2: Exploring opportunities with communities for a successful career
+
+[Shwetha Lakshman Rao](https://www.linkedin.com/in/shwetha-lakshman-rao-a4a59015/), Sr MTS at VMware Software India and city Director at WomenWhoCode Bangalore
+
+**SlideDeck: **\
+**Video Recording:**
+
+<Photo>
