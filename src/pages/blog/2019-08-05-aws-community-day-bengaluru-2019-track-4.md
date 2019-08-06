@@ -8,6 +8,8 @@ tags:
 ---
 Welcome to AWS Community Day Bengaluru 2019 - Track 4 hosted by [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/), AWS Community Hero & organizer AWS User Group Bengaluru.
 
+We were happy host first every Diversity Program in AWS Community Day across the globe and here you go with a detailed blog on [AWS Community Day Bengaluru 2019 - Diversity Program](https://www.awsugblr.in/blog/entries/2019-08-05-aws-community-day-bengaluru-2019-diversity-program)
+
 ## Talk 1: Practical tactics for achieving full potential in your career
 
 [Diana Solash](https://www.linkedin.com/in/diana-cruz-solash-4452336/), VP Inclusion and Diversity, Infor 
