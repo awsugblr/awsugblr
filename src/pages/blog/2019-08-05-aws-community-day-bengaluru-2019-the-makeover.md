@@ -18,10 +18,10 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 * Most of the discussion & planning happened over awsugblr.slack.com with 3 in-person meetings at cafe coffee day. 
 * All task allocation and execution was from Trello. Thanks to Sathyajith for all the project configuration and management.
 * **Important dates to remember:  **
-  March 4th, 2019: CFP opens
-  April 10, 2019: Last date for submission of CFP
-  April 15, 2019: Speaker list announcement
-  July 27, 2019: Day of the event
+  * March 4th, 2019: CFP opens
+  * April 10, 2019: Last date for submission of CFP
+  * April 15, 2019: Speaker list announcement
+  * July 27, 2019: Day of the event
 * [Wheelsbox.com ](Wheelsbox.com)**Team lead by Prashanth was in total action**
   * **Website:**  A complete overhaul of the [Community Day website](http://communityday.awsugblr.in) and it was a phenomenal change from [2018 Community Day Website](http://communityday.awsugblr.in/2018). \
     Well, if you are reading this blog after 2019, you may consider looking at http://communityday.awsugblr.in/2019 and http://communityday.awsugblr.in/ or the successive one. That gave feel of getting ready for a mega event!
