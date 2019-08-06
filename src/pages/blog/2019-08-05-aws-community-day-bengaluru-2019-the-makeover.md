@@ -23,14 +23,14 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
   * April 10, 2019: Last date for submission of CFP
   * April 15, 2019: Speaker list announcement
   * July 27, 2019: Day of the event
-* [Wheelsbox.com ](Wheelsbox.com)**Team lead by Prashanth was in total action**
+* [Wheelsbox.com ](Wheelsbox.com)**team lead by Prashanth was in total heroic action**
   * **Website:**  A complete overhaul of the [Community Day website](http://communityday.awsugblr.in) and it was a phenomenal change from [2018 Community Day Website](http://communityday.awsugblr.in/2018). \
     Well, if you are reading this blog after 2019, you may consider looking at http://communityday.awsugblr.in/2019 and http://communityday.awsugblr.in/ or the successive one. That gave feel of getting ready for a mega event!
   * **Marketing Collaterals: **Sponsor, Speaker, Know your Speaker blog, Speaker Flow presentations for each track, Emailers for Workshop, Conference & Combo and Slide Deck Template
     You name it something & you will get it in no time.
   * **Designs: **Volunteer & Attendee T-Shirts, AWSBUGBLR Buddy Batch, Speaker Memento, 
-  * Thanks to [Akhil VC](https://www.linkedin.com/in/akhilvc10/), [Praveen Gorakala](https://www.linkedin.com/in/praveen-kumar-gorakala-50494b92/), Krishna Muddi & [Rahul Sawant](https://www.linkedin.com/in/rahul-sawant-895481109/)
-* [Call for Proposals](https://www.awsugblr.in/blog/2019-03-04-call-for-proposals-for-aws-community-day-bengaluru-2019-are-now-open/) was opened-up on 4th March 2019 and we adhered to the rest of the dates till the event.
+  * Thanks to [Prashanth](https://www.linkedin.com/in/hnprashanth/), [Akhil VC](https://www.linkedin.com/in/akhilvc10/), [Praveen Gorakala](https://www.linkedin.com/in/praveen-kumar-gorakala-50494b92/), Krishna Muddi & [Rahul Sawant](https://www.linkedin.com/in/rahul-sawant-895481109/)
+* [Call for Proposals](https://www.awsugblr.in/blog/2019-03-04-call-for-proposals-for-aws-community-day-bengaluru-2019-are-now-open/) was opened-up on 4th March 2019 and we adhered to the rest of the dates in the schedule till the event.
 * **Proposal Selection: **\
   We were thrilled with the overwhelming response of 69 proposals to be precise, over & above keynote, sponsored talks and Diversity Program. The most difficult part of the event was to shortlist 26 from the 69. Thanks to Sathya for moving all the proposals along with SlideDecks & descriptions to Trello overnight to simplify the selection process. The selection committee reviewed all the proposals, provided comments and finally unanimously selected talks were updated to the agenda &  the speaker list was announced on 15th 2019. 
 * [Harsha Ramakrishnan](https://www.linkedin.com/in/harshar/) & [Sahil Sharma](https://twitter.com/gh05t_r00t) have setup AWS Community Day Bengaluru 2019 booth in an AWS Event on 19th July 2019 to create an awareness about the Community Day. They were also instrumental in running tracks on the Community Day with their previous year's experience.
