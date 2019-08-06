@@ -25,7 +25,9 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 * [Wheelsbox.com ](Wheelsbox.com)**Team lead by Prashanth was in total action**
   * **Website:**  A complete overhaul of the [Community Day website](http://communityday.awsugblr.in) and it was a phenomenal change from [2018 Community Day Website](http://communityday.awsugblr.in/2018). \
     Well, if you are reading this blog after 2019, you may consider looking at http://communityday.awsugblr.in/2019 and http://communityday.awsugblr.in/ or the successive one. That gave feel of getting ready for a mega event!
-  * **Marketing Collaterals: **Sponsor, Speaker, Know your Speaker blog, Emailers for Workshop, Conference & Combo. You name it something & you will get it in no time.
+  * **Marketing Collaterals: **Sponsor, Speaker, Know your Speaker blog, Speaker Flow presentations for each track, Emailers for Workshop, Conference & Combo and Slide Deck Template
+    You name it something & you will get it in no time.
+  * **Designs: **Volunteer & Attendee T-Shirts, AWSBUGBLR Buddy Batch, Speaker Memento, 
   * Thanks to [Akhil VC](https://www.linkedin.com/in/akhilvc10/), [Praveen Gorakala](https://www.linkedin.com/in/praveen-kumar-gorakala-50494b92/), Krishna Muddi & [Rahul Sawant](https://www.linkedin.com/in/rahul-sawant-895481109/)
 * [Call for Proposals](https://www.awsugblr.in/blog/2019-03-04-call-for-proposals-for-aws-community-day-bengaluru-2019-are-now-open/) was opened-up on 4th March 2019 and we adhered to the rest of the dates till the event.
 * **Proposal Selection: **\
