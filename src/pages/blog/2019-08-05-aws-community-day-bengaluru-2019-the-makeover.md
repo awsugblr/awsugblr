@@ -60,7 +60,7 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 * Runcy had also collaborated with EFY, Facebook Developer Circles Bangalore, Indian Startups, Docker Bangalore, OpenSource Bangalore, CNCF, Data Science Network to promote the event.
 * **Event Goodies**\
   Gladwin from Wheelsbox.com have been our one stop shop for all the goodies, right from AWS Community Day logo Sipper bottles, 800+ Attendee T-shirts, 1000+ AWSUGBLR Logo Badges, AWSUGBLR logo T-shirts for volunteers and speakers, Speaker Memento and cool bag for the speaker memento. Finally he helped with Sipper bottle with Infor logo for Diversity Program too. \
-  No matter what "Never Say No" attitude; I appreciate that!
+  No matter what, "Never Say No" attitude; I appreciate that!
 
 ![null](/img/speaker_memento.png)
 
