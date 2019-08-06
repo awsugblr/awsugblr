@@ -10,8 +10,6 @@ tags:
 
 The event was spanned across two days with full day Workshop & Conference and also proudly takes the credit of first ever AWS Community Day across the globe to host Diversity Program. It certainly gives immense pleasure to pen down the rich experience much more than being part of the team behind!
 
-
-
 Don’t miss to explore the golden opportunity to get hands-on experience with Serverless on AWS & Deep Learning Workshops conducted by experts from AWS on 26th July 2019 at Radisson Blu, Bengaluru.\
 AWS Community Day Bengaluru 2019 - The Hatrick made a history to be the biggest AWS Community Day in Asia. The event was spanned across two days with full day Workshop & Conference and also proudly takes the credit of first ever AWS Community Day across the globe to host Diversity Program. It certainly gives immense pleasure to pen down the rich experience much more than being part of the team behind!
 
@@ -28,7 +26,7 @@ It was 5:00am on the conference day, the majestic spectacle of sunrise have not 
 
 We had 800+ AWS enthusiasts to witness one of the biggest tech conferences in Bengaluru, having a wide variety of use cases & success stories, including, but not limited to, Serverless, Containers, Security, Machine Learning, Artificial Intelligence, IoT, Databases, Blockchain and much more.
 
-* The makeover of AWS Community Day Bengaluru 2019
+* [The makeover of AWS Community Day Bengaluru 2019](https://www.awsugblr.in/blog/2019-08-05-aws-community-day-bengaluru-2019-the-makeover/)
 * Main Track
 * Track - 1
 * Track - 2
