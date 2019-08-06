@@ -44,9 +44,9 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 * **Diversity Program**
   * Diversity Program have been by baby from day 1 and thanks to [Rashmi Sreedharan  ](https://www.linkedin.com/in/rashmis/)for all those brainstorming sessions. It was a great experience to devise a program with super good speakers  who has greater insight and much more experience in Diversity & Inclusion. Happy to collaborate with several #WomenInTech forums like WiMLDS - India, hersecondinnings.com, Women Who Code Bangalore, Infosecgirls & OWASPBangalore.
 * **AWSome Agenda App  - **again by Wheelsbox.com Team
-  * It is time aware, shows talks in current time slot when you open
-  * attendee can create his/her own schedule for multi-track events
-  * it has kiosk mode if conference organiser wishes to put this on a screen at the event and since it’s time aware it will always show current talk\
+  * Agenda App is time aware, shows talks in current time slot when you open
+  * Attendee can create his/her own schedule for multi-track events
+  * It has kiosk mode, if conference organiser wishes to put this on a screen at the event and since it’s time aware it will always show current talk\
     How it works video here - [https://youtu.be/-tUR5bI9s6g ](https://youtu.be/-tUR5bI9s6g)
 
 ![null](/img/agenda_001.png)
@@ -80,7 +80,7 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 
 ![https://aws.amazon.com/events/community-day/](/img/aws-announcements.jpg)
 
-If I have the power to hire for a large enterprise, I would hire all of these highly skilled, self-motivated, committed, passionate organizers / volunteers, who are matured enough to respect & appreciate each others talent. Apparently they are are diversified by their skillsets and multitude of talents but united by common goal with the prime focus to get AWS Community Day Bengaluru 2019 into flying colours.
+If I have the power to hire for a large enterprise, I would hire all of these highly skilled, self-motivated, committed, passionate organizers / volunteers, who are matured enough to respect & appreciate each others talent. Apparently they are diversified by their skillsets and multitude of talents but united by common goal with the prime focus to get AWS Community Day Bengaluru 2019 into flying colours.
 
 Getting featured in [yourstory](https://yourstory.com/2019/07/aws-group-bengaluru-host-community-day) was a booster for the effort that has gone in and the grandeur that was awaited!\
 \
