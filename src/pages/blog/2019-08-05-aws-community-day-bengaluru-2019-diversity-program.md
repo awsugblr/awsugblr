@@ -6,7 +6,7 @@ description: AWS Community Day Bengaluru 2019 experience by Bhuvaneswari Subrama
 tags:
   - communityday 2019 bengaluru diversity
 ---
-As part of [AWS Community Day Bengaluru 2019](https://communityday.awsugblr.in), happy & proud to host **first the ever #diversity program as part of the AWS Cloud Community Day across the globe**. \
+As part of [AWS Community Day Bengaluru 2019](https://communityday.awsugblr.in), happy & proud to host **the first ever #diversity program as part of the AWS Cloud Community Day across the globe**. \
 Wonderful audience, best speakers across the globe and great topics to enlighten, I was pretty excited about the event!\
 We had two super women to talk at Diversity Program**, **[Diana Cruz Solash](https://www.awsugblr.in/blog/2019-07-22-diana-cruz-solash/) from Infor & [Shwetha Lakshman Rao](https://www.awsugblr.in/blog/2019-07-24-shwetha-lakshman-rao/) from #womenwhocode Bengaluru & VMware. 
 
