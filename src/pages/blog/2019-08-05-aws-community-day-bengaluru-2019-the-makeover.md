@@ -79,4 +79,6 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 
 If I have the power to hire for a large enterprise, I would hire all of these highly skilled, self-motivated, committed, passionate organizers / volunteers, who are matured enough to respect & appreciate each others talent. Apparently they are are diversified by their skillsets and multitude of talents but united by common goal with the prime focus to get AWS Community Day Bengaluru 2019 into flying colours.
 
+Getting featured in [yourstory](https://yourstory.com/2019/07/aws-group-bengaluru-host-community-day) was a booster for the effort that has gone in and the grandeur that was expected!\
+\
 5 Months have thus passed like a lightening and proud to be part of these great minds!
