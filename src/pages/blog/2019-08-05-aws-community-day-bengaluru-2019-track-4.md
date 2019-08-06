@@ -39,18 +39,18 @@ The covered different aspects on Building Efficient, Scalable and Resilient Fron
 
 <Photo>
 
-## Talk 4:  
+## Talk 4:  Our journey with AWS from 0(ZERO) orders to 6 digit mark.
 
-s\
+This talk was by duo techies Pranesh Vittal, Database Architect, Medlife.com and Prasanna Desai, Senior Build And Release Engineer, Medlife.com to talk about their journey from zero orders to 6 digit mark,\
 \
 **SlideDeck: **\
 **Video Recording:**
 
 <Photo>
 
-## Talk 5:  
+## Talk 5:  Lessons learnt building a Distributed Linked List on S3.
 
-s\
+[Manik Jindal](https://www.linkedin.com/in/themanikjindal/), Computer Scientist, Adobe.\
 \
 **SlideDeck: **\
 **Video Recording:**
