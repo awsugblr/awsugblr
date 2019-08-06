@@ -73,10 +73,10 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 * Hotstar hero Gaurav Kamboj was our one man army in the social media team on the Community Day!
 * Very well integrated AWS Community Leaders across India were like pillars and [Rashmi Sreedharan](https://www.linkedin.com/in/rashmis/) was our backbone. Thanks to [Rahul Jain](https://www.linkedin.com/in/rahrj/) & [Madhusudhan Shekar](https://www.linkedin.com/in/madhusudanshekar/) for all those encouragements.
 * Jeevan did an excellent co-ordination all through the planning & execution, empowered the right people to collaborate on allocated portfolio.
-* AWS Cloud was also super excited about our AWS Community Day Bengaluru 2019!
+* AWS Cloud was also super excited about our AWS Community Day Bengaluru 2019 and announced to the world!
 
 ![https://aws.amazon.com/events/community-day/](/img/aws-announcements.jpg)
 
-If I have the power to hire for a large enterprise, I would hire all of these highly skilled, self-motivated, committed, passionate folks, matured enough to respect & appreciate each others talent. Apparently they are are diversified by their skillsets and multitude of talents but united by common goal with the prime focus to get AWS Community Day Bengaluru 2019 into flying colours.
+If I have the power to hire for a large enterprise, I would hire all of these highly skilled, self-motivated, committed, passionate organizers / volunteers, matured enough to respect & appreciate each others talent. Apparently they are are diversified by their skillsets and multitude of talents but united by common goal with the prime focus to get AWS Community Day Bengaluru 2019 into flying colours.
 
 Proud to be part of these great minds!
