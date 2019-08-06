@@ -29,7 +29,7 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
   * **Marketing Collaterals: **Sponsor, Speaker, Know your Speaker blog, Speaker Flow presentations for each track, Emailers for Workshop, Conference & Combo and Slide Deck Template
     You name it something & you will get it in no time.
   * **Website: **Volunteer & Attendee T-Shirts, AWSBUGBLR Buddy Batch, Speaker Memento
-  * **Event Goodies: **Gladwin from Wheelsbox.com team have been our one stop shop for all the goodies, right from AWS Community Day logo Sipper bottles, 800+ Attendee T-shirts, 1000+ AWSUGBLR Logo Buddy Badges, AWSUGBLR logo T-shirts for volunteers and speakers, Speaker Memento and cool bag for the speaker memento. Finally he helped with Sipper bottles with Infor logo for Diversity Program too. \
+  * **Event Goodies: **Gladwin have been our one stop shop for all the goodies, right from AWS Community Day logo Sipper bottles, 800+ Attendee T-shirts, 1000+ AWSUGBLR Logo Buddy Badges, AWSUGBLR logo T-shirts for volunteers and speakers, Speaker Memento and cool bag for the speaker memento. Finally he helped with Sipper bottles with Infor logo for Diversity Program too. \
     No matter what, "Never Say No" attitude; I appreciate that!
   * Thanks to [Prashanth](https://www.linkedin.com/in/hnprashanth/), [Akhil VC](https://www.linkedin.com/in/akhilvc10/), [Praveen Gorakala](https://www.linkedin.com/in/praveen-kumar-gorakala-50494b92/), Krishna Muddi, [Rahul Sawant](https://www.linkedin.com/in/rahul-sawant-895481109/) & Gladwin
 * [Call for Proposals](https://www.awsugblr.in/blog/2019-03-04-call-for-proposals-for-aws-community-day-bengaluru-2019-are-now-open/) was opened-up on 4th March 2019 and we adhered to the rest of the dates in the schedule till the event.
@@ -60,7 +60,8 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 ![null](/img/luckydip_001.png)
 
 * Runcy had also collaborated with EFY, Facebook Developer Circles Bangalore, Indian Startups, Docker Bangalore, OpenSource Bangalore, CNCF, Data Science Network to promote the event.
-* ****
+
+- - -
 
 ![null](/img/speaker_memento.png)
 
