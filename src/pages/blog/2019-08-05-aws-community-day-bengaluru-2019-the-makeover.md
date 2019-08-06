@@ -67,7 +67,7 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
 * **Hosts for 4 Tracks**\
   Sathyajith, Prashanth, Runcy & Myself took up the hosting the four tracks respectively along with 2 additional volunteers for each track and it was a great experience for me to write the emcee script for the event. 
 * [Konfhub Technologies](https://konfhub.com/), **the Ticketing Partner**\
-  Kudos to the whole KonfHub team for the great work behind the scenes in ticketing and on the day of the event for the best registration experience and developing the sponsorship app in record time. 
+  Kudos to the whole KonfHub team for the great work behind the scenes in ticketing and on the day of the event for the best registration experience and developing the sponsorship app in record time. Heartfelt thanks to [Ganesh Samarthyam](https://twitter.com/GSamarthyam) & [Hari Kiran](https://www.linkedin.com/in/gharikiran/)!
 * Sathyajith again did wonders with integration
   * Zapier pro plan for Konfhub ticket sales integration with awsugblr.slack.com slack channel. Every 50th & 100th ticket sale was a celebration.  \
     All hands were together to promote ticket sales.
