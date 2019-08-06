@@ -47,8 +47,7 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
   * It is time aware, shows talks in current time slot when you open
   * attendee can create his/her own schedule for multi-track events
   * it has kiosk mode if conference organiser wishes to put this on a screen at the event and since it’s time aware it will always show current talk\
-    How it works video here - [https://youtu.be/-tUR5bI9s6g ](https://youtu.be/-tUR5bI9s6g)\
-    Code here - 
+    How it works video here - [https://youtu.be/-tUR5bI9s6g ](https://youtu.be/-tUR5bI9s6g)
 
 ![null](/img/agenda_001.png)
 
