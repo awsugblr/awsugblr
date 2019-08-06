@@ -39,7 +39,7 @@ The ideation of 3rd AWS Community Day Bengaluru sparkled around mid Jan 2019, wh
   Know your Speaker blog series was best in class automation & integration by Sathyajith  with 60 lines of quick coding in GO language.
   * User input to the typeform creates a Trello card
   * The GO program reads the Trello card and creates a blog post for the speaker in <https://www.awsugblr.in> as a draft.
-  * Blog Admin can review the draft and publish it.
+  * Blog Admin can review the draft, make corrections / enhancements as needed and publish it.
   * You may view all the blog posts under Know your Speaker blog series - [https://www.awsugblr.in/tags/know-your-speaker/ ](https://www.awsugblr.in/tags/know-your-speaker/)
 * **Diversity Program**
   * Diversity Program have been by baby from day 1 and thanks to [Rashmi Sreedharan  ](https://www.linkedin.com/in/rashmis/)for all those brainstorming sessions. It was a great experience to devise a program with super good speakers  who has greater insight and much more experience in Diversity & Inclusion. Happy to collaborate with several #WomenInTech forums like WiMLDS - India, hersecondinnings.com, Women Who Code Bangalore, Infosecgirls & OWASPBangalore.
