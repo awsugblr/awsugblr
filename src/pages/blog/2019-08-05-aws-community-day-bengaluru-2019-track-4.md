@@ -41,7 +41,8 @@ The covered different aspects on Building Efficient, Scalable and Resilient Fron
 
 ## Talk 4:  Our journey with AWS from 0(ZERO) orders to 6 digit mark.
 
-This talk was by duo techies Pranesh Vittal, Database Architect, Medlife.com and Prasanna Desai, Senior Build And Release Engineer, Medlife.com to talk about their journey from zero orders to 6 digit mark,\
+This talk was by duo techies Pranesh Vittal, Database Architect, Medlife.com and Prasanna Desai, Senior Build And Release Engineer, Medlife.com to talk about their journey from zero orders to 6 digit mark,
+\
 \
 **SlideDeck: **\
 **Video Recording:**
@@ -50,25 +51,26 @@ This talk was by duo techies Pranesh Vittal, Database Architect, Medlife.com and
 
 ## Talk 5:  Lessons learnt building a Distributed Linked List on S3.
 
-[Manik Jindal](https://www.linkedin.com/in/themanikjindal/), Computer Scientist, Adobe.\
+[Manik Jindal](https://www.linkedin.com/in/themanikjindal/), Computer Scientist, Adobe. Manik is a pioneer in building near real-time message processing systems that handle millions of messages in a minute for Adobe I/O Events. He shared lots of super exciting lessons learnt while building a Distributed Linked List on S3.\
 \
 **SlideDeck: **\
 **Video Recording:**
 
 <Photo>
 
-## Talk 6:  
+## Talk 6: Cloud Security
 
-s\
+Amar Prusty, Cloud-Data Center Consultant Architect from DXC Technology.\
+Amar simplified Cloud Security and emphasized that Cloud Security is critical to Data Security and Application Resilience against CyberAttacks\
 \
 **SlideDeck: **\
 **Video Recording:**
 
 <Photo>
 
-## Talk 7:  
+## Talk 7: AWS Secrets for Best Practices 
 
-s\
+Vijay Nirmala G, DevOps Cloud - Solutions Engineer at Sonata Software Limited.\
 \
 **SlideDeck: **\
 **Video Recording:**
