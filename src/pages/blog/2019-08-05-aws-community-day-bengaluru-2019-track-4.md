@@ -60,7 +60,7 @@ This talk was by duo techies Pranesh Vittal, Database Architect, Medlife.com and
 
 ## Talk 6: Cloud Security
 
-Amar Prusty, Cloud-Data Center Consultant Architect from DXC Technology.\
+[Amar Prusty](https://www.linkedin.com/in/amar-prusty-07913028/), Cloud-Data Center Consultant Architect from DXC Technology.\
 Amar simplified Cloud Security and emphasized that Cloud Security is critical to Data Security and Application Resilience against CyberAttacks\
 \
 **SlideDeck: **\
@@ -70,7 +70,7 @@ Amar simplified Cloud Security and emphasized that Cloud Security is critical to
 
 ## Talk 7: AWS Secrets for Best Practices 
 
-Vijay Nirmala G, DevOps Cloud - Solutions Engineer at Sonata Software Limited.\
+[Vijay Nirmala G](https://www.linkedin.com/in/vijayanirmalagopal-5a54159a/), DevOps Cloud - Solutions Engineer at Sonata Software Limited.\
 \
 **SlideDeck: **\
 **Video Recording:**
