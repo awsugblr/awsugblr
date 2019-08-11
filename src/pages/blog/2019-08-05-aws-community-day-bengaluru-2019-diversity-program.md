@@ -32,13 +32,13 @@ I also had a fire side chat with Diana to understand few more aspects of "Inclus
 
 We would like to extend our hearty wishes to Diana in her mission to create an inclusive culture which opens doors and unlocks potential for each person at Infor to enable better business results.
 
-<photo>
+![](/img/track4_talk1_diana.png)
 
 Our next speaker in the Diversity Program was Shwetha, at Sr MTS at VMware Software India and city Director at WomenWhoCode Bangalore. She holds a patent on High availability from US patent attorney. Shwetha is a tech enthusiast as well as a motivational speaker, presented her papers in national / international conferences on technologies like IoT, Blockchain, Cloud and currently pursuing Post Graduate in Machine Learning. Her passion towards technology and empowering women to grow in technical ladder is amazing.
 
 Shwetha addressed the audience on **Exploring opportunities with communities for a successful career**, extended invite to be part of WomenWhoCode, Bengaluru and also introduced VMInclusion Taara initiative (from VMware in collaboration with women who code) to the audience. She had lot of take-aways on how to enable more women to become tech-savys through communities.
 
-<photo>
+![](/img/track4_talk2_shwetha.png)
 
 On the whole, the Diversity Program was a huge success with inspiring and insightful presentations.
 
