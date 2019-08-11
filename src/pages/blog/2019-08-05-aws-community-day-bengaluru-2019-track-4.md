@@ -17,7 +17,7 @@ We were happy host first ever Diversity Program in AWS Community Day across the 
 **SlideDeck: **\
 **Video Recording:**
 
-<Photo>
+![](/img/track4_talk1_diana.png)
 
 ## Talk 2: Exploring opportunities with communities for a successful career
 
@@ -26,7 +26,7 @@ We were happy host first ever Diversity Program in AWS Community Day across the 
 **SlideDeck: **\
 **Video Recording:**
 
-<Photo>
+![](/img/track4_talk2_shwetha.png)
 
 ## Talk 3: Building Efficient, Scalable and Resilient Front-end logging service with AWS.
 
@@ -68,7 +68,7 @@ Amar simplified Cloud Security and emphasized that Cloud Security is critical to
 
 <Photo>
 
-## Talk 7: AWS Secrets for Best Practices 
+## Talk 7: AWS Secrets for Best Practices
 
 [Vijay Nirmala G](https://www.linkedin.com/in/vijayanirmalagopal-5a54159a/), DevOps Cloud - Solutions Engineer at Sonata Software Limited.\
 \
