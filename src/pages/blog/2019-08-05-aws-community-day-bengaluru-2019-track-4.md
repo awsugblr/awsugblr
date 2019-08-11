@@ -66,7 +66,7 @@ Amar simplified Cloud Security and emphasized that Cloud Security is critical to
 **SlideDeck: **\
 **Video Recording:**
 
-<Photo>
+![](/img/track4_talk6_amar.png)
 
 ## Talk 7: AWS Secrets for Best Practices
 
@@ -75,4 +75,4 @@ Amar simplified Cloud Security and emphasized that Cloud Security is critical to
 **SlideDeck: **\
 **Video Recording:**
 
-<Photo>
+![](/img/track4_talk7_nirmala.png)
