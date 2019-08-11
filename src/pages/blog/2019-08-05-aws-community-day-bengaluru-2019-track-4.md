@@ -19,7 +19,7 @@ To learn more about speakers, checkout our [Know Your Speaker blog series](https
 **SlideDeck: **\
 **Video Recording:**
 
-![](/img/track4_talk1_diana.png)
+![null](/img/track4_talk1_diana.png)
 
 ## Talk 2: Exploring opportunities with communities for a successful career
 
@@ -28,7 +28,7 @@ To learn more about speakers, checkout our [Know Your Speaker blog series](https
 **SlideDeck: **\
 **Video Recording:**
 
-![](/img/track4_talk2_shwetha.png)
+![null](/img/track4_talk2_shwetha.png)
 
 ## Talk 3: Building Efficient, Scalable and Resilient Front-end logging service with AWS.
 
