@@ -52,4 +52,4 @@ Thanks to [Rashmi Sreedharan](https://www.linkedin.com/in/rashmis/), for her inv
 
 Kudos to the organisers [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/), [Runcy Oommen](https://www.linkedin.com/in/runcyoommen/) and [Prashanth HN](https://www.linkedin.com/in/hnprashanth/) for standing by!
 
-![](/img/rashmi_jeevan.png)
+![Rashmi, Bhuvana, Jeevan, Diana](/img/rashmi_jeevan.png)
