@@ -51,3 +51,5 @@ Special thanks to [Infor](https://www.infor.com/) & Diana for sponsoring goodie 
 Thanks to [Rashmi Sreedharan](https://www.linkedin.com/in/rashmis/), for her involvement and support all through planning & execution.
 
 Kudos to the organisers [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/), [Runcy Oommen](https://www.linkedin.com/in/runcyoommen/) and [Prashanth HN](https://www.linkedin.com/in/hnprashanth/) for standing by!
+
+![Rashmi, Bhuvana, Jeevan, Diana](/img/rashmi_jeevan.png)
