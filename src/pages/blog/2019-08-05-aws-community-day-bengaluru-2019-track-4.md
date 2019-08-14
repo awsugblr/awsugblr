@@ -6,7 +6,7 @@ description: AWS Community Day Bengaluru 2019 experience by Bhuvaneswari Subrama
 tags:
   - communityday 2019 bengaluru
 ---
-Welcome to AWS Community Day Bengaluru 2019 - Track 4 hosted by [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/), AWS Community Hero & organizer AWS User Group Bengaluru.
+Welcome to AWS Community Day Bengaluru 2019 - Track 4 hosted by [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/), [Harsha Ramakrishnan](https://www.linkedin.com/in/harshar/) & [Praveen Gorakala](https://www.linkedin.com/in/praveen-kumar-gorakala-50494b92/).
 
 We were happy host first ever Diversity Program in AWS Community Day across the globe and here you go with a detailed blog on [AWS Community Day Bengaluru 2019 - Diversity Program](https://www.awsugblr.in/blog/entries/2019-08-05-aws-community-day-bengaluru-2019-diversity-program).
 
@@ -70,3 +70,9 @@ Amar simplified Cloud Security and emphasized that Cloud Security is critical to
 [SlideDeck](https://www.slideshare.net/AWSUsersGroupBengalu/aws-secrets-for-best-practices)
 
 ![null](/img/track4_talk7_nirmala.png)
+
+
+
+## Hosts
+
+![](/img/track4_hosts.png)
