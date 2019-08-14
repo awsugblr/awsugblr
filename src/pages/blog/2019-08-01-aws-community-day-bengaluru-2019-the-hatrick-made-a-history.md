@@ -15,12 +15,16 @@ AWS Community Day Bengaluru 2019 - The Hatrick made a history to be the biggest 
 
 ## **Day 1**
 
+
+
 Deep Learning & Serverless Workshops were co-ogranized by AWS User Group Bengaluru and Konfhub Technologies with the expert trainers from Amazon Internet Services Private Limited (AISPL) Certification & Training Team. The workshops were hosted on 26th July 2019 at Radisson Blu, Bengaluru. Usually the conference / workshop ticket sales would be at peak in the last two weeks but Serverless workshop as an exception got sold out two weeks before.  
 
 * [Deep Learning Workshop](https://www.awsugblr.in/blog/2019-08-01-acd2019-deep-learning-workshop/)
 * [Serverless workshop](https://www.awsugblr.in/blog/2019-08-03-acd2019-serverless-workshop/)
 
 ## Day 2
+
+![](/img/mainpic.jpg)
 
 It was 5:00am on the conference day, the majestic spectacle of sunrise have not yet penetrated the golden rays into Hotel Conrad but the organizers / volunteers have already gathered for the final planning & getting ready for the 'show' on the much awaited D-Day, AWS Community Day Bengaluru 2019. That's the spirit and beauty of the community which inspires, energizes, renews and gives lots of new hope to make wonders. The arrival of Mumbai, Chennai user group leads and Konfhub team in next hour or so gave a feel of friends & family gathered for a typical Indian wedding preparation. 
 
