@@ -16,8 +16,7 @@ To learn more about speakers, checkout our [Know Your Speaker blog series](https
 
 [Diana Solash](https://www.linkedin.com/in/diana-cruz-solash-4452336/), VP Inclusion and Diversity, Infor 
 
-**SlideDeck**\
-**Video Recording:**
+[SlideDeck](https://www.slideshare.net/AWSUsersGroupBengalu/practical-tactics-for-achieving-full-potential-in-your-career)
 
 ![null](/img/track4_talk1_diana.png)
 
@@ -25,8 +24,7 @@ To learn more about speakers, checkout our [Know Your Speaker blog series](https
 
 [Shwetha Lakshman Rao](https://www.linkedin.com/in/shwetha-lakshman-rao-a4a59015/), Sr MTS at VMware Software India and city Director at WomenWhoCode Bangalore
 
-**SlideDeck: **\
-**Video Recording:**
+[SlideDeck](https://www.slideshare.net/AWSUsersGroupBengalu/exploring-opportunities-with-communities-for-a-successful-career)
 
 ![null](/img/track4_talk2_shwetha.png)
 
@@ -36,15 +34,15 @@ Trio Speakers Kokilavani Kathiresan, Ravikumar Kota & Shailja Agarwala, software
 
 The covered different aspects on Building Efficient, Scalable and Resilient Front-end logging service with AWS Cloud .\
 \
-[**SlideDeck**](https://www.slideshare.net/AWSUsersGroupBengalu/building-efficient-scalable-and-resilient-frontend-logging-service-with-aws)********
+[SlideDeck](https://www.slideshare.net/AWSUsersGroupBengalu/building-efficient-scalable-and-resilient-frontend-logging-service-with-aws)
 
-<Photo>
+![](/img/track4_talk3_kokila.png)
 
 ## Talk 4:  Our journey with AWS from 0(ZERO) orders to 6 digit mark.
 
 This talk was by duo techies Pranesh Vittal, Database Architect, Medlife.com and Prasanna Desai, Senior Build And Release Engineer, Medlife.com to talk about their journey from zero orders to 6 digit mark
 
-[**SlideDeck**](https://www.slideshare.net/AWSUsersGroupBengalu/medlifes-journey-with-aws-from-0zero-orders-to-6-digit-mark)********
+[SlideDeck](https://www.slideshare.net/AWSUsersGroupBengalu/medlifes-journey-with-aws-from-0zero-orders-to-6-digit-mark)
 
 ![](/img/track4_talk_pranesh.png)
 
@@ -52,8 +50,7 @@ This talk was by duo techies Pranesh Vittal, Database Architect, Medlife.com and
 
 [Manik Jindal](https://www.linkedin.com/in/themanikjindal/), Computer Scientist, Adobe. Manik is a pioneer in building near real-time message processing systems that handle millions of messages in a minute for Adobe I/O Events. He shared lots of super exciting lessons learnt while building a Distributed Linked List on S3.\
 \
-**SlideDeck: **\
-**Video Recording:**
+[SlideDeck](https://www.slideshare.net/AWSUsersGroupBengalu/lessons-learnt-building-a-distributed-linked-list-on-s3)
 
 ![null](/img/track4_talk5_manik.png)
 
@@ -62,8 +59,7 @@ This talk was by duo techies Pranesh Vittal, Database Architect, Medlife.com and
 [Amar Prusty](https://www.linkedin.com/in/amar-prusty-07913028/), Cloud-Data Center Consultant Architect from DXC Technology.\
 Amar simplified Cloud Security and emphasized that Cloud Security is critical to Data Security and Application Resilience against CyberAttacks\
 \
-**SlideDeck: **\
-**Video Recording:**
+[SlideDeck](https://www.slideshare.net/AWSUsersGroupBengalu/cloud-security-161576262)
 
 ![null](/img/track4_talk6_amar.png)
 
@@ -71,6 +67,6 @@ Amar simplified Cloud Security and emphasized that Cloud Security is critical to
 
 [Vijay Nirmala G](https://www.linkedin.com/in/vijayanirmalagopal-5a54159a/), DevOps Cloud - Solutions Engineer at Sonata Software Limited.\
 \
-****[**SlideDeck**](https://www.slideshare.net/AWSUsersGroupBengalu/aws-secrets-for-best-practices)****
+[SlideDeck](https://www.slideshare.net/AWSUsersGroupBengalu/aws-secrets-for-best-practices)
 
 ![null](/img/track4_talk7_nirmala.png)
