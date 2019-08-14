@@ -58,7 +58,7 @@ This talk was by duo techies Pranesh Vittal, Database Architect, Medlife.com and
 **SlideDeck: **\
 **Video Recording:**
 
-<Photo>
+![](/img/track4_talk5_manik.png)
 
 ## Talk 6: Cloud Security
 
