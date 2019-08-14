@@ -65,7 +65,7 @@ Amar simplified Cloud Security and emphasized that Cloud Security is critical to
 
 ## Talk 7: AWS Secrets for Best Practices
 
-[Vijay Nirmala G](https://www.linkedin.com/in/vijayanirmalagopal-5a54159a/), DevOps Cloud - Solutions Engineer at Sonata Software Limited.\
+[Vijay Nirmala G](https://www.linkedin.com/in/vijayanirmalagopal-5a54159a/), DevOps Cloud - Solutions Engineer at Sonata Software Limited is a regular speaker in AWS Community and opensource contributor to Ansible as well.\
 \
 [SlideDeck](https://www.slideshare.net/AWSUsersGroupBengalu/aws-secrets-for-best-practices)
 
