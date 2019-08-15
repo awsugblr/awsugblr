@@ -52,3 +52,5 @@ Who else can talk better about voice enabled experiences ?
 
 
 ## Host
+
+![](/img/host.jpg)
