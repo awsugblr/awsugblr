@@ -45,3 +45,5 @@ We had 800+ AWS enthusiasts to witness one of the biggest tech conferences in Be
 * [The Team Behind!](https://www.awsugblr.in/blog/entries/2019-08-05-aws-community-day-bengaluru-2019-the-team-behind)
 
 On behalf of the organisers [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/), [Runcy Oommen](https://www.linkedin.com/in/runcyoommen/), [Prashanth HN](https://www.linkedin.com/in/hnprashanth/) & myself [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/), would like to express our hearty thanks and bundle of joy to ours excellent Speakers, Guests of honour - Attendees, supportive Sponsors, community partners, Volunteers, [WOne Creations Team](https://www.facebook.com/Wonecreations/), [Konfhub Team](https://konfhub.com/) & [WheelsBox.com](WheelsBox.com) Team for making **AWS Community Day Bengaluru 2019** remarkable!
+
+![](/img/theteam_3.jpg)
