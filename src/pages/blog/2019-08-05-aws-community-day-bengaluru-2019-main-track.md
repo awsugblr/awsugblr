@@ -11,42 +11,38 @@ AWS Community Day Bengaluru 2019 started with full house and high energy! Our MC
 ## Keynote: Embracing Full-stack Serverless. A new paradigm
 
 \
-The keynote speaker[ Gerard Sans,](https://www.linkedin.com/in/gerard-sans/) a Developer Advocate at AWS, an always happy Computer Science Engineer, and a humble GDE.
+The keynote speaker[ Gerard Sans,](https://www.linkedin.com/in/gerard-sans/) a Developer Advocate at AWS, an always happy Computer Science Engineer, and a humble GDE.
 
 He loves to share his learnings by giving talks, trainings, and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students, and giving back to the community.
 
-And we are super excited to have him as a keynote speaker.\
-\
-**Slide Deck: **\
-**Video Recording: **
+And we are super excited to have him as a keynote speaker.
 
-<Photo>
+![](/img/main_track_1_gerard.png)
 
-## Sponsor Talk 1: Tips and Tricks for Running Your SaaS Business on AWS: Lessons Learned from JFrog 
+## 
 
-Prasanna Raghavendra, R&D Director from JFrog India and Seshu Reddy, SRE from JFrog India walked us through their lessons learned from JFrog.
+## Talk 1: Tips and Tricks for Running Your SaaS Business on AWS: Lessons Learned from JFrog
 
-**Slide Deck: **\
-**Video Recording: **
+[Prasanna Raghavendra](https://www.linkedin.com/in/prasannaraghavendra/), R&D Director from JFrog India and Seshu Reddy, SRE from JFrog India walked us through their lessons learned from JFrog
 
-<Photo>
+![](/img/main_track_1_2ndtalk.png)
 
-## Sponsor Talk 2:  Building Voice Enabled Experiences with Alexa
+## Talk 2:  Building Voice Enabled Experiences with Alexa
 
-Karthik Ragubathy, Solution Architect, Alexa Skills Kit at Amazon.
+[Karthik Ragubathy](https://www.linkedin.com/in/pkarthikr/), Solution Architect, Alexa Skills Kit at Amazon.
 
 Who else can talk better about voice enabled experiences ?
 
-**Slide Deck: **\
-**Video Recording: **
+![](/img/main_track_1_karthik.png)
 
-<Photo>
 
-## Sponsor Talk 3 How Freshworks reduced blast radius and improved uptime at 500k requests per minute 
 
-Kiran Darisi, Co-Founder and Distinguished Engineer at Freshworks
+## Talk 3: How Freshworks reduced blast radius and improved uptime at 500k requests per minute
 
-**Slide Deck: **\
-**Video Recording: **
+[Kiran Darisi](https://www.linkedin.com/in/kirandarisi/), Co-Founder and Distinguished Engineer at Freshworks
 
-<Photo>
+![](/img/main_track_1_4.png)
+
+
+
+![](/img/audience_2019.png)
