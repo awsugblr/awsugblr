@@ -15,9 +15,9 @@ The keynote speaker[ Gerard Sans,](https://www.linkedin.com/in/gerard-sans/) a D
 
 He loves to share his learnings by giving talks, trainings, and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students, and giving back to the community.
 
-And we are super excited to have him as a keynote speaker.
+And we were super excited to have him as a keynote speaker.
 
-![](/img/main_track_1_gerard.png)
+![null](/img/main_track_1_gerard.png)
 
 ## 
 
@@ -25,7 +25,7 @@ And we are super excited to have him as a keynote speaker.
 
 [Prasanna Raghavendra](https://www.linkedin.com/in/prasannaraghavendra/), R&D Director from JFrog India and Seshu Reddy, SRE from JFrog India walked us through their lessons learned from JFrog
 
-![](/img/main_track_1_2ndtalk.png)
+![null](/img/main_track_1_2ndtalk.png)
 
 ## Talk 2:  Building Voice Enabled Experiences with Alexa
 
@@ -33,24 +33,18 @@ And we are super excited to have him as a keynote speaker.
 
 Who else can talk better about voice enabled experiences ?
 
-![](/img/main_track_1_karthik.png)
-
-
+![null](/img/main_track_1_karthik.png)
 
 ## Talk 3: How Freshworks reduced blast radius and improved uptime at 500k requests per minute
 
 [Kiran Darisi](https://www.linkedin.com/in/kirandarisi/), Co-Founder and Distinguished Engineer at Freshworks
 
-![](/img/main_track_1_4.png)
-
-
+![null](/img/main_track_1_4.png)
 
 ## Wonderful Audience
 
-![](/img/audience_2019.png)
-
-
+![null](/img/audience_2019.png)
 
 ## Host
 
-![](/img/host.jpg)
+![null](/img/host.jpg)
