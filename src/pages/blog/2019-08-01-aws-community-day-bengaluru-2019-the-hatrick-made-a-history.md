@@ -8,7 +8,7 @@ tags:
 ---
 [AWS User Group Bengaluru](https://www.awsugblr.in/) hosted the 3rd edition of [AWS Community Day Bengaluru 2019](https://communityday.awsugblr.in/)  on 27th July 2019 at Conrad Hotel, Bengaluru. The Hat-rick made a history to be the biggest AWS Community Day in Asia. 
 
-![](/img/acd_1.jpg)
+![null](/img/acd_1.jpg)
 
 The event was spanned across two days with full day Workshop & Conference and also proudly takes the credit of first ever AWS Community Day across the globe to host Diversity Program. It certainly gives immense pleasure to pen down the rich experience much more than being part of the team behind!
 
@@ -46,4 +46,4 @@ We had 800+ AWS enthusiasts to witness one of the biggest tech conferences in Be
 
 On behalf of the organisers [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/), [Runcy Oommen](https://www.linkedin.com/in/runcyoommen/), [Prashanth HN](https://www.linkedin.com/in/hnprashanth/) & myself [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/), would like to express our hearty thanks and bundle of joy to ours excellent Speakers, Guests of honour - Attendees, supportive Sponsors, community partners, Volunteers, [WOne Creations Team](https://www.facebook.com/Wonecreations/), [Konfhub Team](https://konfhub.com/) & [WheelsBox.com](WheelsBox.com) Team for making **AWS Community Day Bengaluru 2019** remarkable!
 
-![](/img/theteam_3.jpg)
+![null](/img/theteam_3.jpg)
