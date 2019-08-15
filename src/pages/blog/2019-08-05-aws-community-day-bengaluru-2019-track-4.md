@@ -30,21 +30,21 @@ To learn more about speakers, checkout our [Know Your Speaker blog series](https
 
 ## Talk 3: Building Efficient, Scalable and Resilient Front-end logging service with AWS.
 
-Trio Speakers Kokilavani Kathiresan, Ravikumar Kota & Shailja Agarwala, software developers from Intuit are the core contributors in One Intuit Logging Team. 
+Trio Speakers [Kokilavani Kathiresan,](https://www.linkedin.com/in/kokilavani-kathiresan/) [Ravikumar Kota](https://www.linkedin.com/in/ravikumar-kotta-33251518/) & [Shailja Agarwala](https://www.linkedin.com/in/shailja-agarwala-4a588185/), software developers from Intuit are the core contributors in One Intuit Logging Team. 
 
 The covered different aspects on Building Efficient, Scalable and Resilient Front-end logging service with AWS Cloud .\
 \
 [SlideDeck](https://www.slideshare.net/AWSUsersGroupBengalu/building-efficient-scalable-and-resilient-frontend-logging-service-with-aws)
 
-![](/img/track4_talk3_kokila.png)
+![null](/img/track4_talk3_kokila.png)
 
 ## Talk 4:  Our journey with AWS from 0(ZERO) orders to 6 digit mark.
 
-This talk was by duo techies Pranesh Vittal, Database Architect, Medlife.com and Prasanna Desai, Senior Build And Release Engineer, Medlife.com to talk about their journey from zero orders to 6 digit mark
+This talk was by duo techies [Pranesh Vittal](https://www.linkedin.com/in/praneshvittal/), Associate Director - Database & DevOps, Medlife.com and [Prasanna Desai](https://www.linkedin.com/in/prasanna-desai-6b785562/), Senior Build And Release Engineer, Medlife.com to talk about their journey from zero orders to 6 digit mark
 
 [SlideDeck](https://www.slideshare.net/AWSUsersGroupBengalu/medlifes-journey-with-aws-from-0zero-orders-to-6-digit-mark)
 
-![](/img/track4_talk_pranesh.png)
+![null](/img/track4_talk_pranesh.png)
 
 ## Talk 5:  Lessons learnt building a Distributed Linked List on S3.
 
@@ -71,8 +71,6 @@ Amar simplified Cloud Security and emphasized that Cloud Security is critical to
 
 ![null](/img/track4_talk7_nirmala.png)
 
-
-
 ## Hosts
 
-![](/img/track4_hosts.png)
+![null](/img/track4_hosts.png)
