@@ -58,7 +58,7 @@ SlideDeck\
 
 ## Talk 6: Leveraging Micronaut on AWS Lambda.
 
-Naresha, a Software Craftsmanship Coach and Cloud Transformation Specialist. He is also founder / organiser of Bangalore Groovy User Group.\
+[Naresha K](https://www.linkedin.com/in/nareshak/), a Software Craftsmanship Coach and Cloud Transformation Specialist. He is also founder / organiser of Bangalore Groovy User Group.\
 \
 SlideDeck
 
@@ -66,7 +66,7 @@ SlideDeck
 
 ## Talk 7: Become Thanos of the LambdaLand: Wield all the Infinity Stones.
 
-Srushith, Head of Engineering at KonfHub where he is building a one stop platform for technical conferences. The platform is built on AWS stack, primarily using serverless and other associated services. 
+[Srushith Repakula](https://www.linkedin.com/in/srushith/), Head of Engineering at KonfHub where he is building a one stop platform for technical conferences. The platform is built on AWS stack, primarily using serverless and other associated services. 
 
 You can find him regularly speaking at conferences and meetups in the serverless community and shares his knowledge, production experiences and real life challenges. He also actively blogs and writes articles for OSFY, Medium and D-Zone. He also runs Serverless Architecture Bangalore group.\
 \
