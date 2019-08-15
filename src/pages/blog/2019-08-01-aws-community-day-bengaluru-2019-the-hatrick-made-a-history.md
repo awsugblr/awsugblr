@@ -8,6 +8,8 @@ tags:
 ---
 [AWS User Group Bengaluru](https://www.awsugblr.in/) hosted the 3rd edition of [AWS Community Day Bengaluru 2019](https://communityday.awsugblr.in/)  on 27th July 2019 at Conrad Hotel, Bengaluru. The Hat-rick made a history to be the biggest AWS Community Day in Asia. 
 
+![](/img/acd_1.jpg)
+
 The event was spanned across two days with full day Workshop & Conference and also proudly takes the credit of first ever AWS Community Day across the globe to host Diversity Program. It certainly gives immense pleasure to pen down the rich experience much more than being part of the team behind!
 
 Don’t miss to explore the golden opportunity to get hands-on experience with Serverless on AWS & Deep Learning Workshops conducted by experts from AWS on 26th July 2019 at Radisson Blu, Bengaluru.\
@@ -15,7 +17,7 @@ AWS Community Day Bengaluru 2019 - The Hatrick made a history to be the biggest 
 
 ## **Day 1**
 
-![](/img/dl_2.jpg)
+![null](/img/dl_2.jpg)
 
 Deep Learning & Serverless Workshops were co-ogranized by AWS User Group Bengaluru and Konfhub Technologies with the expert trainers from Amazon Internet Services Private Limited (AISPL) Certification & Training Team. The workshops were hosted on 26th July 2019 at Radisson Blu, Bengaluru. Usually the conference / workshop ticket sales would be at peak in the last two weeks but Serverless workshop as an exception got sold out two weeks before.  
 
@@ -24,7 +26,7 @@ Deep Learning & Serverless Workshops were co-ogranized by AWS User Group Bengalu
 
 ## Day 2
 
-![](/img/mainpic.jpg)
+![null](/img/mainpic.jpg)
 
 It was 5:00am on the conference day, the majestic spectacle of sunrise have not yet penetrated the golden rays into Hotel Conrad but the organizers / volunteers have already gathered for the final planning & getting ready for the 'show' on the much awaited D-Day, AWS Community Day Bengaluru 2019. That's the spirit and beauty of the community which inspires, energizes, renews and gives lots of new hope to make wonders. The arrival of Mumbai, Chennai user group leads and Konfhub team in next hour or so gave a feel of friends & family gathered for a typical Indian wedding preparation. 
 
