@@ -21,8 +21,8 @@ AWS Community Day Bengaluru 2019 - The Hatrick made a history to be the biggest 
 
 Deep Learning & Serverless Workshops were co-ogranized by AWS User Group Bengaluru and Konfhub Technologies with the expert trainers from Amazon Internet Services Private Limited (AISPL) Certification & Training Team. The workshops were hosted on 26th July 2019 at Radisson Blu, Bengaluru. Usually the conference / workshop ticket sales would be at peak in the last two weeks but Serverless workshop as an exception got sold out two weeks before.  
 
-* [Deep Learning Workshop](https://www.awsugblr.in/blog/2019-08-01-acd2019-deep-learning-workshop/)
-* [Serverless workshop](https://www.awsugblr.in/blog/2019-08-03-acd2019-serverless-workshop/)
+* [Deep Learning Workshop](https://www.awsugblr.in/blog/2019-08-05-aws-community-day-bengaluru-2019-deep-learning-workshop/)
+* [Serverless workshop](https://www.awsugblr.in/blog/2019-08-05-aws-community-day-bengaluru-2019-serverless-workshop/)
 
 ## Day 2
 
@@ -36,9 +36,9 @@ We had 800+ AWS enthusiasts to witness one of the biggest tech conferences in Be
 * [Main Track](https://www.awsugblr.in/blog/2019-08-05-aws-community-day-bengaluru-2019-main-track)
 * [Track - 1](https://www.awsugblr.in/blog/2019-08-05-aws-community-day-bengaluru-2019-track-1)
 * [Track - 4](https://www.awsugblr.in/blog/2019-08-05-aws-community-day-bengaluru-2019-track-4)
-* [Diversity Program](https://www.awsugblr.in/blog/2019-08-05-acd2019-diversity-program)
-* [The Team behind!](https://www.awsugblr.in/2019-08-05-aws-community-day-bengaluru-2019-the-team-behind)
+* [Diversity Program](https://www.awsugblr.in/blog/2019-08-05-aws-community-day-bengaluru-2019-diversity-program/)
+* [The Team behind!](https://www.awsugblr.in/blog/2019-08-05-aws-community-day-bengaluru-2019-the-team-behind/)
 
 On behalf of the organisers [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/), [Sathyajith Bhat](https://www.linkedin.com/in/sathyabhat/), [Runcy Oommen](https://www.linkedin.com/in/runcyoommen/), [Prashanth HN](https://www.linkedin.com/in/hnprashanth/) & myself [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/), would like to express our hearty thanks and bundle of joy to ours excellent Speakers, Guests of honour - Attendees, supportive Sponsors, community partners, Volunteers, [WOne Creations Team](https://www.facebook.com/Wonecreations/), [Konfhub Team](https://konfhub.com/) & [WheelsBox.com](WheelsBox.com) Team for making **AWS Community Day Bengaluru 2019** remarkable!
 
-![null](/img/theteam_3.jpg)
+![null](/img/theteam_2.jpg)
