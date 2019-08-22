@@ -8,12 +8,8 @@ tags:
 ---
 The team behind the mega event ..
 
-![](/img/theteam_3.jpg)
+![null](/img/theteam_3.jpg)
 
-![](/img/theteam_1.jpg)
+![null](/img/theteam_1.jpg)
 
-
-
-
-
-![](/img/team_withwone.jpg)
+![null](/img/team_withwone.jpg)
