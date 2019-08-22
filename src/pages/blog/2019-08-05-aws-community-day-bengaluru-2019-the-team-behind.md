@@ -14,6 +14,6 @@ The team behind the mega event .. \
 
 ![null](/img/wheelsbox_team.jpg)
 
-![](/img/theteam_1.jpg)
+![null](/img/theteam_1.jpg)
 
-![](/img/team_withwone.jpg)
+![null](/img/team_withwone.jpg)
