@@ -6,7 +6,7 @@ description: AWS Community Day Bengaluru 2019 experience by Bhuvaneswari Subrama
 tags:
   - communityday 2019 bengaluru
 ---
-The team behind the mega event ..
+The team behind the mega event .. #awsugblr Organizers, Volunteers, Konfhub Team and Wone Creations Team
 
 ![null](/img/theteam_3.jpg)
 
