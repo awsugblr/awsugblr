@@ -10,7 +10,7 @@ tags:
   - August 2019
   - '2019'
 ---
-After a very successful AWS Community Day 2019, we are pretty excited meet you all back with our monthly meetup.
+After a very successful AWS Community Day 2019, we are pretty excited to bring back our monthly meetups with a super good session.
 
 We have [Chakravarthy Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/) (popularly known as Chakra), the Spot Specialist SA from AWS talking about Amazon EC2 Spot Instances on 31st August 2019. You will learn to optimize your EC2 costs by upto 90%, scale your application throughput by upto 10x and build a resilient service.
 
