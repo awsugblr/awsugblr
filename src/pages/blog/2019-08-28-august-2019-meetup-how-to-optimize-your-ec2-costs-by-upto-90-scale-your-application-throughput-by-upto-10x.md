@@ -10,9 +10,9 @@ tags:
   - August 2019
   - '2019'
 ---
-After a very successful AWS Community Day 2019, we are pretty excited to bring back our monthly meetups with a super good session.
+After a very successful [AWS Community Day 2019](https://www.awsugblr.in/blog/2019-08-01-aws-community-day-bengaluru-2019-the-hatrick-made-a-history/), we are pretty excited to bring back our monthly meetups with a super good session. The event will be held on 31st August 2019 at Locus in 80 ft road, Koramangala.
 
-We have [Chakravarthy Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/) (popularly known as Chakra), the Spot Specialist SA from AWS talking about Amazon EC2 Spot Instances on 31st August 2019. You will learn to optimize your EC2 costs by upto 90%, scale your application throughput by upto 10x and build a resilient service.
+We have [Chakravarthy Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/) (popularly known as Chakra), the Spot Specialist SA from AWS talking about Amazon EC2 Spot Instances. You will learn to optimize your EC2 costs by upto 90%, scale your application throughput by upto 10x and build a resilient service.
 
 Amazon EC2 Spot instances are compute instances provided from the spare pooled capacity of On-Demand EC2 infrastructure, offered with low, predictable prices - discounted upto 90% on the On-Demand instance prices - with a caveat of these instances being "interruptible" after a 2 min notification, if Amazon needs to pull back the Spot instances capacity to serve On-Demand customers.
 
