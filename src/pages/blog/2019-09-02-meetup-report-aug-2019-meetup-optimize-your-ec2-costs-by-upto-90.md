@@ -75,11 +75,9 @@ And here is the Pop Quiz winners posing with their T-shirts
 
 11. Spot instances usage for **Kubernetes clusters**:
 
-EKS - blog : <https://aws.amazon.com/blogs/compute/run-your-kubernetes-workloads-on-amazon-ec2-spot-instances-with-amazon-eks/>
-
-K8s - Spot Interruption handler:  - <https://github.com/kube-aws/kube-spot-termination-notice-handler>
-
-[Kubernetes related Blog by Ran Sheinberg ](https://medium.com/@ranshn/the-definitive-guide-to-running-ec2-spot-instances-as-kubernetes-worker-nodes-68ef2095e767)of AWS (Specialist Solution Architect – EC2 Spot) 
+* EKS - blog : <https://aws.amazon.com/blogs/compute/run-your-kubernetes-workloads-on-amazon-ec2-spot-instances-with-amazon-eks/>
+* K8s - Spot Interruption handler:  - <https://github.com/kube-aws/kube-spot-termination-notice-handler>
+* [Kubernetes related Blog by Ran Sheinberg ](https://medium.com/@ranshn/the-definitive-guide-to-running-ec2-spot-instances-as-kubernetes-worker-nodes-68ef2095e767)of AWS (Specialist Solution Architect – EC2 Spot) 
 
 12. **Training Deep Learning Models** on GPUs using Amazon EC2 Spot Instances:   <https://aws.amazon.com/blogs/machine-learning/train-deep-learning-models-on-gpus-using-amazon-ec2-spot-instances/>
 
