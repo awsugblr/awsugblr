@@ -20,23 +20,21 @@ The session was super interactive from start to end and that's the best credit r
 
 ![Chakra with the interactive audience](/img/aug2019_chakra.png)
 
-
-
 ## Pop Quiz
 
 Pop Quiz by Sridhar at the end fo the session was a highlight and the techies who got it right was reward with the special Spot EC2 T-shirts
 
-![](/img/aug2019_sridhar.png)
+![null](/img/aug2019_sridhar.png)
 
 And here is the Pop Quiz winners posing with their T-shirts
 
-![](/img/aug2019_popquiz.png)
+![null](/img/aug2019_popquiz.png)
 
 ## Documentation links from our trainers:
 
 1. Link to download Presentation used in our discussion: \
    **EC2 Spot  presentation deck  -  Spot Workshop** for AWSUG Meetups  -  presentation deck -   <https://view.highspot.com/viewer/5d62b347c714332d60244238>
-2.  Documentation about **Spotfleet, Auto-Scaling Groups and EC2 Fleet** (Orchestration tools and best practices for diversification)
+2. Documentation about **Spotfleet, Auto-Scaling Groups and EC2 Fleet** (Orchestration tools and best practices for diversification)
 
 * EC2 Spot instances overview <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html>
 * Spot Fleet\
@@ -53,19 +51,19 @@ And here is the Pop Quiz winners posing with their T-shirts
 * Video of how to configure ASGs for Spot instances and Mixed Instance Groups - <https://www.youtube.com/watch?v=mXX1dgmStlo>
 * Interruption handling - at an instance level (terminate, stop & hibernate). Please refer to <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-interruptions.html>
 * Reference script with Cloudformation template - as an example to de-register from ELB :  <https://github.com/awslabs/ec2-spot-labs/tree/master/ecs-ec2-spot-auto-deregister>
-* Tagging best practices for EC2 instances - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html
-* Spot Blocks - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-requests.html#fixed-duration-spot-instances
+* Tagging best practices for EC2 instances - <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html>
+* Spot Blocks - <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-requests.html#fixed-duration-spot-instances>
 
 3. Managing Spot instances with **Terraform**:\
-    <https://www.terraform.io/docs/providers/aws/r/spot_fleet_request.html> and  <https://www.terraform.io/docs/providers/aws/r/launch_template.html>
+<https://www.terraform.io/docs/providers/aws/r/spot_fleet_request.html> and  <https://www.terraform.io/docs/providers/aws/r/launch_template.html>
 
 4. **Jenkins** documentation of plugin for Spot - <https://wiki.jenkins.io/display/JENKINS/Amazon+EC2+Fleet+Plugin>
 
 5. Link for **EC2 Spot Workshops** (<http://www.ec2spotworkshops.com>) - to get step by step hands on lab training experience on mechanisms to use Spot.
 
-6. Spot instances usage with **Amazon EMR (Hadoop / Spark) Clusters for Analytics** - [blog of best practices](https://aws.amazon.com/blogs/big-data/best-practices-for-running-apache-spark-applications-using-amazon-ec2-spot-instances-with-amazon-emr/)\
-\
-7.  Powering your **Amazon ECS Cluster** with Amazon EC2 Spot Instances: <https://aws.amazon.com/blogs/compute/powering-your-amazon-ecs-cluster-with-amazon-ec2-spot-instances/>
+6. Spot instances usage with **Amazon EMR (Hadoop / Spark) Clusters for Analytics** - [blog of best practices](https://aws.amazon.com/blogs/big-data/best-practices-for-running-apache-spark-applications-using-amazon-ec2-spot-instances-with-amazon-emr/)
+
+7. Powering your **Amazon ECS Cluster** with Amazon EC2 Spot Instances: <https://aws.amazon.com/blogs/compute/powering-your-amazon-ecs-cluster-with-amazon-ec2-spot-instances/>
 
 8. Docker, Amazon ECS, and Spot Fleets: A Great Fit Together:  <https://aws.amazon.com/blogs/aws/docker-amazon-ecs-and-spot-fleets-a-great-fit-together/>
 
@@ -84,7 +82,7 @@ And here is the Pop Quiz winners posing with their T-shirts
 13. Amazon Elastic Inference for Inferencing workloads - using EC2 Spot instances:\
 <https://aws.amazon.com/blogs/aws/amazon-elastic-inference-gpu-powered-deep-learning-inference-acceleration/> and <https://github.com/awslabs/ec2-spot-labs/tree/master/ec2-spot-elastic-inference>
 
-\
+
 Stay tuned for upcoming meetups. Follow us on [Linkedin](https://www.linkedin.com/in/awsugblr/) or [Twitter](https://twitter.com/awsugblr) and for more update please visit:  [https://awsugblr.in](https://awsugblr.in/).
 
 AWSUGBLR organizers would like to thank
