@@ -12,11 +12,11 @@ tags:
   - Aug 2019
   - Report
 ---
-August meetup started with an introduction and welcome note by [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/), co-orgainzer AWS User Group Bengaluru, setting stage for our speakers, [Chakravarthy Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/) (popularly known as Chakra), the Spot Specialist SA &  [Sridhar Bharadwaj](https://www.linkedin.com/in/sridhar-bharadwaj/), Business Development Manager - EC2 Spot at AWS.
+August meetup started with an introduction and welcome note by [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/), co-orgainzer AWS User Group Bengaluru, setting stage for our speakers, [Chakravarthy Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/) (popularly known as Chakra), the Spot Specialist SA &  [Sridhar Bharadwaj](https://www.linkedin.com/in/sridhar-bharadwaj/), Business Development Manager - EC2 Spot at AWS. 
 
-Infact, Chakra is back to #awsugblr after a year to talk about more EC2 Spot but still the conference hall was packed with new set of audience except the organizers ([Runcy](https://www.linkedin.com/in/runcyoommen/) & Bhuvaneswari). You may refer to the detailed agenda in the [August meetup announcement blog](https://www.awsugblr.in/blog/2019-08-28-august-2019-meetup-how-to-optimize-your-ec2-costs-by-upto-90-scale-your-application-throughput-by-upto-10x/).
+Infact, Chakra is back to #awsugblr after a year to talk about more EC2 Spot instances but still the conference hall was packed with new set of audience except the organizers ([Runcy Oommen](https://www.linkedin.com/in/runcyoommen/) & Bhuvaneswari). You may refer to the detailed agenda in the [August meetup announcement blog](https://www.awsugblr.in/blog/2019-08-28-august-2019-meetup-how-to-optimize-your-ec2-costs-by-upto-90-scale-your-application-throughput-by-upto-10x/).
 
-The session was super interactive from start to end and that's the best credit reward for the trainer coming over the festival weekend to share his deep insights on EC2 Spot.
+The session was super interactive from start to end and that's the best reward for the trainer coming over the festival weekend to share his deep insights to optimize EC2 costs by upto 90%, scale the application throughput by upto 10x and build a resilient service.
 
 ![Chakra with the interactive audience](/img/aug2019_chakra.png)
 
