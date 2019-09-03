@@ -26,7 +26,11 @@ The session was super interactive from start to end and that's the best credit r
 
 Pop Quiz by Sridhar at the end fo the session was a highlight and the techies who got it right was reward with the special Spot EC2 T-shirts
 
-![]()
+![](/img/aug2019_sridhar.png)
+
+And here is the Pop Quiz winners posing with their T-shirts
+
+![](/img/aug2019_popquiz.png)
 
 ## Documentation links from our trainers:
 
