@@ -150,3 +150,16 @@ https://aws.amazon.com/blogs/aws/amazon-elastic-inference-gpu-powered-deep-learn
 
 
 https://github.com/awslabs/ec2-spot-labs/tree/master/ec2-spot-elastic-inference
+
+Bhuvaneswari ended with a "Thank you, Note"!
+
+Stay tuned for upcoming meetups. Follow us on [Linkedin](https://www.linkedin.com/in/awsugblr/) or [Twitter](https://twitter.com/awsugblr) and for more update please visit:  [https://awsugblr.in](https://awsugblr.in/).
+
+AWSUGBLR organizers would like to thank
+
+* The speaker: Chakra & Sridhar
+* Attendees for gathering on a weekend for the meet
+* Locus for hosting the meetup, providing tea & snacks 
+* [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for contributing to the meetup report
+
+For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
