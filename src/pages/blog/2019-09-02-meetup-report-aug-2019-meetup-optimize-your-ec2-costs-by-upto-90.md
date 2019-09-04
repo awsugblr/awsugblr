@@ -92,7 +92,7 @@ Stay tuned for upcoming meetups. Follow us on [Linkedin](https://www.linkedin.co
 
 AWSUGBLR organizers would like to thank
 
-* The speaker: Chakra & Sridhar
+* The speaker: [Chakravarthy Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/)  &  [Sridhar Bharadwaj](https://www.linkedin.com/in/sridhar-bharadwaj/) from AWS.
 * Attendees for gathering on a weekend for the meet
 * Locus for hosting the meetup, providing tea & snacks 
 * [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for contributing to the meetup report
