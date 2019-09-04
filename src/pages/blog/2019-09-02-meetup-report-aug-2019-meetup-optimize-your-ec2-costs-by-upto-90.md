@@ -94,7 +94,7 @@ AWSUGBLR organizers would like to thank
 
 * The speaker: [Chakravarthy Nagarajan](https://www.linkedin.com/in/chakravarthy-nagarajan-7653311a/)  &  [Sridhar Bharadwaj](https://www.linkedin.com/in/sridhar-bharadwaj/) from AWS.
 * Attendees for gathering on a weekend for the meet
-* [Locus.sh](https://locus.sh/) for hosting the meetup, providing tea & snacks 
+* [Locus.sh](https://locus.sh/) for hosting the meetup, providing light refreshments
 * [Bhuvaneswari](https://www.linkedin.com/in/bhuvanas/) for contributing to the meetup report
 
 For any feedback, comments, requests or contributions, please write to us on <mailto:info@awsugblr.in>
