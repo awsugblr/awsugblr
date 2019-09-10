@@ -10,7 +10,7 @@ tags:
 ---
 Mark you calendar for 17th Sep 2019 6:30pm to 8:30pm!
 
-[AWS User Group Bengaluru](https://www.awsugblr.in) & [Cloud Native Computing Foundation](https://www.cncf.io/) are super thrilled in joining hands to host Sep 2019 meetup with our expert speaker [Arun Gupta](https://aws.amazon.com/developer/community/evangelists/arun-gupta/), Principal Technologist, Amazon Web Services. [EagleView](https://www.eagleview.com/) is all set to host us in their new premise, Piritech Park, Bellandur, Bengaluru.
+[AWS User Group Bengaluru](https://www.awsugblr.in) & [Cloud Native Computing Foundation](https://www.cncf.io/) are super thrilled in joining hands to host Sep 2019 meetup with our expert speaker [Arun Gupta](https://aws.amazon.com/developer/community/evangelists/arun-gupta/), Principal Technologist, Amazon Web Services. [EagleView](https://www.eagleview.com/) is all set to host us in their new premises at Piritech Park, Bellandur, Bengaluru.
 
 ### Agenda:
 
@@ -20,15 +20,17 @@ This talk will explain why and how Kubernetes is well suited for single and mult
 
 ### About the speaker:
 
-Arun Gupta is a Principal Open Source Technologist at Amazon Web Services. He focuses on everything open source, containers and serverless at AWS. He is responsible for the CNCF strategy within AWS, and participates at CNCF Board and technical meetings actively. He has built and led developer communities for 12+ years at Sun, Oracle, Red Hat and Couchbase. Prior to that he led engineering teams at Sun and is a founding member of the Java EE team.
+ Arun Gupta is a Principal Open Source Technologist at Amazon Web Services. He focuses on everything open source, containers and serverless at AWS. He is responsible for the CNCF strategy within AWS, and participates at CNCF Board and technical meetings actively. He has built and led developer communities for 12+ years at Sun, Oracle, Red Hat and Couchbase. Prior to that he led engineering teams at Sun and is a founding member of the Java EE team.
 
 He has extensive speaking experience in [more than 40 countries](http://blog.arungupta.me/about/speaking-credentials/) on myriad topics and is a JavaOne Rock Star for four years in a row. Gupta also founded the [Devoxx4Kids](http://usa.devoxx4kids.org/) chapter in the US and continues to promote technology education among children. [An author](http://blog.arungupta.me/books/) of several books on technology, an avid runner, a globe trotter, a Java Champion, a JUG leader, NetBeans Dream Team member, and a Docker Captain, he is easily accessible at [@arungupta](http://twitter.com/arungupta).
 
 ### Venue
 
-EagleView 
-
-
+Bangalore, India\
+Block 05 “A” Wing – Sixth Floor\
+Pritech Park SEZ\
+Bellandur, Varthur Hobli,\
+Bangalore- 560 103 
 
 ### Register for the meetup
 
