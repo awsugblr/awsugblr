@@ -10,7 +10,7 @@ tags:
 ---
 Mark you calendar for **17th Sep 2019 6:30pm to 8:30pm**!
 
-[AWS User Group Bengaluru](https://www.awsugblr.in) & [Cloud Native Computing Foundation](https://www.cncf.io/) are super thrilled in joining hands to host Sep 2019 meetup with our expert speaker [Arun Gupta](https://aws.amazon.com/developer/community/evangelists/arun-gupta/), Principal Technologist, Amazon Web Services. [EagleView](https://www.eagleview.com/) is all set to host us in their new premises at Piritech Park, Bellandur, Bengaluru.
+[AWS User Group Bengaluru](https://www.awsugblr.in) & [Cloud Native Computing Foundation](https://www.cncf.io/) are super thrilled in joining hands to host Sep 2019 meetup with our expert speaker [Arun Gupta](https://aws.amazon.com/developer/community/evangelists/arun-gupta/), Principal Technologist, Amazon Web Services. 
 
 ### Agenda:
 
@@ -26,7 +26,7 @@ He has extensive speaking experience in [more than 40 countries](http://blog.aru
 
 ### Venue
 
-Bangalore, India\
+[EagleView](https://www.eagleview.com/)\
 Block 05 “A” Wing – Sixth Floor\
 Pritech Park SEZ\
 Bellandur, Varthur Hobli,\
