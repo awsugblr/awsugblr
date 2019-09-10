@@ -10,7 +10,7 @@ tags:
 ---
 Mark you calendar for **17th Sep 2019 6:30pm to 8:30pm**!
 
-[AWS User Group Bengaluru](https://www.awsugblr.in) & [Cloud Native Computing Foundation](https://www.cncf.io/) are super thrilled in joining hands to host Sep 2019 meetup with our expert speaker [Arun Gupta](https://aws.amazon.com/developer/community/evangelists/arun-gupta/), Principal Technologist, Amazon Web Services. 
+[AWS User Group Bengaluru](https://www.awsugblr.in) & [Cloud Native Computing Foundation](https://www.cncf.io/) are super thrilled in joining hands to host Sep 2019 meetup with our expert speaker [Arun Gupta](https://aws.amazon.com/developer/community/evangelists/arun-gupta/), Principal Technologist, Amazon Web Services. Come join us to enrich your knowledge with **Machine Learning on Kubernetes using Kubeflow.**
 
 ### Agenda:
 
