@@ -16,7 +16,7 @@ Mark you calendar for **17th Sep 2019 6:30pm to 8:30pm**!
 
 Kubernetes provides isolation, auto-scaling, load balancing, flexibility, and GPU support. These features are critical to run computationally, data-intensive and hard to parallelize machine learning models. Declarative syntax of Kubernetes deployment descriptors makes it easy for non-operationally focused engineers to easily train machine learning models on Kubernetes.
 
-This talk will explain why and how Kubernetes is well suited for single and multi-node distributed training, deploying your machine learning models in production and setting up visualization tools like TensorBoard for monitoring. Specifically it will show how to set up a variety of open-source machine learning frameworks such as TensorFlow on a Kubernetes cluster. The attendees will learn distributed training, massaging and inference phases of setting up a Machine Learning framework on Kubernetes. Attendees will leave with a GitHub repo of fully working samples.
+This talk will explain why and how Kubernetes is well suited for single and multi-node distributed training, deploying your machine learning models in production and setting up visualization tools like TensorBoard for monitoring. Specifically it will show how to set up a variety of open-source machine learning frameworks such as TensorFlow on a Kubernetes cluster. The attendees will learn distributed training, messaging and inference phases of setting up a Machine Learning framework on Kubernetes. Attendees will leave with a GitHub repo of fully working samples.
 
 ### About the speaker:
 
