@@ -33,3 +33,5 @@ tags:
 23. Edge to Edge routing isn’t supported in AWS VPC.
 24. VPC peering connections do not require an Internet Gateway.
 25. Security groups cannot be referenced across an Inter-Region VPC Peering connection.
+
+A Points to remember series by [Piyush Jalan](https://www.linkedin.com/in/piyush-jalan/).
