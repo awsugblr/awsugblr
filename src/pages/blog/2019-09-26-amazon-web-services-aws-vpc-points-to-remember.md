@@ -4,9 +4,7 @@ title: 'Amazon Web Services (AWS): VPC: Points to remember'
 date: 2019-09-26T10:51:33.434Z
 description: 'Let''s learn about Amazon VPC:'
 tags:
-  - >-
-    #AWS #LetsLearnTogether #AWSUGBLR #VPC #Networking #ManagedService #Security
-    #VPN #Peering #Subnets #Gateways
+  - '#AWS #LetsLearnTogether #AWSUGBLR #VPC'
 ---
 1. VPC allows to provision a logically isolated section of the AWS cloud where user can launch AWS resources in a virtual network.
 2. VPC endpoints enables to privately connect with VPC to services hosted on AWS without requiring an Internet gateway, a NAT device, VPN or firewall proxies.
