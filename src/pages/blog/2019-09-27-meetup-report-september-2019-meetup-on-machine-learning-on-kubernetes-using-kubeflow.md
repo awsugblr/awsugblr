@@ -14,25 +14,25 @@ tags:
 ---
 Meetup Announcement - https://www.awsugblr.in/blog/2019-09-10-sep-2019-meetup-machine-learning-on-kubernetes-using-kubeflow/
 
-AWS User group Bengaluru and Bangalore CNCF User Group jointly hosted the Sep 2019 meetup at EagleView India office on Tuesday Evening, September 17. The evening had multiple flavours of learning, networking and getting introduced to EagleView.
+AWS User group Bengaluru and Bangalore CNCF User Group jointly hosted the Sep 2019 meetup at [EagleView](https://www.eagleview.com) India office on Tuesday Evening, September 17. The evening had multiple flavours of learning, networking and getting introduced to EagleView.
 
-It was a well-attended event with around 160 Participants. The evening started with an Introduction to the speaker by Suman Debnath. The Speaker for the evening was Mr.Arun Gupta, Principal Open Source Technologist at AWS, San Francisco Bay Area. Arun is a well-known name in the User group circles for his technical expertise and vast experience in the domain.
+It was a well-attended event with around 160 Participants. The evening started with an Introduction to the speaker by [Suman Debnath](https://www.linkedin.com/in/suman-d). The Speaker for the evening was [Mr. Arun Gupta](https://www.linkedin.com/in/arunpgupta/), Principal Open Source Technologist at AWS, San Francisco Bay Area. Arun is a well-known name in the User group circles for his technical expertise and vast experience in the domain.
 
-![](/img/img_20190917_182304.jpg)
+![null](/img/img_20190917_182304.jpg)
 
 The presentation by Arun was well planned and caught the enthusiasts with awe on the technical depth it had to offer. Arun succeeded in meeting expectations of the inquisitive audience. Arun dwelled into technical depths of the subject illustrating new and intuitive concepts in the domain of AWS Kubernetes. The participants were also quite knowledgeable on the subject and everyone got some nuggets to take back.
 
-Post the talk, Prasan S, Country Head of EagleView India briefly introduced EagleView and spoke about its plans for India. The refreshment break provided opportunities for the participants to network with the experts.
+Post the talk, [Prasan S](https://www.linkedin.com/in/sprasan), Country Head of [EagleView](https://www.eagleview.com) India briefly introduced EagleView and spoke about its plans for India. The refreshment break provided opportunities for the participants to network with the experts.
 
 **AWSUGBLR organizers and EagleView India would like to thank:**
 
-* The Speaker: Mr.Arun Gupta, Principal Open Source Technologist at Amazon Web Services
+* The Speaker: [Mr.Arun Gupta](https://www.linkedin.com/in/arunpgupta/), Principal Open Source Technologist at Amazon Web Services
 * Attendees for gathering the meet in the middle of the week
 * EagleView India for their hosting support
 
-![](/img/img_20190917_183612.jpg)
+![null](/img/img_20190917_183612.jpg)
 
-**About Eagleview:**
+**About **[**Eagleview**](https://www.eagleview.com)**:**
 
 Eagleview is a market leader in high-resolution aerial imagery which gives organizations the finest level of detail to rapidly make crucial everyday decisions. www.eagleview.com Eagleview recently opened its office in India and is setting a world class Product engineering team to develop Cloud-based products incorporating AI/ML and other cutting-edge technologies.
 
