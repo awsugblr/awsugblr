@@ -44,9 +44,9 @@ https://www.thehindubusinessline.com/info-tech/us-based-eagleview-tech-opens-rd-
 
 https://timesofindia.indiatimes.com/business/india-business/eagleview-sets-up-rd-centre-in-bengaluru/articleshow/70748166.cms
 
-**Below are few captured memories from the Meetup event:**
+**Further references on the topic:**
 
-Further references on the topic - Machine Learning on Kubernetes using Kubeflow Workshop: https://eksworkshop.com/kubeflow/
+Machine Learning on Kubernetes using Kubeflow Workshop: https://eksworkshop.com/kubeflow/
 
 Code: https://github.com/aws-samples/machine-learning-using-k8s
 
