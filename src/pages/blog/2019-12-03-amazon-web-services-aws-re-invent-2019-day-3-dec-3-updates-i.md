@@ -6,7 +6,9 @@ description: 'Let''s talk about AWS new launch and previews for Day 3 @ AWS re:I
 tags:
   - '#AWS #LetsLearnTogether #AWSUGBLR #AWSreInvent2019'
 ---
-1. Compute Announcements: 
+Compute Announcements: 
+
+
 
 * Launch of M6g, R6g, C6g Instances (Powered by Arm-based AWS Graviton2 Processors) - Read more @ <https://aws.amazon.com/about-aws/whats-new/2019/12/announcing-new-amazon-ec2-m6g-c6g-and-r6g-instances-powered-by-next-generation-arm-based-aws-graviton2-processors/>
 * Amazon ECS Cluster Auto Scaling Now Available - With ECS Cluster Auto Scaling, your ECS clusters running on EC2 can automatically scale as needed to meet the resource demands of all tasks and services in your cluster, including scaling to and from zero. Read more @ <https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ecs-cluster-auto-scaling-now-available/>
@@ -19,7 +21,9 @@ tags:
 * Introducing AWS Compute Optimizer - a new machine learning-based recommendation service that makes it easy for you to ensure that you are using optimal AWS Compute resources. Read more @ <https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-aws-compute-optimizer/>
 * Amazon EC2 Inf1 Instances - high performance and the lowest cost machine learning inference in the cloud. Read more @ <https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-amazon-ec2-inf1-instances-high-performance-and-the-lowest-cost-machine-learning-inference-in-the-cloud/>
 
-2. Machine Learning Announcements:
+Machine Learning Announcements:
+
+
 
 * Introducing Contact Lens for Amazon Connect (In Preview) - Contact Lens for Amazon Connect is a set of integrated ML analytics capabilities for Amazon Connect that gives contact centers the ability to understand the sentiment, trends, and compliance of customer conversations to improve customer experience and identify crucial customer feedback. Read more @ <https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-contact-lens-for-amazon-connect-preview/>
 * Amazon Detective (In Preview) -  a new service in Preview that makes it easy to analyze, investigate, and quickly identify the root cause of potential security issues or suspicious activities. Read more @ <https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-amazon-detective/>
