@@ -27,11 +27,17 @@ Meet the India & South Asia community at #Awsreinvent
 
 ## Presentations at reInvent
 
+## 
+
 ![](/img/awsreinvent_devchat.png)
 
 
 
 ![](/img/reinvent_talk_sukanya.jpg)
+
+## 
+
+## 
 
 ## Hearty warming Invitation to Eminent Speakers
 
@@ -40,3 +46,7 @@ Meet the India & South Asia community at #Awsreinvent
 ## 
 
 ![](/img/reinvent_speakerinvite_2.png)
+
+![](/img/reinvent_speakerinvite_3.png)
+
+![](/img/reinvent_speakerinvite_4.png)
