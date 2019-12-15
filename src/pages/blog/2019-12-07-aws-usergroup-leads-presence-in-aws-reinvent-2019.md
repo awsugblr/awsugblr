@@ -66,7 +66,7 @@ Here you go with the [SlideDeck](https://u.sbhat.me/dvc15-slides)
 
 Here you go with the [SlideDeck](http://bit.ly/reInvent_FDD)
 
-![null](/img/awsreinvent_devchat.png)
+![null](/img/bhuvana-reinvent_talk.jpg)
 
 AWS reInvent 2019 Community Leader Diversity Scholarship recipient [Sukanya Mandal](https://twitter.com/msukanya93) speaking on IoT at #DevChats\
 Here you go with the SlideDeck
