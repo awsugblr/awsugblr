@@ -1,6 +1,8 @@
 ---
 templateKey: blog-post
-title: 'India & South Asia AWS UserGroup Leads presence in #AWS #reInvent 2019'
+title: >-
+  #AWSUserGroups team #India & South Asia who made #AWS #reInvent 2019
+  incredible!
 date: 2019-12-07T17:47:27.452Z
 description: >-
   AWS UserGroup Leads presence & experience in AWS reInvent 2019 by Bhuvaneswari
@@ -15,27 +17,21 @@ As rightly said by [Rashmi Nambiar](https://twitter.com/RashmiNbr),
 
 And we made the AWS re:Invent 2019 incredible 😍
 
-![](/img/incredible.png)
-
-
+![null](/img/incredible.png)
 
 Meet the India & South Asia community at #Awsreinvent 
 
-![](/img/reinvent2019_teamindia.png)
+![null](/img/reinvent2019_teamindia.png)
 
 ## 
 
 ## Welcome Dinner for Diversity Scholarship Recipients
 
-
-
 ## AWS Heroes Dinner
 
 ## 
 
-![](/img/reinvent2019_heroesgoodies.png)
-
-
+![null](/img/reinvent2019_heroesgoodies.png)
 
 ## Presentations at reInvent
 
@@ -43,11 +39,12 @@ Meet the India & South Asia community at #Awsreinvent
 
 Never mind if you have missed our Hotstar hero's talk; View the [full recording](https://youtu.be/mFpqrVxxwKc) at the comfort of your home.
 
-![](/img/communitytrack_gaurav.png)
+![null](/img/communitytrack_gaurav.png)
 
-\#AWSCommunity Hero [Sathyajith Bhat](https://twitter.com/SathyaBhat) with a pretty existing talk on AWS Fargate at DevChats
+\#AWSCommunity Hero [Sathyajith Bhat](https://twitter.com/SathyaBhat) with a pretty existing talk on AWS Fargate at DevChats.\
+Here you go with the [SlideDeck](https://u.sbhat.me/dvc15-slides)
 
-![](/img/reinvent2019_sathyatalk.png)
+![null](/img/reinvent2019_sathyatalk.png)
 
 \#AWSCommunity Hero [Bhuvaneswari Subramani](https://twitter.com/installjournal) sharing #Infor_Nexus #awscloud migration story \`Transforming to feature-driven development\` at DevChats
 
@@ -55,7 +52,8 @@ Here you go with the [SlideDeck](http://bit.ly/reInvent_FDD)
 
 ![null](/img/awsreinvent_devchat.png)
 
-AWS reInvent 2019 Community Leader Diversity Scholarship recipient [Sukanya Mandal](https://twitter.com/msukanya93) speaking on IoT at #DevChats
+AWS reInvent 2019 Community Leader Diversity Scholarship recipient [Sukanya Mandal](https://twitter.com/msukanya93) speaking on IoT at #DevChats\
+Here you go with the SlideDeck
 
 ![null](/img/reinvent_talk_sukanya.jpg)
 
@@ -67,17 +65,11 @@ AWS reInvent 2019 Community Leader Diversity Scholarship recipient [Sukanya Mand
 
 Thanks to [Rashmi Nambiar](https://twitter.com/RashmiNbr) for the Traditional Scrolls to invite the eminent speakers across the globe to India & South Asia AWS Community Days & Meet-ups. It was indeed sensational all through re:Invent 2019!
 
-![](/img/reinvent2019_withwerner.jpg)
+![null](/img/reinvent2019_withwerner.jpg)
 
-![](/img/invite_jeffbarr.png)
-
-
-
-
+![null](/img/invite_jeffbarr.png)
 
 ![null](/img/reinvent_speakerinvite_2.png)
-
-
 
 ![null](/img/reinvent_speakerinvite_3.png)
 
