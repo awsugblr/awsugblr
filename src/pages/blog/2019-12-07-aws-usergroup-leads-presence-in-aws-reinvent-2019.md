@@ -55,7 +55,7 @@ Here you go with the [SlideDeck](http://bit.ly/reInvent_FDD)
 
 ![null](/img/awsreinvent_devchat.png)
 
-
+AWS reInvent 2019 Community Leader Diversity Scholarship recipient [Sukanya Mandal](https://twitter.com/msukanya93) speaking on IoT at #DevChats
 
 ![null](/img/reinvent_talk_sukanya.jpg)
 
