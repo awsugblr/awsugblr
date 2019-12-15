@@ -25,13 +25,29 @@ Meet the India & South Asia community at #Awsreinvent
 
 ## 
 
-## Welcome Dinner for Diversity Scholarship Recipients
+## Diversity & #WePowerTech Scholarship Recipients
+
+We are happy & super proud that [SriDevi](https://twitter.com/Sridevi64479943) & [Sukanya Mandal](https://twitter.com/msukanya93) made it to reInvent 2019 as AWS Community Leader Diversity Scholarship recipients and Vijayanirmala as #WePowerTech grant recipient.
+
+![](/img/diversityteam_reinvent2019.jpeg)
+
+Thanks to [Ross Barich](https://twitter.com/rossbarich) for inviting me to the AWS reInvent 2019 Diversity Scholarship recipients Welcome Dinner to share my journey from [AWS reInvent 2018 Diversity Scholarship recipient](https://aws.amazon.com/blogs/publicsector/meet-the-women-building-aws-technical-communities-around-the-world/) to [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/bhuvaneswari-subramani/)!
+
+
+
+
 
 ## AWS Heroes Dinner
 
 ## 
 
 ![null](/img/reinvent2019_heroesgoodies.png)
+
+
+
+## AWS User Group Booth
+
+AWS User Group booth at reInvent 2019 became a home away from home for most of the user group leads from 3rd through 5th, taking turns to stand in the booth to showcase the goodness of the cross-learning platform driven by the like-minded #awscloud geeks.
 
 ## Presentations at reInvent
 
