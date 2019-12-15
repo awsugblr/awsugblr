@@ -13,7 +13,7 @@ As rightly said by [Rashmi Nambiar](https://twitter.com/RashmiNbr),
 
 > The strength of the team is each individual member. The strength of each member is the team. 
 
-And we made the AWS re:Invent 2019 incredible!
+And we made the AWS re:Invent 2019 incredible 😍
 
 ![](/img/incredible.png)
 
@@ -23,6 +23,8 @@ Meet the India & South Asia community at #Awsreinvent
 
 ![](/img/reinvent2019_teamindia.png)
 
+## 
+
 ## Welcome Dinner for Diversity Scholarship Recipients
 
 
@@ -30,6 +32,10 @@ Meet the India & South Asia community at #Awsreinvent
 ## AWS Heroes Dinner
 
 ## 
+
+![](/img/reinvent2019_heroesgoodies.png)
+
+
 
 ## Presentations at reInvent
 
@@ -57,11 +63,21 @@ Here you go with the [SlideDeck](http://bit.ly/reInvent_FDD)
 
 ## 
 
-## Hearty warming Invitation to Eminent Speakers
+## Heart warming Invitation to Eminent Speakers
 
-## 
+Thanks to [Rashmi Nambiar](https://twitter.com/RashmiNbr) for the Traditional Scrolls to invite the eminent speakers across the globe to India & South Asia AWS Community Days & Meet-ups. It was indeed sensational all through re:Invent 2019!
+
+![](/img/reinvent2019_withwerner.jpg)
+
+![](/img/invite_jeffbarr.png)
+
+
+
+
 
 ![null](/img/reinvent_speakerinvite_2.png)
+
+
 
 ![null](/img/reinvent_speakerinvite_3.png)
 
