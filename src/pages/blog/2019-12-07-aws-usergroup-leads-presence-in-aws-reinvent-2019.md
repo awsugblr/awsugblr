@@ -89,13 +89,13 @@ Never mind if you have missed our Hotstar hero's talk; View the [full recording]
 
 ![null](/img/communitytrack_gaurav.png)
 
-\#AWSCommunity Hero [Sathyajith Bhat](https://twitter.com/SathyaBhat) with a pretty existing talk on AWS Fargate at DevChats.\
+\#AWSCommunity Hero [Sathyajith Bhat](https://twitter.com/SathyaBhat) with a pretty exciting talk on AWS Fargate at DevChats.\
 Here you go with the [SlideDeck](https://u.sbhat.me/dvc15-slides)\
 Well, Sathya's talk had the maximum attendees in all of the 20 DevChats.
 
 ![null](/img/reinvent2019_sathyatalk.png)
 
-\#AWSCommunity Hero [Bhuvaneswari Subramani](https://twitter.com/installjournal) sharing #Infor_Nexus #awscloud migration story \`Transforming to feature-driven development\` at DevChats
+\#AWSCommunity Hero [Bhuvaneswari Subramani](https://twitter.com/installjournal) sharing #Infor_Nexus #awscloud migration story **Transforming to feature-driven development** at DevChats
 
 Here you go with the [SlideDeck](http://bit.ly/reInvent_FDD)
 
@@ -134,7 +134,7 @@ Whatever happens in Vegas need not stay in Vegas !!!\
 \
 Stay tuned for the meetup announcement in your city to enrich #awscloud knowledge.
 
-![](/img/reinvent2019_recap.png)
+![null](/img/reinvent2019_recap.png)
 
 Looking for AWS UserGroup near you ?? \
 check out https://aws.amazon.com/developer/community/usergroups/asia-pacific/
