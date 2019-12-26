@@ -10,19 +10,19 @@ description: >-
 tags:
   - '#Meetup #Jan2020 #2020 #AWSUGBLR #NewYear'
 ---
-![](/img/aws-reinvent-recap.jpg)
+![null](/img/aws-reinvent-recap.jpg)
 
 AWS re:Invent had given everyone a great glimpse of what AWS is about to launch in the upcoming months. Yes, AWS re:Invent 2019 has just got completed and we have a lot of new AWS services and features in the offering.
 
-**What to Expect:**
+**What to Expect**
 
 A lot of new AWS services were announced in re:Invent 2019, far too many to cover in one talk. We will be sharing the latest happening from Las Vegas straight to Bengaluru and detailed explanations of all the new service launches announced at re:Invent 2019 across various technologies.
 
-_**"We will also have a demo for DeepComposer device at re:Cap event."**_
+**_"We will also have a demo for DeepComposer device at re:Cap event."_**
 
-![](/img/screenshot-860-.png)
+![null](/img/screenshot-860-.png)
 
-**Speaker:**
+**Speaker**
 
 [Suman Debnath](https://www.linkedin.com/in/suman-d/), Principal Developer Evangelist at Amazon Web Services
 
@@ -38,7 +38,7 @@ _**"We will also have a demo for DeepComposer device at re:Cap event."**_
 
 January 18, 2020 (Saturday) - 09:30 AM to 12:45 PM
 
-**Register for the meetup**
+**Register for the meetup**
 
 [Please fill up this form](https://docs.google.com/forms/d/e/1FAIpQLSfBfElXkWLrNa16ZVgj2ieIRMOGMmHkAz0emi7NFqR_PAzG6Q/viewform) to register and help us plan for better logistics.
 
