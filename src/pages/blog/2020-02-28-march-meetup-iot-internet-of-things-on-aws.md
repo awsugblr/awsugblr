@@ -8,13 +8,14 @@ description: >-
 tags:
   - '#Meetup #March2020 #AWSUGBLR #LetsLearnTogether #IoT'
 ---
-![](/img/aws_iot.png)
+![null](/img/aws_iot.png)
 
-**Title**: Building resiliency in IoT deployment with [AWS IoT Greengrass](https://aws.amazon.com/greengrass/) and [FreeRTOS](https://aws.amazon.com/freertos/)
+**Title**
+: Building resiliency in IoT deployment with [AWS IoT Greengrass](https://aws.amazon.com/greengrass/) and [FreeRTOS](https://aws.amazon.com/freertos/)
 
 **Abstract:** The embedded domain is not only impacted by physical hardware capabilities, but environmental constraints as well. In this presentation, we’ll show how you can manage, control, and perform OTA updates to your fleet of microcontrollers running FreeRTOS. Additionally, we’ll show how AWS IoT Greengrass can save messaging costs, add additional protocol support, and add resiliency at the edge in times of connectivity loss in a water conservation and management use-case.
 
-**Speaker Bio:** [**Rashed Talukder**](https://twitter.com/rashedtalukder) is a **Senior Developer Advocate for **[**AWS IoT**](https://aws.amazon.com/iot/). Rashed works with embedded and cloud developers to help realize and unlock cloud-connected embedded opportunities at any scale.
+**Speaker Bio:** [**Rashed Talukder**](https://twitter.com/rashedtalukder) is a **Senior Developer Advocate for **[AWS IoT.](https://aws.amazon.com/iot/) Rashed works with embedded and cloud developers to help realize and unlock cloud-connected embedded opportunities at any scale.
 
 Prior to AWS, Rashed was focused on enterprise integrations at MuleSoft and Jive Software, as well as application integration of embedded hardware in enterprise environments at Poly. Rashed has a Bachelor of Science in Management Information Systems at San Jose State University.
 
