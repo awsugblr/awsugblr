@@ -17,7 +17,7 @@ You can reach us on any of the social media networks:
 * [Facebook](https://facebook.com/awsugblr)
 * [Telegram](https://t.me/awsugblr)
 * [LinkedIn](https://linkedin.com/in/awsugblr)
-* [Slack](https://go.awsugblr.in/slack)
+* [Slack](https://go.awsugblr.in/slack_invite)
 
 
 
