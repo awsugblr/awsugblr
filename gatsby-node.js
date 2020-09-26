@@ -1,5 +1,6 @@
 const _ = require('lodash')
 const path = require('path')
+const createPaginatedPages = require('gatsby-paginate')
 const { createFilePath } = require('gatsby-source-filesystem')
 
 exports.createPages = ({ actions, graphql }) => {
@@ -7,16 +8,22 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      allMarkdownRemark(
+        sort: { order: DESC, fields: [frontmatter___date] },
+        filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+      ) {
         edges {
           node {
+            excerpt(pruneLength: 400)
             id
             fields {
               slug
             }
             frontmatter {
+              title
               tags
               templateKey
+              date(formatString: "MMMM DD, YYYY")
             }
           }
         }
@@ -29,6 +36,12 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     const posts = result.data.allMarkdownRemark.edges
+    createPaginatedPages({
+      edges: result.data.allMarkdownRemark.edges,
+      createPage: createPage,
+      pageTemplate: 'src/templates/index.js',
+      pageLength: 10,
+    })
 
     posts.forEach(edge => {
       const id = edge.node.id

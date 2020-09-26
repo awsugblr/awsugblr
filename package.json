@@ -6,6 +6,8 @@
   "dependencies": {
     "bulma": "^0.7.0",
     "gatsby": "^2.0.0",
+    "gatsby-paginate": "^1.1.1",
+    "gatsby-plugin-feed": "^2.0.9",
     "gatsby-plugin-netlify": "^2.0.0",
     "gatsby-plugin-netlify-cms": "^3.0.0",
     "gatsby-plugin-react-helmet": "^3.0.0",
@@ -24,8 +26,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.4.1",
     "react-helmet": "^5.2.0",
-    "uuid": "^3.2.1",
-    "gatsby-plugin-feed": "^2.0.9"
+    "uuid": "^3.2.1"
   },
   "keywords": [
     "gatsby"
