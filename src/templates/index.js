@@ -1,12 +1,12 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import { Link, navigate } from 'gatsby'
 import Layout from '../components/Layout'
 
 export default class IndexPage extends React.Component {
   render() {
-    const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
+    const { pageContext } = this.props
+    const { group, index, first, last, pageCount } = pageContext
 
     return (
       <Layout>
@@ -15,8 +15,7 @@ export default class IndexPage extends React.Component {
             <div className="content">
               <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
             </div>
-            {posts
-              .map(({ node: post }) => (
+            {group.map(({ node: post }) => (
                 <div
                   className="content"
                   style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
@@ -39,6 +38,20 @@ export default class IndexPage extends React.Component {
                   </p>
                 </div>
               ))}
+              {pageCount > 1 &&
+                <ul className="pagination">
+                  {index > 1 &&
+                    <li><Link to={index === 2 ? `/` : `/${index - 1}`}>&larr; Prev</Link></li>
+                  }
+
+                  {Array.from({length: pageCount}, (_, i) => i + 1).map(i => (<li key={i}><Link activeClassName="active" to={i === 1 ? `/` : `/${i}`}>{i}</Link></li>)
+                  )}
+
+                  {pageCount > index &&
+                    <li><Link to={`/${index + 1}`}>Next &rarr;</Link></li>
+                  }
+                </ul>
+              }
           </div>
         </section>
       </Layout>
@@ -47,33 +60,6 @@ export default class IndexPage extends React.Component {
 }
 
 IndexPage.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
-  }),
+  data: PropTypes.object,
+  pageContext: PropTypes.object
 }
-
-export const pageQuery = graphql`
-  query IndexQuery {
-    allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] },
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
-    ) {
-      edges {
-        node {
-          excerpt(pruneLength: 400)
-          id
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            templateKey
-            date(formatString: "MMMM DD, YYYY")
-          }
-        }
-      }
-    }
-  }
-`
