@@ -1,12 +1,12 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, navigate } from 'gatsby'
+import { Link } from 'gatsby'
 import Layout from '../components/Layout'
 
 export default class IndexPage extends React.Component {
   render() {
     const { pageContext } = this.props
-    const { group, index, first, last, pageCount } = pageContext
+    const { group, index, pageCount } = pageContext
 
     return (
       <Layout>

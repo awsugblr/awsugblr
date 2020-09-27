@@ -17,10 +17,11 @@ const Navbar = () => (
         <Link className="navbar-item" to="/about">
           About
         </Link>
-        <a 
+        <a
           className="navbar-item"
           href="https://meetup.com/awsugblr/"
           target="_blank"
+          rel="noreferrer"
           >Meetup Page</a>
       </div>
       <div className="navbar-end">
@@ -28,6 +29,7 @@ const Navbar = () => (
           className="navbar-item"
           href="https://github.com/awsugblr/awsugblr"
           target="_blank"
+          rel="noreferrer"
         >
           <span className="icon">
             <img src={github} alt="Github" style={{ width: '150px' }} />
