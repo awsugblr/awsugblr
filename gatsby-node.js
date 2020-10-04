@@ -36,7 +36,7 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges
     createPaginatedPages({
-      edges: result.data.allMarkdownRemark.edges,
+      edges: posts,
       createPage: createPage,
       pageTemplate: 'src/templates/index.js',
       pageLength: 10,
