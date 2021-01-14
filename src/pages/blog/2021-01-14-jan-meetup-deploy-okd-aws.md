@@ -12,6 +12,8 @@ tags:
 
 Join the AWS User Group Bengaluru for a virtual meetup focusing on [OKD: The Community Distribution of Kubernetes](https://www.okd.io/) that powers Red Hat's [OpenShift](https://www.openshift.com/) and deploying OKD on AWS on 22nd Jan 2021. Our speaker for the meetup will be [Sreekar Achanta](https://www.linkedin.com/in/sreekarachanta/) who is a Site Reliability Engineer at Axelerant and an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/).
 
+![](/img/meetup/sreekar.png)
+
 Sreekar Achanta will go over the basics of Container Orchestration Engines, a quick look at different Container Orchestration Engines available and then focus on Open Shift and OKD and deploying OKD onAWS
 
 
