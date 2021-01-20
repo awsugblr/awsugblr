@@ -5,9 +5,8 @@ title: >-
 date: 2021-01-14
 description: >-
   Happy New Year and Welcome to 2021! Our regular meetups continues, virtually.
-tags:
-  - >-
-    #Meetup #Jan2021 #AWSUGBLR #LetsLearnTogether #k8s #Kubernetes
+tags: 
+  - Meetup Jan2021 AWSUGBLR LetsLearnTogether k8s Kubernetes
 ---
 
 Join the AWS User Group Bengaluru for a virtual meetup focusing on [OKD: The Community Distribution of Kubernetes](https://www.okd.io/) that powers Red Hat's [OpenShift](https://www.openshift.com/) and deploying OKD on AWS on 22nd Jan 2021. Our speaker for the meetup will be [Sreekar Achanta](https://www.linkedin.com/in/sreekarachanta/) who is a Site Reliability Engineer at Axelerant and an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/).
@@ -34,7 +33,7 @@ Friday, January 22, 2021 7:00 PM to 8:30 PM GMT+5:30. Calendar reminder links:
 
 ### Register for the meetup 
 
-Register for the event on [Meetup](https://www.meetup.com/awsugblr/events/275581564/). Livestream link will be updated soon.
+Register for the event on [Meetup](https://www.meetup.com/awsugblr/events/275581564/). Join us on YouTube [here](https://www.youtube.com/watch?v=2vGiumOtI9w)
 
 ## Join the community
 
