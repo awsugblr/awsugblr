@@ -37,7 +37,12 @@ Friday, January 22, 2021 7:00 PM to 8:30 PM GMT+5:30. Calendar reminder links:
 
 ### Recording and the Presentation 
 
-You can catch a video recording on Youtube [here](http://go.awsugblr.in/jan-21-meetup-video). Slides are available on [Slideshare](http://go.awsugblr.in/jan-21-meetup-slides)
+You can catch a video recording on Youtube [here](http://go.awsugblr.in/jan-21-meetup-video). 
+
+`youtube: 2vGiumOtI9w`
+
+
+Slides are available on [Slideshare](http://go.awsugblr.in/jan-21-meetup-slides)
 
 ## Join the community
 
