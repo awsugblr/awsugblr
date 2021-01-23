@@ -6,14 +6,19 @@ date: 2021-01-14
 description: >-
   Happy New Year and Welcome to 2021! Our regular meetups continues, virtually.
 tags: 
-  - Meetup Jan2021 AWSUGBLR LetsLearnTogether k8s Kubernetes
+  - Meetup 
+  - Jan2021
+  - AWSUGBLR 
+  - LetsLearnTogether
+  - k8s
+  - Kubernetes
 ---
 
 Join the AWS User Group Bengaluru for a virtual meetup focusing on [OKD: The Community Distribution of Kubernetes](https://www.okd.io/) that powers Red Hat's [OpenShift](https://www.openshift.com/) and deploying OKD on AWS on 22nd Jan 2021. Our speaker for the meetup will be [Sreekar Achanta](https://www.linkedin.com/in/sreekarachanta/) who is a Site Reliability Engineer at Axelerant and an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/).
 
 ![](/img/meetup/sreekar.png)
 
-Sreekar Achanta will go over the basics of Container Orchestration Engines, a quick look at different Container Orchestration Engines available and then focus on Open Shift and OKD and deploying OKD onAWS
+Sreekar Achanta will go over the basics of Container Orchestration Engines, a quick look at different Container Orchestration Engines available and then focus on Open Shift and OKD and deploying OKD on AWS
 
 
 ### About the Speaker
@@ -21,7 +26,6 @@ Bio: Sreekar Achanta is a Computer Science Engineer by choice and loves having t
 
 Follow Sreekar on [LinkedIn](https://www.linkedin.com/in/sreekarachanta/)
 
-Note: This is an Online Event - The YouTube link will be shared 60 mins before the event.
 
 ### Meetup Details
 
@@ -31,9 +35,9 @@ Friday, January 22, 2021 7:00 PM to 8:30 PM GMT+5:30. Calendar reminder links:
 - [iCal/Outlook/ICS](https://www.meetup.com/awsugblr/events/275581564/ical/Jan+2021+Meetup%253A+How+to+Deploy+OKD+on+AWS.ics)
 
 
-### Register for the meetup 
+### Recording and the Presentation 
 
-Register for the event on [Meetup](https://www.meetup.com/awsugblr/events/275581564/). Join us on YouTube [here](https://www.youtube.com/watch?v=2vGiumOtI9w)
+You can catch a video recording on Youtube [here](http://go.awsugblr.in/jan-21-meetup-video). Slides are available on [Slideshare](http://go.awsugblr.in/jan-21-meetup-slides)
 
 ## Join the community
 
