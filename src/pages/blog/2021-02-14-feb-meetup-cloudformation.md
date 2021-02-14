@@ -34,9 +34,13 @@ Friday, February 19, 2021 7:00 PM to 8:00 PM GMT+5:30. Calendar reminder links:
 - [iCal/Outlook/ICS](https://www.meetup.com/awsugblr/events/276066945/ical/Feb+2021+Meetup%253A+Know+the+magic+of+AWS+CloudFormation.ics)
 
 
-### Recording and the Presentation 
+### Livestream and the Recording
 
-The meetup will be streamed live on YouTube and we will share the link soon.
+The meetup will be livestreamed on [Youtube](https://www.youtube.com/watch?v=lG-8JV-aXqI). Join us, ask your questions and clear your doubts!
+
+The video recording will also be available on the same link.
+
+`youtube: lG-8JV-aXqI`
 
 ## Join the community
 
