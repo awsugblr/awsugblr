@@ -23,7 +23,7 @@ Avinash will cover CloudFormation and how it's going to help in AWS infra deploy
 
 Bio: 10+ Years of experience as Full Stack Developer. Also worked as an architect for building solutions and products to help for automation. Solution-oriented and hands-on technical utility player. Having experience of more than 4 years of experience in E commerce and finance in each domain. Experience in driving business automation, marketing using technology. Strong follower of open source technology. Used PHP, Python, AWS and Angular as technology stack to build products. I write blog at www.internetkatta.com
 
-Follow Sreekar on [Avinash Shashikant Dalvi](https://www.linkedin.com/in/avinash-dalvi-315b021a/).
+Follow [Avinash Shashikant Dalvi](https://www.linkedin.com/in/avinash-dalvi-315b021a/) on LinkedIn
 
 
 ### Meetup Details
