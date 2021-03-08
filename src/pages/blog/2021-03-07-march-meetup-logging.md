@@ -37,9 +37,9 @@ Follow [Lior Redlus](https://www.linkedin.com/in/redlus/) on LinkedIn.
 
 ### Meetup Details
 
-March 18 2021 7:00 PM to 8:00 PM GMT+5:30. Calendar reminder links:
+March 18 2021 6:30 PM to 8:00 PM GMT+5:30. Calendar reminder links:
 
-- [Google Calendar](http://www.google.com/calendar/event?location=Online+event&action=TEMPLATE&sprop=name%3AAWS+User+Group-Bengaluru&sprop=website%3Ahttps%3A%2F%2Fwww.meetup.com%2Fawsugblr%2Fevents%2F276810320&details=For+full+details%2C+including+the+address%2C+and+to+RSVP+see%3A+https%3A%2F%2Fwww.meetup.com%2Fawsugblr%2Fevents%2F276810320%0A%0AJoin+the+AWS+User+Group+Bengaluru+for+a+virtual+meetup+focusing+on+Best+Practices+for+Logging+on+18+...&text=March+2021+Meetup%3A+Best+Practices+for+Logging&dates=20210318T133000Z%2F20210318T153000Z)
+- [Google Calendar](http://www.google.com/calendar/event?location=Online+event&action=TEMPLATE&sprop=name%3AAWS+User+Group-Bengaluru&sprop=website%3Ahttps%3A%2F%2Fwww.meetup.com%2Fawsugblr%2Fevents%2F276810320&details=For+full+details%2C+including+the+address%2C+and+to+RSVP+see%3A+https%3A%2F%2Fwww.meetup.com%2Fawsugblr%2Fevents%2F276810320%0A%0AJoin+the+AWS+User+Group+Bengaluru+for+a+virtual+meetup+focusing+on+Best+Practices+for+Logging+on+18+...&text=March+2021+Meetup%3A+Best+Practices+for+Logging&dates=20210318T130000Z%2F20210318T143000Z)
 - [iCal/Outlook/ICS](https://www.meetup.com/awsugblr/events/276810320/ical/March+2021+Meetup%253A+Best+Practices+for+Logging.ics)
 
 
