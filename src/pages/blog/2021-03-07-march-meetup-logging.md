@@ -4,7 +4,6 @@ title: >-
   March 2021 Meetup: Best Practices for Logging
 date: 2021-03-08
 description: >-
-  Join the AWS User Group Bengaluru for a virtual meetup focusing on Best Practices for Logging
 tags: 
   - Meetup 
   - March2021
