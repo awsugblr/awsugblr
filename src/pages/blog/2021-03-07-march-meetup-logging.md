@@ -43,9 +43,10 @@ March 18 2021 6:30 PM to 8:00 PM GMT+5:30. Calendar reminder links:
 - [iCal/Outlook/ICS](https://www.meetup.com/awsugblr/events/276810320/ical/March+2021+Meetup%253A+Best+Practices+for+Logging.ics)
 
 
-### Livestream and the Recording
+### Join the meetup
 
-Live stream details will be shared shortly.
+Join us on [Zoom for the meetup](https://coralogix.zoom.us/j/97104456262?pwd=bno3NVRKNzU5a0NBTGZ1SUVIY3ZRQT09)
+
 
 ## Join the community
 
