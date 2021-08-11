@@ -13,7 +13,7 @@ tags:
   - MSK
 ---
 
-Hello all, after a brief break, the AWS User Group Bengaluru is back with our virtual meetups. For the next meet, our talk will be on Best Practices for Best Practices and Lessons Learned from Enterprise Level MSK (Kafka) deployment on 18 August, 2021. Our speakers for the meetup will be [Aruna Kalagnanam](https://www.linkedin.com/in/aruna-kalagnanam-a123454/) and [Gayatri Ramasubramaniyan](https://www.linkedin.com/in/gayatrir/) from Goldman Sachs
+Hello all, after a brief break, the AWS User Group Bengaluru is back with our virtual meetups. For the next meet, our talk will be on Best Practices for Best Practices and Lessons Learned from Enterprise Level MSK (Kafka) deployment on August 26, 2021. Our speakers for the meetup will be [Aruna Kalagnanam](https://www.linkedin.com/in/aruna-kalagnanam-a123454/) and [Gayatri Ramasubramaniyan](https://www.linkedin.com/in/gayatrir/) from Goldman Sachs
 
 Talk description:
 
@@ -35,8 +35,8 @@ Follow [Gayatri Ramasubramaniyan](https://www.linkedin.com/in/gayatrir/) on Link
 
 August 26 2021 6:30 PM to 8:00 PM GMT+5:30. Calendar reminder links:
 
-- [Google Calendar](http://www.google.com/calendar/event?location=Online+event&action=TEMPLATE&sprop=name%3AAWS+User+Group-Bengaluru&sprop=website%3Ahttps%3A%2F%2Fwww.meetup.com%2Fawsugblr%2Fevents%2F276810320&details=For+full+details%2C+including+the+address%2C+and+to+RSVP+see%3A+https%3A%2F%2Fwww.meetup.com%2Fawsugblr%2Fevents%2F276810320%0A%0AJoin+the+AWS+User+Group+Bengaluru+for+a+virtual+meetup+focusing+on+Best+Practices+for+Logging+on+18+...&text=March+2021+Meetup%3A+Best+Practices+for+Logging&dates=20210318T130000Z%2F20210318T143000Z)
-- [iCal/Outlook/ICS](https://www.meetup.com/awsugblr/events/276810320/ical/March+2021+Meetup%253A+Best+Practices+for+Logging.ics)
+- [Google Calendar](http://www.google.com/calendar/event?location=Online+event&action=TEMPLATE&sprop=name%3AAWS+User+Group-Bengaluru&sprop=website%3Ahttps%3A%2F%2Fwww.meetup.com%2Fawsugblr%2Fevents%2F280049870&details=For+full+details%2C+including+the+address%2C+and+to+RSVP+see%3A+https%3A%2F%2Fwww.meetup.com%2Fawsugblr%2Fevents%2F280049870%0A%0ATalk+description%3A%0A%0ATransaction+Banking+from+Goldman+Sachs+is+a+high+volume%2C+latency+sensitive+digita...&text=Best+Practices+and+Lessons+Learned+from+Enterprise+Level+MSK+%28Kafka%29+deployment&dates=20210826T130000Z%2F20210826T143000Z)
+- [iCal/Outlook/ICS](https://www.meetup.com/awsugblr/events/280049870/ical/Best+Practices+and+Lessons+Learned+from+Enterprise+Level+MSK+%2528Kafka%2529+deployment.ics)
 
 
 ### Livestream link
