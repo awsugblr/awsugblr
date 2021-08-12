@@ -33,10 +33,11 @@ Follow [Gayatri Ramasubramaniyan](https://www.linkedin.com/in/gayatrir/) on Link
 
 ### Meetup Details
 
-August 26 2021 6:30 PM to 8:00 PM GMT+5:30. Calendar reminder links:
-
-- [Google Calendar](http://www.google.com/calendar/event?location=Online+event&action=TEMPLATE&sprop=name%3AAWS+User+Group-Bengaluru&sprop=website%3Ahttps%3A%2F%2Fwww.meetup.com%2Fawsugblr%2Fevents%2F280049870&details=For+full+details%2C+including+the+address%2C+and+to+RSVP+see%3A+https%3A%2F%2Fwww.meetup.com%2Fawsugblr%2Fevents%2F280049870%0A%0ATalk+description%3A%0A%0ATransaction+Banking+from+Goldman+Sachs+is+a+high+volume%2C+latency+sensitive+digita...&text=Best+Practices+and+Lessons+Learned+from+Enterprise+Level+MSK+%28Kafka%29+deployment&dates=20210826T130000Z%2F20210826T143000Z)
-- [iCal/Outlook/ICS](https://www.meetup.com/awsugblr/events/280049870/ical/Best+Practices+and+Lessons+Learned+from+Enterprise+Level+MSK+%2528Kafka%2529+deployment.ics)
+- Register & RSVP on [Meetup](https://www.meetup.com/awsugblr/events/280049870/)
+- Date/time: August 26 2021 6:30 PM to 8:00 PM GMT+5:30.
+- Calendar reminder links:
+  - [Google Calendar](http://www.google.com/calendar/event?location=Online+event&action=TEMPLATE&sprop=name%3AAWS+User+Group-Bengaluru&sprop=website%3Ahttps%3A%2F%2Fwww.meetup.com%2Fawsugblr%2Fevents%2F280049870&details=For+full+details%2C+including+the+address%2C+and+to+RSVP+see%3A+https%3A%2F%2Fwww.meetup.com%2Fawsugblr%2Fevents%2F280049870%0A%0ATalk+description%3A%0A%0ATransaction+Banking+from+Goldman+Sachs+is+a+high+volume%2C+latency+sensitive+digita...&text=Best+Practices+and+Lessons+Learned+from+Enterprise+Level+MSK+%28Kafka%29+deployment&dates=20210826T130000Z%2F20210826T143000Z)
+  - [iCal/Outlook/ICS](https://www.meetup.com/awsugblr/events/280049870/ical/Best+Practices+and+Lessons+Learned+from+Enterprise+Level+MSK+%2528Kafka%2529+deployment.ics)
 
 
 ### Livestream link
