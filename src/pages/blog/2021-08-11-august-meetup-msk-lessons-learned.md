@@ -22,6 +22,8 @@ Transaction Banking from Goldman Sachs is a high volume, latency sensitive digit
 
 ### About the Speakers
 
+![](/img/meetup/msk-speakers.jpg)
+
 Aruna Kalagnanam is a Tech Fellow in the Transaction Banking Group in Goldman Sachs developing security solutions in the Platform Engineering Team. Aruna enjoys working on distributed systems for the cloud and her past experience has been primarily in developing application frameworks, API management platforms and solutions for Cloud platforms.
 
 Follow [Aruna Kalagnanam](https://www.linkedin.com/in/aruna-kalagnanam-a123454/) on LinkedIn.
