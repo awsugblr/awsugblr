@@ -42,8 +42,7 @@ Follow [Gayatri Ramasubramaniyan](https://www.linkedin.com/in/gayatrir/) on Link
 
 ### Livestream link
 
-Livestream link will be updated shortly. 
-
+Join us live on [YouTube](https://www.youtube.com/watch?v=Q7KmFUvAAdQ)
 
 ### Become a speaker
 
