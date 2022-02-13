@@ -15,7 +15,7 @@ You can reach us on any of the social media networks:
 * [Meetup](https://meetup.com/awsugblr)
 * [Twitter](https://twitter.com/awsugblr)
 * [Facebook](https://facebook.com/awsugblr)
-* [Telegram](https://t.me/awsugblr)
+* [Telegram](https://go.awsugblr.in/telegram-invite)
 * [LinkedIn](https://linkedin.com/in/awsugblr)
 * [Slack](https://go.awsugblr.in/slack_invite)
 
