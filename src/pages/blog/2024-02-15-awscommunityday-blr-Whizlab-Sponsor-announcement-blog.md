@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: >-
   Introducing Whizlabs: Our Distinguished Silver Sponsor for AWS Community Day Bangalore 2024!
-date: 2024-01-28T09:19:20.614Z
+date: 2024-02-15T09:19:20.614Z
 description: Announcing our Silver sponsor for AWS Community Day Bengaluru 2024.
 tags:
   - community day 2024
