@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: >-
-Introducing Our First Speaker for AWS Community Day Bangalore 2024!
+ Introducing Our First Speaker for AWS Community Day Bangalore 2024!
 date: 2024-02-19T09:19:20.614Z
 description: Announcing our First Speaker for AWS Community Day Bengaluru 2024.
 tags:
