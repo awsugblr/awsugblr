@@ -10,7 +10,7 @@ tags:
 
 AWS User Group Bengaluru (**AWSUGBLR**) thrilled to unveil the speaker for the upcoming **AWS Community Day Bangalore 2024** event! This year, AWSUGBLR is pleased to present an esteemed individual who personifies innovation, proficiency, and an ardent commitment to the realm of cloud computing. Without delay, allow us to introduce our distinguished speaker:
 
-Speaker: [Senthil Kumar](https://linkedin.com/in/senthilkumar-murugesan/), **Founder & CEO, Jiovio Healthcare**
+Speaker: [Senthil Kumar](https://linkedin.com/in/senthilkumar-murugesan/), **Founder & CEO, JioVio Healthcare**
 
 **Senthil** harbors a profound passion for leveraging technology to address real-world challenges through innovation. He has made significant strides in various domains including wireless networks and maternal healthcare, accumulating nearly **10 patents** in the process.
 
