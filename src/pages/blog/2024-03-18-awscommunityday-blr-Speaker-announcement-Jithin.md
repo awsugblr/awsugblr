@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: >-
  Introducing Jithin Jude Paul: Our Speaker for AWS Community Day Bangalore 2024!
-date: 2024-02-22T09:19:20.614Z
+date: 2024-03-18T09:19:20.614Z
 description: Announcing our Speaker for AWS Community Day Bengaluru 2024.
 tags:
   - community day 2024
